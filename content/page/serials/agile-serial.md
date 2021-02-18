@@ -3,6 +3,7 @@ title: "Bob Jiang的系列文章"
 date: 2020-04-01
 type: "page"
 url: /agile-serials/
+tags: [series]
 Summary: "Bob Jiang整理的系列文章"
 ---
 

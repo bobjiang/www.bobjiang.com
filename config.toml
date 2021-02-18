@@ -208,13 +208,18 @@ googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tra
     parent = "others"
     weight = 44  
 [[menu.main]]
+    identifier = "series"
+    name = "系列文章"
+    url = "/tags/series/"
+    weight = 5
+  [[menu.main]]
     identifier = "csm-online"
     name = "报名CSM"
     url = "https://appmopev1px9533.h5.xiaoeknow.com/v1/course/column/p_5f27d789e4b0822d26880e60?type=3"
-    weight = 5
+    weight = 6
 [[menu.main]]
     identifier = "about"
     name = "关于"
     url = "/me/"
-    weight = 6
+    weight = 7
     
