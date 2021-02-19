@@ -2,12 +2,12 @@
 title: "Remington Hu 胡家闳"
 date: 2017-02-16T11:23:03+08:00
 type: "page"
-url: /remington.html
+url: /remingtonhu/
+tags: [consulting, team]
 Summary: "专业敏捷培训 | 高质量敏捷咨询辅导"
 ---
 
 ![](/wp-content/uploads/introduction/remington-introduction1.png)
-
 ![](/wp-content/uploads/introduction/remington-introduction2.png)
 
 ## 敏捷辅导以及专家团队

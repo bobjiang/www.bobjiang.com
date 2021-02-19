@@ -3,6 +3,7 @@ title: "Scrum Master 系列文章"
 date: 2020-04-01
 type: "page"
 url: /scrummaster/
+tags: [series]
 Summary: "Bob Jiang整理的系列文章 - Scrum Master系列"
 ---
 

@@ -3,6 +3,7 @@ title: "规模化敏捷系列文章"
 date: 2020-04-01
 type: "page"
 url: /scaling-agile/
+tags: [series]
 Summary: "Bob Jiang整理的系列文章 - 规模化敏捷系列"
 ---
 

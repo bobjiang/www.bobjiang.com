@@ -2,6 +2,7 @@
 title: "关于Bob Jiang | 敏捷教练 | Scrum Master"
 date: 2011-06-04T13:39:03+08:00
 url: /me/
+tags: [me, about, self]
 type: "page"
 ---
 

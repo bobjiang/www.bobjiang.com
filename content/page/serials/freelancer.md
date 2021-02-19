@@ -3,6 +3,7 @@ title: "自由职业系列"
 date: 2020-04-01
 type: "page"
 url: /freelancer/
+tags: [series]
 Summary: "Bob Jiang整理的系列文章 - 自由职业系列"
 ---
 

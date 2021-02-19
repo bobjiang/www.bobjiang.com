@@ -1,7 +1,7 @@
 baseurl = "https://www.bobjiang.com"
 title = "Bob Jiang 敏捷开发培训 敏捷认证Scrum Master"
 languageCode = "zh-cn"
-paginate = "10" # Number of posts per page
+paginate = "8" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tracking id
@@ -91,9 +91,6 @@ googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tra
 [[Params.widgets.social.custom]]  
   title = "HiBlock社区"
   url = "https://www.hiblock.net/"
-[[Params.widgets.social.custom]]  
-  title = "Jacky Shen"
-  url = "https://www.jackyshen.com/"
 [[Params.widgets.social.custom]]  
   title = "RSG China"
   url = "https://scrumgatheringchina.com/"
@@ -212,7 +209,7 @@ googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tra
     name = "系列文章"
     url = "/tags/series/"
     weight = 5
-  [[menu.main]]
+[[menu.main]]
     identifier = "csm-online"
     name = "报名CSM"
     url = "https://appmopev1px9533.h5.xiaoeknow.com/v1/course/column/p_5f27d789e4b0822d26880e60?type=3"
@@ -222,4 +219,10 @@ googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tra
     name = "关于"
     url = "/me/"
     weight = 7
+  [[menu.main]]
+    identifier = "friends"
+    name = "友情链接"
+    url = "/tags/friends/"
+    parent = "about"
+    weight = 71
     

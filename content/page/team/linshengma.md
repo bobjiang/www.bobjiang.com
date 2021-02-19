@@ -2,7 +2,8 @@
 title: "Linsheng Ma 马林胜"
 date: 2017-02-16T11:23:03+08:00
 type: "page"
-url: /linshengma.html
+url: /linshengma/
+tags: [consulting, team]
 Summary: "专业敏捷培训 | 高质量敏捷咨询辅导"
 ---
 

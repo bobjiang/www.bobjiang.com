@@ -3,6 +3,7 @@ title: "OKR系列"
 date: 2020-04-01
 type: "page"
 url: /okr/
+tags: [series]
 Summary: "Bob Jiang整理的系列文章 - OKR系列"
 ---
 
