@@ -21,9 +21,11 @@ type: "page"
 Bob在下面推荐几个工具（都是我自己用过且付费的），使用我的推荐我会得到返点。
 
 强烈推荐翻墙利器ExpressVPN，我已经用过3年多没有掉过链子。
+
 - [ExpressVPN翻墙利器](https://www.expressrefer.com/refer-friend?referrer_id=9876412&utm_campaign=referrals&utm_medium=copy_link&utm_source=referral_dashboard)
 
 Youtube油管视频制作（准备）必备工具，可以帮你选择关键词，行业。即使免费的也有很强悍的功能。
+
 - [Tubebuddy油管视频制作必备](https://www.tubebuddy.com/bobjiang)
 
 ## 价值观
