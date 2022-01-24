@@ -19,58 +19,67 @@ CSM认证必须要参加两天的 **[CSM课程](https://appmopev1px9533.h5.xiaoe
 上课后，[BoB Jiang](/me)将上传学员信息到 [Scrum联盟官网](https://scrumalliance.org/)
 
 1. 学员邮箱将收到一封来自 [Scrum Alliance](https://scrumalliance.org/) 的邮件
-2. 登录自己的邮箱，会收到的一封通知考试的邮件，内容如下，点击 **`Initialize Account`** 这个链接进入[Scrum Alliance官网](https://scrumalliance.org/)。如下图
+2. 登录自己的邮箱，会收到的一封通知考试的邮件，内容如下图，点击“Create My Account”
 
-![csm exam email](/images/csm-exam-email-sample.png)
+![csm exam email](/images/csm11.png)
 
-3. 填邮件里的用户名，设置一个密码，提交即可。如下图（用户名是邮件内的 username ）
+3. 检查 First Name (名)， Last Name (姓)，以及 Country (国家) 是否正确，然后设定密码。
+如下图，(required)是必填
 
-![csm initialize account](/images/csm-init-acc.png)
+![csm init account](/images/csm12.png)
 
-4. 根据设置的密码登录进去后，填写标星的几个选项提交基本信息，非标星星的部分不用管。如图（注意 first name是名字，last name是姓）
+4. 在下页中会提示您将收到一些邮件提醒，点击“Continue to complete”
 
-![csm account basic info](/images/csm-account-basic.png)
+![](/images/csm13.png)
 
-5. 提交信息后，会进到考试预备页面，点击蓝色的按钮进入考试语言选择页面。(同意CSM的证书协议)
+5. 下一页提示邮件的设置，根据需要选择接收哪些邮件提醒。（默认全不选）
+点击 “Submit”
 
-![csm exam preparation](/images/csm-exam-1.png)
+![](/images/csm14.png)
 
-6. 选择考试语言，准备考试，推荐选择简体中文。
+6. 点击 "Go to Login and Dashboard"
 
-![csm exam language](/images/csm-exam-2.png)
+![](/images/csm15.png)
 
-7. 选择考试语言后，进入考试规则说明页面。
+7. 登录Scrum联盟的仪表盘 Dashboard （用刚才设定好的密码，用户名是邮件中）
 
-![csm exam entry](/images/csm-exam-3.png)
+![](/images/csm16.png)
 
-8. 考试规则说明。
+8. 登录后，检查信息设置是否正确（一般不需要修改），拉到最下面点击 "Save"
 
-![csm exam test](/images/csm-exam-4.png)
+![](/images/csm17.png)
 
-9. 考试规则说明三
+9. Personal Data 这个页面一般不需要修改。可以根据自己的需要上传头像，设置个人的链接等。
 
-![csm exam test](/images/csm-exam-5.png)
+![](/images/csm18.png)
 
-10. 正式开始考试啦，考试过程忽略…………
+10. 账户更新完毕后，返回到 Dashboard, 然后点击“Activate My Certified ScrumMaster License” (大大的蓝色按钮)
 
-![csm exam test](/images/csm-exam-6.png)
+![](/images/csm19.png)
 
-11. 考试结束后，立刻会获得是否通过的结果。
+11. 点击“I Accept the agreement” ， 同意协议
 
-![csm exam result](/images/csm-exam-result.png)
+![](/images/csm20.png)
 
-## 打印证书流程
+12. 选择考试语言，比如“简体中文”，然后点击“take the test”
 
-1. 登录 [Scrum联盟官网](https://scrumalliance.org/)，用邮件中的用户名和刚才初始化的密码
-2. 从个人中心 --> My Dashboard --> Download Certificate --> 
+![](/images/csm21.png)
 
-![csm my dashboard](/images/csm-dashboard.png)
+13. 请仔细阅读考试说明，点击“Start this test”，
+![](/images/csm22.png)
 
-3. 选择A4 ，点击按钮，下载证书。
+14. 再次阅读考试说明，点击“Continue”
 
-![csm print cert](/images/csm-print.png)
+![](/images/csm23.png)
 
-4. 下载好的CSM证书（示例）
+15. 考试结束后，当时出考试结果。参见“Test Result: Pass with xxx”  
+Pass代表通过考试。考试通过后，可以点击 “Download Certificate”进行证书的下载和打印
+![](/images/csm31.png)
+
+16. 证书下载与打印。证书下载的时候，填写的名字是证书上显示的名字，和账号内设置的名字无关。
+![](/images/csm32.png)
+
+17. 下载好的CSM证书（示例）
 
 ![csm print cert](/images/csm-sample.png)
 
@@ -81,9 +90,7 @@ CSM认证必须要参加两天的 **[CSM课程](https://appmopev1px9533.h5.xiaoe
 3. 本人正在撰写敏捷实战专栏，欢迎感兴趣的同学关注加入敏捷圈子共同学习提高：
 [https://cloud.tencent.com/developer/user/6817560/articles](https://cloud.tencent.com/developer/user/6817560/articles)
 
-最后感谢 Tony 同学的整理。
-
-
+最后感谢 Hubert & Tony 同学的整理。
 
 
 # 敏捷辅导以及专家团队
