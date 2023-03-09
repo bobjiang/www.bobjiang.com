@@ -218,14 +218,19 @@ googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tra
     url = "https://appmopev1px9533.h5.xiaoeknow.com/v1/course/column/p_5f27d789e4b0822d26880e60?type=3"
     weight = 6
 [[menu.main]]
+    identifier = "forum"
+    name = "论坛"
+    url = "https://github.com/bobjiang/bob-n-frens/discussions"
+    weight = 7
+[[menu.main]]
     identifier = "about"
     name = "关于"
     url = "/me/"
-    weight = 7
+    weight = 8
   [[menu.main]]
     identifier = "friends"
     name = "友情链接"
     url = "/tags/friends/"
     parent = "about"
-    weight = 71
+    weight = 81
     
