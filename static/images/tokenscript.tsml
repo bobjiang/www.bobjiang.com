@@ -85,7 +85,8 @@ p.light {
 
 		<ts:viewContent xmlns="http://www.w3.org/1999/xhtml" name="hello">
 			
-		<h1>Hello World</h1></ts:viewContent>
+		<h1>Hello World</h1>
+<a href="https://www.bobjiang.com/me">About Bob</a></ts:viewContent>
 
 		<ts:card name="Info" origins="MySmartToken" type="token">
 			<ts:label>
