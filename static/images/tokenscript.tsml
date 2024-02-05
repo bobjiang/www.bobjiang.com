@@ -88,6 +88,11 @@ p.light {
 		<h1>Hello World</h1>
 <a href="https://www.bobjiang.com/me">About Bob</a></ts:viewContent>
 
+		<ts:viewContent xmlns="http://www.w3.org/1999/xhtml" name="about">
+			
+		<h1>Who is Bob</h1>
+<a href="https://www.bobjiang.com/me">About Bob</a></ts:viewContent>
+
 		<ts:card name="Info" origins="MySmartToken" type="token">
 			<ts:label>
 				<ts:string xml:lang="en">Info</ts:string>
@@ -103,6 +108,15 @@ p.light {
 			</ts:label>
 			<ts:view xmlns="http://www.w3.org/1999/xhtml" urlFragment="hello" xml:lang="en">
 				<ts:viewContent name="hello"/>
+			</ts:view>
+		</ts:card>
+
+		<ts:card name="About" origins="MySmartToken" type="token">
+			<ts:label>
+				<ts:string xml:lang="en">About</ts:string>
+			</ts:label>
+			<ts:view xmlns="http://www.w3.org/1999/xhtml" urlFragment="about" xml:lang="en">
+				<ts:viewContent name="about"/>
 			</ts:view>
 		</ts:card>
 
