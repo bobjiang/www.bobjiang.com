@@ -1,7 +1,7 @@
 baseurl = "https://www.bobjiang.com"
 title = "Bob Jiang 敏捷开发培训 敏捷认证Scrum Master"
 languageCode = "zh-cn"
-paginate = "8" # Number of posts per page
+pagination.pagerSize = "8" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tracking id
