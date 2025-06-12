@@ -1,11 +1,15 @@
 baseurl = "https://www.bobjiang.com"
 title = "Bob Jiang 敏捷开发培训 敏捷认证Scrum Master"
 languageCode = "zh-cn"
-pagination.pagerSize = "8" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tracking id
 
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
+  
 [Author] # Used in authorbox
   name = "Bob Jiang"
   bio = "Bob Jiang是全球认证的Scrum培训师（Certified Scrum Trainer），专注于Scrum培训和敏捷教练培养，帮助企业与个人取得更好的成果！[更多个人介绍](/me/)"
