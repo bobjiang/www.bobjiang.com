@@ -3,10 +3,23 @@
 		{{ partial "logo.html" . }}
 		{{ partial "menu.html" . }}
 	</div>
-	<script async src="https://www.dteam.top/js/floating-chat-widget.js"></script>
-<script>
-  window.FloatingChatWidget.mount({
-    siteCode: "e87464e4-dc06-471d-bd29-b2cdf40749da",
-  });
-</script>
+<script
+	async
+	src="https://www.dteam.top/js/floating-chat-widget.js"
+	id="chat-widget-script"
+  ></script>
+  <script>
+	const chatWidgetScript = document.getElementById("chat-widget-script");
+  
+	function initializeChatWidget() {
+	  window.FloatingChatWidget.mount({
+		siteCode: "e87464e4-dc06-471d-bd29-b2cdf40749da",
+	  });
+	}
+  
+	chatWidgetScript.onload = initializeChatWidget;
+	chatWidgetScript.onerror = function () {
+	  console.error("Failed to load the chat widget script.");
+	};
+  </script>
 </header>
