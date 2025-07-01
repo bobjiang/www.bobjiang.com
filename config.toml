@@ -84,6 +84,9 @@ googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tra
   title = "Telegram Group"
   url = "https://t.me/bobjiang123"
 [[Params.widgets.social.custom]]
+  title = "老胡茶馆"
+  url = "https://www.dteam.top/"
+[[Params.widgets.social.custom]]
   title = "敏捷开发学习资源大全"
   url = "https://www.agile123.net/"
 [[Params.widgets.social.custom]]  
