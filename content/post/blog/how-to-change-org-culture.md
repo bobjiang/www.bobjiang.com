@@ -1,4 +1,5 @@
 ---
+description: "如何改变组织文化:文化变革的系统方法论。分析文化形成机制、变革阻力来源与推动策略,实现从传统向敏捷文化的转型。"
 title: 如何改变组织文化
 date: 2020-05-21
 url: /how-to-change-organization-culture/

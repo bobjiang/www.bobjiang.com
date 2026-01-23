@@ -1,4 +1,5 @@
 ---
+description: "GitCoin Grants第8轮资助:开源项目可持续发展新模式。介绍二次方融资机制、DAO治理实践与开源激励创新,推动Web3公共物品建设。"
 title: Gitcoin第八轮支持活动（如何申请资金支持）
 date: 2020-12-01
 url: /gitcoin-grants-round-8/

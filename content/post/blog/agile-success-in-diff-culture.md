@@ -1,4 +1,5 @@
 ---
+description: "跨文化敏捷成功案例:东西方文化差异下的敏捷落地。分析文化背景对敏捷实践的影响,学习如何因地制宜适配敏捷方法论。"
 title: 如何在各种文化背景下成功敏捷
 date: 2020-05-22
 url: /success-agile-in-diff-culture/

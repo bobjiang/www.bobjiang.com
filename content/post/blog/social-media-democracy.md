@@ -1,4 +1,5 @@
 ---
+description: "社交媒体与民主:数字时代的公民参与。探讨社交平台对公共讨论、意见表达、决策透明的影响,理解Web2.0时代的社会变革。"
 title: 社交网络的黑暗心理学
 date: 2020-01-10
 url: /social-media-democracy/

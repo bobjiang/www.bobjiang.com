@@ -1,4 +1,5 @@
 ---
+description: "Agile123.net平台上线:敏捷资源聚合门户。一站式敏捷学习平台介绍,涵盖Scrum培训、社区活动、知识库等丰富资源。"
 title: Agile123.net上线啦 | 敏捷学习资源大全
 date: 2020-12-25
 url: /agile123-net-launch/

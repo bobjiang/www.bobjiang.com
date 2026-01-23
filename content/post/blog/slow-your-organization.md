@@ -1,4 +1,5 @@
 ---
+description: "放慢组织节奏的智慧:可持续发展与团队健康。探讨快速增长陷阱、组织节奏管理与长期价值创造,学习如何在VUCA环境下保持战略定力。"
 title: 当心陷阱会拖慢您的组织敏捷性
 date: 2017-08-20
 url: /pitfall-of-agile-slow-down-organization/

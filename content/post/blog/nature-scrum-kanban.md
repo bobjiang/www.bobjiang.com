@@ -1,4 +1,5 @@
 ---
+description: "Scrum与看板的本质:两种敏捷方法的异同分析。对比框架设计理念、适用场景、实施要点,选择适合团队的敏捷实践路径。"
 title: Scrum的本质与看板方法的本质
 date: 2017-04-09
 url: /essential-scrum-and-kanban/

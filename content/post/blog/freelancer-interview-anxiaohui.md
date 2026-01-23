@@ -1,4 +1,5 @@
 ---
+description: "自由职业者访谈:安小慧的独立咨询之路。分享从企业教练到独立顾问的转型经验、客户开发策略与职业发展心得。"
 title: 自由职业者访谈录：对话图书出版达人/职业规划师/程序员安晓辉
 date: 2020-04-17
 url: /freelancer-interview-anxiaohui/

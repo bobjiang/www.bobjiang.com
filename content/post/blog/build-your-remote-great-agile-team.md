@@ -1,4 +1,5 @@
 ---
+description: "打造卓越远程敏捷团队:分布式协作最佳实践。涵盖工具选择、沟通机制、文化建设等关键要素,提升远程团队效能与凝聚力。"
 title: 如何打造优秀的远程敏捷团队（9步）
 date: 2020-04-22
 url: /build-your-remote-great-agile-team/
