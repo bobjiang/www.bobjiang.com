@@ -2,6 +2,7 @@
 title: 如何使用DAOstack
 date: 2019-06-18
 url: /how-to-onboard-dao/
+description: "DAOstack入门完整指南：从Metamask配置到加入去中心化自治组织DAO的完整流程。学习使用Alchemy平台参与实验性DAO，掌握Web3与DAO基础技能。"
 tags: [daostack, dao]
 ---
 

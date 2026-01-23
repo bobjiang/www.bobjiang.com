@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin动机论：前进还是逃跑？深入分析正向驱动与负向规避两种动机模式，理解不同动力源对行为模式与成果的深远影响。"
 title: 前进还是逃跑
 date: 2019-07-20
 url: /toward-or-away/

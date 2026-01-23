@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin媒体观察：媒体接下来会带我们去往哪里？前瞻性分析媒体演变趋势与社会影响，理解信息传播格局变化对个人与组织的机遇挑战。"
 title: 媒体接下来会带我们去往哪里
 date: 2019-07-23
 url: /where-will-the-media-take-us-next/

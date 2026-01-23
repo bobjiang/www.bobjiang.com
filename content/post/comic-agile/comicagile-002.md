@@ -2,6 +2,7 @@
 title: "敏捷漫画 002"
 date: "2020-07-06"
 url: /comicagile/02/distributed-hoarding/
+description: "敏捷漫画：分布式囤积与远程协作。COVID-19疫情下Scrum团队远程Sprint Planning的挑战，探讨线上协作新常态下的敏捷实践适应之道。"
 tags: [敏捷漫画, comic agile]
 ---
 

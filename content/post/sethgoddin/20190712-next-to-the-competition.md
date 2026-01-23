@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin营销哲学：竞争就在身边的启示。重新审视竞争格局与差异化定位，理解如何在红海中找到蓝海，创造独特价值主张。"
 title: 竞争就在身边
 date: 2019-07-12
 url: /next-to-the-competition/

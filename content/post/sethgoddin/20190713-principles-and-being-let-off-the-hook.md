@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin原则论：原则与正在摆脱困境。探讨坚守原则与灵活变通的平衡艺术，理解在压力下如何保持价值观完整性同时做出明智选择。"
 title: 原则和正在摆脱困境
 date: 2019-07-13
 url: /principles-and-being-let-off-the-hook/

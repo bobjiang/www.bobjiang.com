@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin生活智慧：根据天气判断一天的谬误。探讨外部环境与内在价值的关系，理解如何超越表象评判构建真正有意义的标准。"
 title: 根据天气判断一天
 date: 2019-07-15
 url: /judging-a-day-by-the-weather/

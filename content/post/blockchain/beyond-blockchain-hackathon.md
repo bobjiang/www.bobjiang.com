@@ -2,6 +2,7 @@
 title: Beyond Blockchain 黑客马拉松
 date: 2019-06-18
 url: /beyond-blockchain-hackathon/
+description: "Gitcoin与ConsenSys Labs联合举办Beyond Blockchain黑客马拉松：为期3周虚拟赛事，67000美元奖金，聚焦区块链在媒体、医疗、DeFi领域的业务与社会变革应用。"
 tags: [hackathon, blockchain]
 ---
 

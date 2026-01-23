@@ -1,4 +1,5 @@
 ---
+description: "敏捷漫画：为什么要敏捷(Why of Going Agile)？诙谐呈现组织敏捷转型动机与现实的差距，深度反思敏捷实践的初心与执行偏差。"
 title: "敏捷漫画 005"
 date: "2020-07-09"
 url: /comicagile/05/why-of-going-agile/

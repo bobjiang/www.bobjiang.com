@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin创新观：现在有了食谱的陷阱。反思标准化流程与创造性思维的张力，理解何时遵循最佳实践何时打破常规创新。"
 title: 现在有了食谱....
 date: 2019-07-14
 url: /now-with-recipes/

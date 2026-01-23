@@ -2,6 +2,7 @@
 title: NEAR 黑客马拉松 (Gitcoin)
 date: 2020-05-05
 url: /near-hackathon-gitcoin/
+description: "NEAR Protocol Ready Layer One黑客马拉松：Gitcoin虚拟赛事，在下一代区块链协议上构建项目。5步赢得1000美元奖金，探索Layer 1区块链创新应用。"
 tags: [hackathon, blockchain, gitcoin]
 ---
 

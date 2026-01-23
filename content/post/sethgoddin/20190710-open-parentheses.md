@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin营销智慧：打开括号的艺术。探讨沟通、表达与思维中的留白与延展，理解如何在对话中创造开放空间，激发更深层次的互动与思考。"
 title: 打开括号
 date: 2019-07-10
 url: /open-parentheses/

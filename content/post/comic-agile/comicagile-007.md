@@ -1,4 +1,5 @@
 ---
+description: "敏捷漫画：社交距离(Social Distancing)下的敏捷实践。疫情时代远程办公与敏捷协作的平衡艺术，探讨物理隔离对Scrum团队协作的影响与应对。"
 title: "敏捷漫画 007"
 date: "2020-07-11"
 url: /comicagile/07/social-distancing/

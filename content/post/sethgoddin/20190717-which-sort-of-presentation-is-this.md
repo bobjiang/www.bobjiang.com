@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin演讲艺术：这是哪种演示？探讨不同演示类型的本质差异与适用场景，理解如何根据目标受众选择最有效的沟通方式。"
 title: 这是哪种演示？
 date: 2019-07-17
 url: /which-sort-of-presentation-is-this/

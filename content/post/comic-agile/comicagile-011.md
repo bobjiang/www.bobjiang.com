@@ -1,4 +1,5 @@
 ---
+description: "敏捷漫画：团队问题(Team Problems)的本质。诙谐揭示敏捷团队常见功能障碍与人际挑战，理解团队健康度对敏捷成功的决定性影响。"
 title: "敏捷漫画 011"
 date: "2020-08-08"
 url: /comicagile/11/team-problems/

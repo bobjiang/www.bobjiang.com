@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin思维实验：三个愿望的智慧。通过经典假设探讨优先级排序与价值选择，理解如何在有限资源下做出最有意义的决策。"
 title: 三个愿望
 date: 2019-07-24
 url: /three-wishes/

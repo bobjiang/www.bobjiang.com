@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin风险管理：两种系统的风险对比。探讨保险思维在决策中的应用，理解不同风险管理策略的适用场景与深层逻辑。"
 title: 两种系统的风险
 date: 2019-07-22
 url: /two-kinds-of-insurance/

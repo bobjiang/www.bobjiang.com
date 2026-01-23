@@ -2,6 +2,7 @@
 title: 保护隐私的在线黑客马拉松
 date: 2020-06-15
 url: /privacy-hackathon-gitcoin/
+description: "Gitcoin隐私保护虚拟黑客松：探索Web3数据所有权与隐私解决方案。25000美元奖池，Ocean Protocol、Keep Network等8大赞助商，聚焦个人数据时代的去中心化创新。"
 tags: [hackathon, blockchain]
 ---
 

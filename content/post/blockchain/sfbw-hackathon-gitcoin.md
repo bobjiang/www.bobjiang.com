@@ -2,6 +2,7 @@
 title: 旧金山区块链周黑客马拉松
 date: 2020-06-15
 url: /sfbw-hackathon-gitcoin/
+description: "SF区块链周Unitize虚拟黑客马拉松：Gitcoin与SFBW合作，聚焦DeFi与游戏领域区块链长期采用。Tellor、Terra、Chainlink等赞助商，丰厚奖金与导师指导。"
 tags: [hackathon, blockchain]
 ---
 

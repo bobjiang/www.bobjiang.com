@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin自我探索：你被什么所吸引？深入剖析内在动机与兴趣驱动力，理解吸引力背后的深层需求，找到真正值得追求的方向。"
 title: 你被什么所吸引？
 date: 2019-07-15
 url: /what-are-you-drawn-to/

@@ -1,4 +1,5 @@
 ---
+description: "敏捷漫画：Sprint待办列表(Sprint Backlog)的困境。幽默展现Scrum Sprint Planning中任务分解与承诺的经典场景，理解Sprint Backlog管理的关键要点。"
 title: "敏捷漫画 008"
 date: "2020-07-12"
 url: /comicagile/08/the-sprint-backlog/

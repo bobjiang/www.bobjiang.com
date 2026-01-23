@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin行为洞察：跟随的风险与机会。探讨模仿行为、从众心理与独立思考的平衡，理解何时跟随潮流何时独辟蹊径。"
 title: 跟随
 date: 2019-07-21
 url: /tailgating/

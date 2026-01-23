@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin洞察：人人都在某处划条线。探讨个人价值观边界与选择的本质，理解标准设定对决策与行为的深远影响，找到属于自己的底线。"
 title: 人人都在某处划条线
 date: 2019-07-11
 url: /everyone-draws-the-line-somewhere/

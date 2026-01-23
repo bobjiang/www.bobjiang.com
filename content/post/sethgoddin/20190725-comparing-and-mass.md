@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin营销洞察：比较百分比和大多数的陷阱。探讨数据解读与统计思维的常见误区，理解如何正确理解数字背后的真实含义避免误导。"
 title: 比较百分比和大多数
 date: 2019-07-25
 url: /comparing-and-mass/

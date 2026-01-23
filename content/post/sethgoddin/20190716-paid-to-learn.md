@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin职业发展：付费学习的价值思辨。重新定义学习投资与职业成长的关系，理解持续学习如何转化为长期竞争优势与价值创造。"
 title: 付费学习
 date: 2019-07-16
 url: /paid-to-learn/

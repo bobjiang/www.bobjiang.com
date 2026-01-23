@@ -2,6 +2,7 @@
 title: "敏捷漫画 001"
 date: "2020-07-02"
 url: /comicagile/01/program-board/
+description: "敏捷漫画：项目集白板(Program Board)的真实写照。PI Planning后团队依赖关系可视化的挑战与改进建议，深入理解敏捷转型中可视化与持续改进的重要性。"
 tags: [敏捷漫画, comic agile]
 ---
 

@@ -1,4 +1,5 @@
 ---
+description: "敏捷漫画：燃尽图(Burned Down)背后的真实故事。幽默解读Scrum团队燃尽图使用中的常见问题与误区，理解敏捷度量工具的正确应用方式。"
 title: "敏捷漫画 004"
 date: "2020-07-08"
 url: /comicagile/04/burned-down/

@@ -2,6 +2,7 @@
 title: "敏捷漫画 003"
 date: "2020-07-07"
 url: /comicagile/03/skateboards/
+description: "敏捷漫画：MVP滑板隐喻的误用陷阱。Henrik Kniberg经典滑板演变理论在实践中的挑战，理解最小可行产品的正确实施与迭代开发本质。"
 tags: [敏捷漫画, comic agile]
 ---
 

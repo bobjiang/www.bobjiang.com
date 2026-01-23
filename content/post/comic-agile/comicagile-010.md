@@ -1,4 +1,5 @@
 ---
+description: "敏捷漫画：终极对决(The Showdown)。敏捷方法论之争的幽默演绎，深入理解不同敏捷框架选择背后的组织文化与实践适配性问题。"
 title: "敏捷漫画 010"
 date: "2020-07-26"
 url: /comicagile/10/the-showdown/

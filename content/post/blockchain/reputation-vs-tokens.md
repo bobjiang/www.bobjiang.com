@@ -2,6 +2,7 @@
 title: Reputation vs Tokens 声誉和代币
 date: 2019-06-18
 url: /reputation-vs-tokens/
+description: "DAOstack声誉系统深度解析：声誉vs代币的本质区别、可替代性、投票购买防御机制。理解去中心化治理中声誉的不可转让性与可销毁性如何限制贿选行为。"
 tags: [daostack, dao, reputation]
 ---
 

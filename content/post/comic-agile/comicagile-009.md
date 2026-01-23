@@ -1,4 +1,5 @@
 ---
+description: "敏捷漫画：居家办公与育儿(Homeschooling)的双重挑战。疫情下敏捷团队成员工作生活平衡的真实写照，理解远程工作环境中的人性化管理。"
 title: "敏捷漫画 009"
 date: "2020-07-25"
 url: /comicagile/09/homeschooling/

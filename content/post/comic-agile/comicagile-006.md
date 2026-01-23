@@ -1,4 +1,5 @@
 ---
+description: "敏捷漫画：就叫它看板(Kanban)吧！揭示敏捷方法论名称游戏背后的实质问题，理解Scrum与Kanban的本质差异与随意混用的陷阱。"
 title: "敏捷漫画 006"
 date: "2020-07-09"
 url: /comicagile/06/lets-call-it-kanban/

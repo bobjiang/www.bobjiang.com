@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin服务哲学：吱吱作响的轮子。探讨客户反馈、抱怨与服务改进的关系，理解如何平衡不同声音找到真正值得解决的问题。"
 title: 吱吱作响的轮子
 date: 2019-07-18
 url: /squeaky-wheels/

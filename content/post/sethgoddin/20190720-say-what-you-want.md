@@ -1,4 +1,5 @@
 ---
+description: "Seth Godin沟通之道：说出你想要什么。探讨清晰表达与有效沟通的重要性，理解如何消除猜测直接传达需求实现高效协作。"
 title: 说出你想要什么
 date: 2019-07-20
 url: /say-what-you-want/
