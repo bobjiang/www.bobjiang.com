@@ -1,7 +1,7 @@
 ---
-Title: 知行合一的敏捷实践 来自道富银行 杨贵的分享实录
-Date: 2020-04-20
-URL: /agile-practice-zhixingheyi/
+title: 知行合一的敏捷实践 来自道富银行 杨贵的分享实录
+date: 2020-04-20
+url: /agile-practice-zhixingheyi/
 tags: [知行合一, 敏捷实践, 道富银行]
 ---
 

@@ -1,7 +1,7 @@
 ---
-Title: 敏捷的潘多拉魔盒 | 敏捷家分享008
-Date: 2020-05-10
-URL: /agile-pandox-008/
+title: 敏捷的潘多拉魔盒 | 敏捷家分享008
+date: 2020-05-10
+url: /agile-pandox-008/
 tags: [agile, 敏捷家]
 ---
 

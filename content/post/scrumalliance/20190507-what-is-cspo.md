@@ -1,7 +1,9 @@
 ---
-Title: 什么是Certified Scrum Product Owner (CSPO)
-Date: 2012-05-05
-URL: /what-is-cspo/
+title: 什么是Certified Scrum Product Owner (CSPO)
+date: 2012-05-05
+description: "CSPO认证介绍：Certified Scrum Product Owner是什么、培训内容、职业价值。了解产品负责人认证的完整信息。"
+url: /what-is-cspo/
+author: "Bob Jiang"
 tags: [scrum, certification]
 ---
 

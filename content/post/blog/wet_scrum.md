@@ -1,8 +1,10 @@
 ---
-Title: "“潮湿的”Scrum——Wet Scrum （译）"
-Date: "2013-12-05"
-URL: /wet-scrum-2013/
+title: "“潮湿的”Scrum——Wet Scrum （译）"
+date: "2013-12-05"
+description: "湿Scrum(Wet Scrum)：形式敏捷的常见症状。识别和避免流于形式的Scrum实践，回归敏捷本质。"
+url: /wet-scrum-2013/
 Summary: ""
+author: "Bob Jiang"
 tags: []
 ---
 

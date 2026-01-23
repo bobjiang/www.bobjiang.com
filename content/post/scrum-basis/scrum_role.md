@@ -1,7 +1,10 @@
 ---
 title: "Scrum角色-Scrum入门基础系列"
 date: "2014-11-12"
-url: /scrum_role/
+description: "Scrum三大角色深度解析：产品负责人、Scrum Master、开发团队。理解每个角色的职责、协作方式和成功要素。"
+url: /scrum-role/
+aliases: [/scrum_role/]
+author: "Bob Jiang"
 tags: [Scrum, Scrum入门]
 ---
 

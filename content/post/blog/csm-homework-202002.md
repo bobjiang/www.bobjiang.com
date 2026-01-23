@@ -1,7 +1,9 @@
 ---
-Title: 敏捷交付 - Certified ScrumMaster 课后作业记录
-Date: 2020-12-23
-URL: /agile-delivery-csm-homework/
+title: 敏捷交付 - Certified ScrumMaster 课后作业记录
+date: 2020-12-23
+description: "CSM认证培训作业2020年2月：学员课后练习题和答案解析。巩固Scrum框架知识，加深对CSM核心概念的理解。"
+url: /agile-delivery-csm-homework/
+author: "Bob Jiang"
 tags: [agile, scrum, csm, certification]
 ---
 

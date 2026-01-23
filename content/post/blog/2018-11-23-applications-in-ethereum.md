@@ -1,7 +1,7 @@
 ---
-Title: Applications in Ethereum
-Date: 2018-11-23   
-URL: /applications-in-ethereum/ 
+title: Applications in Ethereum
+date: 2018-11-23   
+url: /applications-in-ethereum/ 
 tags: [blockchain, ethereum, application]
 ---
 

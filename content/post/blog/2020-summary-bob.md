@@ -1,7 +1,7 @@
 ---
-Title: Bob的2020
-Date: 2020-12-31
-URL: /bob-2020/
+title: Bob的2020
+date: 2020-12-31
+url: /bob-2020/
 tags: [2020, 总结]
 ---
 

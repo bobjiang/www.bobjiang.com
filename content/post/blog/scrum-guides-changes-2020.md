@@ -1,7 +1,9 @@
 ---
-Title: Scrum指南最新变化 2020版本
-Date: 2020-11-03
-URL: /scrum-guides-changes-2020/
+title: Scrum指南最新变化 2020版本
+date: 2020-11-03
+description: "Scrum指南2020更新解读：新版Scrum指南的重要变化。理解Scrum框架的最新演进和简化。"
+url: /scrum-guides-changes-2020/
+author: "Bob Jiang"
 tags: [Scrum, Scrum guides, Scrum指南]
 ---
 

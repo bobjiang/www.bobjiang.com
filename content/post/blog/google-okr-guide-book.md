@@ -1,7 +1,9 @@
 ---
-Title: 谷歌OKR指导手册 (译)
-Date: 2020-04-22
-URL: /google-okr-guide-book/
+title: 谷歌OKR指导手册 (译)
+date: 2020-04-22
+description: "Google OKR指南：Google官方OKR实践手册。学习硅谷最成功公司的目标管理方法。"
+url: /google-okr-guide-book/
+author: "Bob Jiang"
 tags: [okr, google, guide book]
 ---
 

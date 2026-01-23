@@ -1,7 +1,9 @@
 ---
-Title: 关于交付价值的一点思考
-Date: 2020-04-29
-URL: /delivery-value/
+title: 关于交付价值的一点思考
+date: 2020-04-29
+description: "交付价值：敏捷开发的终极目标。如何通过Scrum框架持续交付客户价值，避免交付物陷阱。"
+url: /delivery-value/
+author: "Bob Jiang"
 tags: [价值, Ron Jeffries]
 ---
 

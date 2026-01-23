@@ -1,7 +1,9 @@
 ---
-Title: 不清晰的完成-敏捷坑人系列
-Date: 2017-11-09 13:00:00
-URL: /not-clear-dod-agile-is-bad/
+title: 不清晰的完成-敏捷坑人系列
+date: 2017-11-09 13:00:00
+description: "不清晰的完成定义：DoD模糊导致的质量问题。如何制定明确可执行的完成标准。"
+url: /not-clear-dod-agile-is-bad/
+author: "Bob Jiang"
 tags: [DoD, 完成的定义, 验收标准, Acceptance Criterias]
 ---
 

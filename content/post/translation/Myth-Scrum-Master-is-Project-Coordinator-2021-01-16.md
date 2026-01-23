@@ -1,7 +1,7 @@
 ---
-Title: Scrum Master是项目协调人？ | Scrum的误区
-Date: 2021-01-16
-URL: /myth-scrum-master-project-coordinator/
+title: Scrum Master是项目协调人？ | Scrum的误区
+date: 2021-01-16
+url: /myth-scrum-master-project-coordinator/
 Summary: "Scrum Master这个角色是项目协调人吗？在组织内是多余的人吗？Scrum Master到底是做什么的呢？本文详细解读了Scrum Master这个角色。"
 tags: [Scrum, Scrum Master, Scrum误区]
 ---

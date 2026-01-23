@@ -1,7 +1,7 @@
 ---
-Title: Open Source insights
-Date: 2021-12-17
-URL: /open-source-insights-bob/
+title: Open Source insights
+date: 2021-12-17
+url: /open-source-insights-bob/
 description: "bob jiang thoughts about open source, pain points for open source and maybe a good solution"
 tags: [open source, gitcoin]
 ---

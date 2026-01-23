@@ -1,7 +1,7 @@
 ---
-Title: Scrum落地关键实践 | 敏捷家分享002
-Date: 2020-03-29
-URL: /scrum-in-practice-002/
+title: Scrum落地关键实践 | 敏捷家分享002
+date: 2020-03-29
+url: /scrum-in-practice-002/
 tags: [敏捷家]
 ---
 

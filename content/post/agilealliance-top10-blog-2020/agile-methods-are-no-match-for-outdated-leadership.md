@@ -1,9 +1,10 @@
 ---
-Title: 敏捷方法是过时的领导力所不及的 | 敏捷联盟2020年十大博客
-Date: 2020-12-29
-URL: /agile-methods-are-no-match-for-outdated-leadership/
-Summary: "敏捷是老套领导力无法比拟的。过时的领导力注重的是管理和工人的分离；如何更好的把敏捷明道理实施落地，1. 专注于集体智慧；2.  创造创新的心理和职业安全；3.  KPI和奖励基于价值创造而不是利用价值"
-tags: [Agile, 敏捷领导力]
+title: "敏捷方法是过时的领导力所不及的 | 敏捷联盟2020年十大博客"
+date: 2020-12-29
+url: /agile-methods-are-no-match-for-outdated-leadership/
+description: "敏捷联盟2020年十大博客：过时的领导力无法驾驭敏捷方法。成功实施敏捷的三个关键：专注集体智慧、创造心理安全、基于价值创造的KPI和奖励。"
+tags: [Agile, 敏捷领导力, 敏捷联盟]
+author: "Bob Jiang"
 ---
 
 成功实现敏捷的三个关键领导作用

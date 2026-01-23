@@ -1,7 +1,9 @@
 ---
-Title: 更新（维护）Scrum联盟的证书
-Date: 2012-05-05
-URL: /renewing-certifications/
+title: 更新（维护）Scrum联盟的证书
+date: 2012-05-05
+description: "CSM认证续费指南：续证要求、SEU获取方式、费用说明。保持CSM认证有效性的详细步骤和注意事项。"
+url: /renewing-certifications/
+author: "Bob Jiang"
 tags: [scrum, certification]
 ---
 

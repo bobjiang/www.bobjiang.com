@@ -1,7 +1,7 @@
 ---
-Title: What is Decentralization Autonomous Organization (DAO)
-Date: 2022-03-29
-URL: /what-is-DAO/
+title: What is Decentralization Autonomous Organization (DAO)
+date: 2022-03-29
+url: /what-is-DAO/
 description: "Decentralization Autonomous Organization DAO is Member-owned communities without centralized leadership. etc"
 tags: [DAO, open source]
 ---

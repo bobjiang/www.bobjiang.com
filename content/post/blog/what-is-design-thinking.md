@@ -1,8 +1,10 @@
 ---
-Title: "什么是设计思维（Design Thinking）"
-Date: "2014-08-12"
-URL: /what-is-design-thinking/
+title: "什么是设计思维（Design Thinking）"
+date: "2014-08-12"
+description: "什么是设计思维：以用户为中心的创新方法。设计思维与敏捷开发的结合应用。"
+url: /what-is-design-thinking/
 Summary: ""
+author: "Bob Jiang"
 tags: []
 ---
 

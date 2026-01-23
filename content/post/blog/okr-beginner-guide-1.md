@@ -1,7 +1,9 @@
 ---
-Title: OKR新手入门指南 （第一部分）
-Date: 2020-04-28
-URL: /okr-beginner-guide-1/
+title: OKR新手入门指南 （第一部分）
+date: 2020-04-28
+description: "OKR新手指南(一)：什么是OKR目标管理法。理解OKR的基本概念、历史背景和核心价值。"
+url: /okr-beginner-guide-1/
+author: "Bob Jiang"
 tags: [绩效管理, OKR, 谷歌, 目标系统]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: 使用谷歌Google的小窍门
-Date: 2019-04-01
-URL: /how-to-use-google-effectively/ 
+title: 使用谷歌Google的小窍门
+date: 2019-04-01
+description: "如何有效使用Google搜索：敏捷开发者的搜索技巧。提高信息检索效率，快速找到技术解决方案。"
+url: /how-to-use-google-effectively/ 
+author: "Bob Jiang"
 tags: []
 ---
 

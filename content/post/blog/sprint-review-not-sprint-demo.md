@@ -1,7 +1,9 @@
 ---
 title: "Sprint评审会议而不是Sprint演示会议"
 date: "2014-01-09"
-URL: /sprint-review-not-demo-show/
+description: "Sprint评审不是演示：理解Sprint Review的真正目的。通过评审会议获取反馈，调整产品方向。"
+url: /sprint-review-not-demo-show/
+author: "Bob Jiang"
 tags: [评审会议, 演示会议, Sprint, Scrum]
 ---
 

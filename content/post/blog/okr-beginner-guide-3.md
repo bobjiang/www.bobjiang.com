@@ -1,7 +1,9 @@
 ---
-Title: OKR新手入门指南 （第三部分）
-Date: 2020-04-29
-URL: /okr-beginner-guide-3/
+title: OKR新手入门指南 （第三部分）
+date: 2020-04-29
+description: "OKR新手指南(三)：OKR评分和复盘方法。如何衡量目标达成度，持续优化OKR实践。"
+url: /okr-beginner-guide-3/
+author: "Bob Jiang"
 tags: [绩效管理, OKR, 谷歌, 目标系统]
 ---
 

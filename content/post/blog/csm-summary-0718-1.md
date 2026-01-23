@@ -1,7 +1,9 @@
 ---
-Title: Certified ScrumMaster (CSM) 培训学员总结 - 辛光烁
-Date: 2020-08-13
-URL: /csm-summary-xinguangshuo/
+title: Certified ScrumMaster (CSM) 培训学员总结 - 辛光烁
+date: 2020-08-13
+description: "CSM培训总结7月18日(上)：学员学习心得、课程亮点回顾。真实的CSM认证培训体验分享。"
+url: /csm-summary-xinguangshuo/
+author: "Bob Jiang"
 tags: [CSM, Certified ScrumMaster]
 ---
 

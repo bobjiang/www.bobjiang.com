@@ -1,8 +1,10 @@
 ---
-Title: 假敏捷Fake Agile
-Date: 2019-06-20
-URL: /fake-agile/
-tags: [fake agile, anti-agile]
+title: "假敏捷Fake Agile"
+date: 2019-06-20
+url: /fake-agile/
+description: "Steve Denning福布斯专栏文章翻译：如何识别假敏捷，理解敏捷的真正含义。90%管理者重视敏捷，但不到10%真正敏捷，揭示愿望与现实的差距。"
+tags: [fake agile, anti-agile, 假敏捷]
+author: "Bob Jiang"
 ---
 
 # 假敏捷 Fake Agile

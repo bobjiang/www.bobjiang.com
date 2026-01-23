@@ -1,7 +1,9 @@
 ---
 title: "Scrum点滴--敏捷之旅2016北京后记"
 date: "2017-02-10"
-URL: /scrum-practice-agiletour-beijing-2016/
+description: "Scrum实践分享-敏捷之旅北京2016：真实案例和经验教训。了解企业如何成功实施Scrum框架。"
+url: /scrum-practice-agiletour-beijing-2016/
+author: "Bob Jiang"
 tags: [敏捷之旅, 敏捷实践]
 ---
 

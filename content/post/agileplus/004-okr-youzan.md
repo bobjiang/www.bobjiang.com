@@ -1,7 +1,7 @@
 ---
-Title: 敏捷与OKR -系统思考与组织设计的艺术 | 敏捷家分享004
-Date: 2020-04-12
-URL: /agile-okr-youzan/
+title: 敏捷与OKR -系统思考与组织设计的艺术 | 敏捷家分享004
+date: 2020-04-12
+url: /agile-okr-youzan/
 tags: [agile, okr, 敏捷家]
 ---
 

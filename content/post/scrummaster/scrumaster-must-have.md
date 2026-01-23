@@ -1,7 +1,9 @@
 ---
-Title: Scrum Master必读材料
-Date: 2019-05-05
-URL: /scrummaster-must-have/
+title: Scrum Master必读材料
+date: 2019-05-05
+description: "ScrumMaster必备技能清单：从技术能力到软技能的完整要求。成为优秀ScrumMaster需要掌握的核心能力。"
+url: /scrummaster-must-have/
+author: "Bob Jiang"
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
 ---
 

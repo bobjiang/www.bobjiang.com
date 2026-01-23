@@ -1,7 +1,9 @@
 ---
-Title: 产品经理和开发团队的关系
-Date: 2019-04-05
-URL: /product-manager-development-team/ 
+title: 产品经理和开发团队的关系
+date: 2019-04-05
+description: "产品开发要点：敏捷产品管理的核心原则。从用户价值出发，持续迭代改进产品。"
+url: /product-manager-development-team/ 
+author: "Bob Jiang"
 tags: []
 ---
 

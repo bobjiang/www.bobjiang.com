@@ -1,11 +1,14 @@
 ---
-Title: 翻硬币游戏（Scrum游戏）
-Date: 2013-12-07
-URL: /scrum_penny_game/
+title: "翻硬币游戏（Scrum游戏）"
+date: 2013-12-07
+url: /scrum-penny-game/
+aliases: [/scrum_penny_game/]
+description: "翻硬币游戏是Scrum培训中的经典游戏，通过改变批量大小来展示精益生产原理。学习如何通过减少批量和队列时间来提高效率和缩短上市时间。"
 tags: [batch size , lean , penny game , scrum , 批量 , 硬币游戏, games]
+author: "Bob Jiang"
 ---
 
-![pennies-021](/wp-content/uploads/2013/12/pennies-021-300x225.jpg)
+![翻硬币游戏中使用的各种面值硬币](/wp-content/uploads/2013/12/pennies-021-300x225.jpg)
 
 翻硬币游戏在Scrum培训中很常用，因为它是一个很简单，但能揭示很多道理的游戏。下面我会介绍一下这个游戏的规则和所揭示的一些道理。
 

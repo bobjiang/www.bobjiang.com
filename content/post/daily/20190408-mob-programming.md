@@ -1,7 +1,9 @@
 ---
-Title: 暴徒式编程简介
-Date: 2019-04-08
-URL: /mob-programming-introduction/ 
+title: 暴徒式编程简介
+date: 2019-04-08
+description: "群体编程(Mob Programming)：极限编程实践的进化。全团队协作编码，提升代码质量和知识共享。"
+url: /mob-programming-introduction/ 
+author: "Bob Jiang"
 tags: []
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "读《仆人领导时大鲲》有感"
 date: "2014-01-26"
+description: "仆人式领导：ScrumMaster的核心领导哲学。如何通过服务团队来实现领导影响力，而非权威命令。"
 coverImage: "20082261423797060.jpg"
-URL: /servant-leader-2014/
+url: /servant-leader-2014/
+author: "Bob Jiang"
 tags: [服务型领导, 领导力]
 ---
 

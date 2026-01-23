@@ -1,8 +1,11 @@
 ---
 title: "敏捷不是快"
 date: "2015-12-27"
-coverImage: "IMG_20150614_160156.jpg"
 url: /agile-is-not-quick/
+description: "敏捷软件开发的本质不是快速交付，而是反馈快。理解敏捷真正含义：尽早频繁地交付商业价值，通过快速反馈持续改进产品。"
+coverImage: "IMG_20150614_160156.jpg"
+author: "Bob Jiang"
+tags: [agile, 敏捷, scrum]
 ---
 
 最近听到有人说，敏捷就是快 - 快速发布，快速完成任务，甚至有人会问，这样快了以后质量有保障吗？那么我们先来看一下什么是敏捷。敏捷，英文是Agile，指的是敏捷软件开发。这里要特别感谢Alistair Cockburn博士给出的定义：

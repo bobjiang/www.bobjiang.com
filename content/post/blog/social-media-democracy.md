@@ -1,7 +1,7 @@
 ---
-Title: 社交网络的黑暗心理学
-Date: 2020-01-10
-URL: /social-media-democracy/
+title: 社交网络的黑暗心理学
+date: 2020-01-10
+url: /social-media-democracy/
 tags: [social media, 社交媒体]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: 团队与领导力健康检查 | 体检表
-Date: 2020-05-20
-URL: /team-leadership-healthcheck-list/
+title: 团队与领导力健康检查 | 体检表
+date: 2020-05-20
+description: "团队领导力健康检查：评估领导方式对团队的影响。从命令控制到授权赋能的领导力转型。"
+url: /team-leadership-healthcheck-list/
+author: "Bob Jiang"
 tags: [团队工具, 敏捷领导力, 团队检查]
 ---
 

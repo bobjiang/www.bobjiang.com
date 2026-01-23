@@ -1,7 +1,9 @@
 ---
-Title: 产品待办列表条目的4个类型
-Date: 2019-05-20
-URL: /4-categories-in-product-backlog/
+title: 产品待办列表条目的4个类型
+date: 2019-05-20
+description: "产品待办列表4大类别：功能、缺陷、技术债、知识获取。全面管理产品Backlog，平衡短期交付和长期健康。"
+url: /4-categories-in-product-backlog/
+author: "Bob Jiang"
 tags: [product backlog, 产品列表]
 ---
 

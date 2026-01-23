@@ -1,7 +1,7 @@
 ---
-Title: 根据天气判断一天
-Date: 2019-07-15
-URL: /judging-a-day-by-the-weather/
+title: 根据天气判断一天
+date: 2019-07-15
+url: /judging-a-day-by-the-weather/
 tags: [Seth]
 ---
 

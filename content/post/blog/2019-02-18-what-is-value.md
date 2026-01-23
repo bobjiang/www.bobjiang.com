@@ -1,7 +1,7 @@
 ---
-Title: 什么是价值
-Date: 2019-02-18
-URL: /what-is-value/ 
+title: 什么是价值
+date: 2019-02-18
+url: /what-is-value/ 
 tags: []
 ---
 

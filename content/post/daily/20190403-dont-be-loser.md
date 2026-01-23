@@ -1,7 +1,9 @@
 ---
-Title: 你在变成连自己都讨厌的人吗
-Date: 2019-04-03
-URL: /dont-be-loser/ 
+title: 你在变成连自己都讨厌的人吗
+date: 2019-04-03
+description: "不要做失败者：敏捷转型中的心态调整。从固定思维转向成长思维，拥抱变化和学习。"
+url: /dont-be-loser/ 
+author: "Bob Jiang"
 tags: []
 ---
 

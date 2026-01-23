@@ -1,7 +1,7 @@
 ---
-Title: Github指定本地私钥访问仓库
-Date: 2020-12-21
-URL: /github-choose-key/
+title: Github指定本地私钥访问仓库
+date: 2020-12-21
+url: /github-choose-key/
 tags: [github, git, private key]
 ---
 

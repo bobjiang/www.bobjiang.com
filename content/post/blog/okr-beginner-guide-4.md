@@ -1,7 +1,9 @@
 ---
-Title: OKR新手入门指南 （第四部分）
-Date: 2020-04-29
-URL: /okr-beginner-guide-4/
+title: OKR新手入门指南 （第四部分）
+date: 2020-04-29
+description: "OKR新手指南(四)：OKR常见问题和解决方案。完整的OKR实施答疑，避免常见陷阱。"
+url: /okr-beginner-guide-4/
+author: "Bob Jiang"
 tags: [绩效管理, OKR, 谷歌, 目标系统]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: 谷歌OKR指南：如何使用OKR制定目标（含OKR模板）
-Date: 2020-07-28
-URL: /okr-rework-withgoogle/
+title: 谷歌OKR指南：如何使用OKR制定目标（含OKR模板）
+date: 2020-07-28
+description: "OKR与Google的目标管理：Objectives and Key Results实践。学习Google如何通过OKR实现战略聚焦。"
+url: /okr-rework-withgoogle/
+author: "Bob Jiang"
 tags: [okr, 谷歌okr, okr模板, okr指南]
 ---
 

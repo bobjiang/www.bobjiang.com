@@ -1,7 +1,9 @@
 ---
-Title: 从困境走向成功
-Date: 2019-04-03
-URL: /facilitation-pepe-book/ 
+title: 从困境走向成功
+date: 2019-04-03
+description: "引导技术书籍推荐：提升敏捷教练和ScrumMaster引导能力。掌握专业引导技巧，激发团队智慧。"
+url: /facilitation-pepe-book/ 
+author: "Bob Jiang"
 tags: []
 ---
 

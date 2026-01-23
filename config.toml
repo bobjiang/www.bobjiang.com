@@ -3,7 +3,10 @@ title = "Bob Jiang 敏捷开发培训 敏捷认证Scrum Master"
 languageCode = "zh-cn"
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
-googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tracking id
+# IMPORTANT: Universal Analytics (UA-) is DEPRECATED. Migrate to GA4 as soon as possible!
+# See GA4-MIGRATION-INSTRUCTIONS.md for step-by-step migration guide.
+# To migrate: Replace UA-36175470-1 with your GA4 Measurement ID (format: G-XXXXXXXXXX)
+googleAnalytics = "UA-36175470-1" # TODO: Replace with GA4 Measurement ID (G-XXXXXXXXXX)
 
 [pagination]
   disableAliases = false
@@ -240,4 +243,20 @@ googleAnalytics = "UA-36175470-1" # Enable Google Analytics by entering your tra
     url = "/tags/friends/"
     parent = "about"
     weight = 81
-    
+
+# Image processing configuration for better performance
+[imaging]
+  quality = 85  # JPEG/WebP quality (0-100, default 75)
+  resampleFilter = "Lanczos"  # High-quality image resampling (Lanczos is best quality)
+
+# Minification for HTML, CSS, JS to improve page load speed
+[minify]
+  disableCSS = false  # Minify CSS
+  disableHTML = false  # Minify HTML
+  disableJS = false   # Minify JavaScript
+  disableJSON = false # Minify JSON
+  disableSVG = false  # Minify SVG
+  disableXML = false  # Minify XML
+  [minify.tdewolff.html]
+    keepWhitespace = false  # Remove extra whitespace
+

@@ -1,7 +1,9 @@
 ---
 title: "Scrum和瀑布式开发基本原则的对比"
 date: "2013-12-11"
-URL: /scrum-vs-waterfall-principles/
+description: "Scrum vs 瀑布：底层原则的根本差异。理解敏捷与传统项目管理方法的本质区别和适用场景。"
+url: /scrum-vs-waterfall-principles/
+author: "Bob Jiang"
 tags: [Scrum, 瀑布开发]
 ---
 

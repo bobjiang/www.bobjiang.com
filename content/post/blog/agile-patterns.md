@@ -1,7 +1,7 @@
 ---
-Title: 谈谈敏捷中的那些模式
-Date: 2020-07-14
-URL: /agile-patterns/
+title: 谈谈敏捷中的那些模式
+date: 2020-07-14
+url: /agile-patterns/
 tags: [agile patterns, 敏捷模式, 敏捷本质]
 ---
 

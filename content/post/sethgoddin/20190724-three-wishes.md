@@ -1,7 +1,7 @@
 ---
-Title: 三个愿望
-Date: 2019-07-24
-URL: /three-wishes/
+title: 三个愿望
+date: 2019-07-24
+url: /three-wishes/
 tags: [Seth Goddin, marketing]
 ---
 

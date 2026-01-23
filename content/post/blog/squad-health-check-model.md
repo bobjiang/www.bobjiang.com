@@ -1,8 +1,11 @@
 ---
 title: "Spotify 团队健康检查模型"
 date: "2021-01-19"
-URL: /2014/09/19/sqad_health_check_model/
+description: "团队健康检查模型：Spotify的团队评估工具。通过定期健康检查，发现团队问题，持续改进协作方式。"
+url: /2014/09/19/sqad-health-check-model/
+aliases: [/2014/09/19/sqad_health_check_model/]
 Summary: "团队是否是健康的？如何定义一个团队的健康度，本文是Spotify内部的一个示例，可以作为自己团队健康检查的一个起点。欢迎分享和使用。"
+author: "Bob Jiang"
 tags: [Spotify, 健康度检查]
 ---
 

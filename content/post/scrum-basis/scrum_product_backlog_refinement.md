@@ -1,7 +1,10 @@
 ---
 title: "产品列表梳理（需求梳理）--Scrum入门基础系列"
 date: "2015-02-23"
-url: /scrum_product_backlog_refinement/
+description: "产品待办列表梳理（Refinement）实践指南：什么是梳理活动、何时进行、如何有效梳理。提升Sprint计划质量和团队效率。"
+url: /scrum-product-backlog-refinement/
+aliases: [/scrum_product_backlog_refinement/]
+author: "Bob Jiang"
 tags: [Scrum]
 ---
 

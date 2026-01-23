@@ -1,7 +1,9 @@
 ---
-Title: 敏捷精髓Scrum精髓
-Date: 2019-05-12
-URL: /essential-scrum-agile/
+title: 敏捷精髓Scrum精髓
+date: 2019-05-12
+description: "Essential Scrum书评：Kenneth Rubin的Scrum实践指南。深入浅出讲解Scrum原则、角色、实践，适合新手和有经验的实践者。"
+url: /essential-scrum-agile/
+author: "Bob Jiang"
 tags: [agile, scrum, 敏捷精髓]
 ---
 

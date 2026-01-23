@@ -1,7 +1,9 @@
 ---
-Title: "Keynote: The science of timing - midpoints & endings"
-Date: 2019-05-22
-URL: /science-of-timing-keynote-scrumgathering/
+title: "Keynote: The science of timing - midpoints & endings"
+date: 2019-05-22
+description: "Daniel Pink在Scrum Gathering Austin演讲：驱动力、自主性和激励理论在敏捷团队中的应用。了解如何激发团队内在动力。"
+url: /science-of-timing-keynote-scrumgathering/
+author: "Bob Jiang"
 tags: [scrumallinace, scrumgathering, sgaus, keynote, daniel pink]
 ---
 

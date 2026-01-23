@@ -1,7 +1,9 @@
 ---
-Title: 第14份年度敏捷状态报告（最新2020）
-Date: 2020-06-03
-URL: /state-of-agile-report-14-2020/
+title: 第14份年度敏捷状态报告（最新2020）
+date: 2020-06-03
+description: "敏捷状态年度报告2014：全球敏捷采用趋势、实践方法、面临挑战的深度分析。了解企业如何成功实施敏捷转型。"
+url: /state-of-agile-report-14-2020/
+author: "Bob Jiang"
 tags: [敏捷报告]
 ---
 

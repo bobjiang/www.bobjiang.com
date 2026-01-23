@@ -1,8 +1,10 @@
 ---
-Title: 敏捷词汇表
-Date: 2019-12-09
-URL: /agile-glossaries-cn/
+title: "敏捷词汇表"
+date: 2019-12-09
+url: /agile-glossaries-cn/
+description: "完整的敏捷开发词汇表，包含Scrum、看板、精益等敏捷方法论的专业术语中英文对照和详细解释，帮助理解敏捷核心概念。"
 tags: [agile, glossary, scrum, kanban]
+author: "Bob Jiang"
 ---
 
 [English Version](/agile-glossaries-en/)

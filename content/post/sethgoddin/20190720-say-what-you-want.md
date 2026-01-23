@@ -1,7 +1,7 @@
 ---
-Title: 说出你想要什么
-Date: 2019-07-20
-URL: /say-what-you-want/
+title: 说出你想要什么
+date: 2019-07-20
+url: /say-what-you-want/
 tags: [Seth Goddin, marketing]
 ---
 

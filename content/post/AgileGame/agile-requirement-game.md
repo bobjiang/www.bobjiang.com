@@ -1,8 +1,11 @@
 ---
-Title: 敏捷需求游戏
-Date: 2015-06-23
-URL: /spec_writing_agile_game/
+title: "敏捷需求游戏"
+date: 2015-06-23
+url: /spec-writing-agile-game/
+aliases: [/spec_writing_agile_game/]
+description: "通过敏捷需求游戏体验需求文档沟通的挑战。需求团队和开发团队分组协作，仅通过文字沟通完成图形创建，揭示敏捷开发中有效沟通的重要性。"
 tags: [敏捷需求, games]
+author: "Bob Jiang"
 ---
 
 ## 游戏目标

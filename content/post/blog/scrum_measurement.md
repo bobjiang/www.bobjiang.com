@@ -1,7 +1,9 @@
 ---
 title: "初探Scrum度量"
 date: "2014-04-11"
-URL: /scrum-measurement-2014/
+description: "Scrum度量：如何衡量敏捷团队的健康和效能。选择正确的度量指标，避免度量陷阱。"
+url: /scrum-measurement-2014/
+author: "Bob Jiang"
 tags: [敏捷度量]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: 如何讲好故事
-Date: 2020-05-19
-URL: /how-to-tell-story/
+title: 如何讲好故事
+date: 2020-05-19
+description: "如何讲故事：敏捷教练的叙事技巧。通过故事传递价值观，激发共鸣和改变。"
+url: /how-to-tell-story/
+author: "Bob Jiang"
 tags: [讲故事]
 ---
 

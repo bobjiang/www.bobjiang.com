@@ -1,7 +1,7 @@
 ---
-Title: 敏捷之旅中国 2020 汇总
-Date: 2020-11-08
-URL: /agiletour-china-2020/
+title: 敏捷之旅中国 2020 汇总
+date: 2020-11-08
+url: /agiletour-china-2020/
 tags: [agile tour, 敏捷之旅]
 ---
 

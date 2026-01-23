@@ -1,8 +1,10 @@
 ---
-Title: 敏捷嘉年华：抛球游戏
-Date: 2013-08-27
-URL: /ball-point-game/
-tags: [ball point game, games]
+title: "敏捷嘉年华：抛球游戏"
+date: 2013-08-27
+url: /ball-point-game/
+description: "敏捷嘉年华大型抛球游戏实战：多团队协作的Scrum游戏，体验规模化敏捷、团队同步、依赖管理。通过迭代逐步提高工作效率。"
+tags: [ball point game, games, scrum, 规模化敏捷]
+author: "Bob Jiang"
 ---
 
 ![](/images/ballpointgame.jpg)

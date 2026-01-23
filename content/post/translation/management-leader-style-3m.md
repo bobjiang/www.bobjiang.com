@@ -1,7 +1,7 @@
 ---
-Title: 你是哪种管理风格？微观管理还是……
-Date: 2021-01-09
-URL: /management-leader-style-agile-leadership/
+title: 你是哪种管理风格？微观管理还是……
+date: 2021-01-09
+url: /management-leader-style-agile-leadership/
 Summary: "本文用一个生动的故事来描绘了3种不同的管理风格。故事来自于一个虚构的村庄，当你处在这样一个场景下，你会如何进行交通管理？对应于工作中，处于类似的场景下你会如何管理呢？是微观管理还是大妈管理还是专家管理？"
 tags: [敏捷, 敏捷领导力, 微观管理, 专家管理]
 ---

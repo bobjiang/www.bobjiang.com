@@ -1,7 +1,7 @@
 ---
-Title: 产品负责人 - SAFe请不要篡改Scrum！
-Date: 2020-01-13
-URL: /remove-scrum-from-safe-po/
+title: 产品负责人 - SAFe请不要篡改Scrum！
+date: 2020-01-13
+url: /remove-scrum-from-safe-po/
 tags: [SAFe, Scrum, scrum guide, product owner]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: 张弛有度（个人反思）
-Date: 2019-04-21
-URL: /tight-vs-loose/ 
+title: 张弛有度（个人反思）
+date: 2019-04-21
+description: "紧耦合vs松耦合：软件架构与团队组织的类比。理解敏捷团队设计原则，提升组织灵活性。"
+url: /tight-vs-loose/ 
+author: "Bob Jiang"
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
-Title: This is marketing
-Date: 2018-12-01
-URL: /this-is-marketing-1201/ 
+title: This is marketing
+date: 2018-12-01
+url: /this-is-marketing-1201/ 
 tags: [market]
 ---
 

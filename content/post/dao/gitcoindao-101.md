@@ -1,7 +1,7 @@
 ---
-Title: What is GitcoinDAO
-Date: 2022-01-29
-URL: /what-is-GitcoinDAO/
+title: What is GitcoinDAO
+date: 2022-01-29
+url: /what-is-GitcoinDAO/
 description: "Gitcoin is a Decentralized Autonomous Organization governed by the holders of the GTC token."
 tags: [DAO, GitcoinDAO]
 ---

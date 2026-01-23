@@ -1,7 +1,9 @@
 ---
-Title: 物以类聚 - Scrum特性团队之社区
-Date: 2019-04-23
-URL: /bird-of-feather-scrum-community/ 
+title: 物以类聚 - Scrum特性团队之社区
+date: 2019-04-23
+description: "物以类聚：敏捷社区建设与知识分享。参加敏捷聚会，与同行交流经验，持续成长。"
+url: /bird-of-feather-scrum-community/ 
+author: "Bob Jiang"
 tags: [scrum, community, cop]
 ---
 

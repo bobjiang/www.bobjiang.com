@@ -1,8 +1,10 @@
 ---
 title: "谈谈技术债"
 date: "2014-04-04"
+description: "技术债务管理：平衡短期交付和长期质量。识别、记录和偿还技术债的系统方法。"
 coverImage: "W020140305463526649626.jpg"
-URL: /technical-debt/
+url: /technical-debt/
+author: "Bob Jiang"
 tags: [technical debt, 技术债]
 ---
 

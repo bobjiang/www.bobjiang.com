@@ -1,7 +1,9 @@
 ---
-Title: 为什么敏捷不提倡子团队
-Date: 2019-03-31
-URL: /why-no-subteam-in-agile/ 
+title: 为什么敏捷不提倡子团队
+date: 2019-03-31
+description: "Scrum为什么不设子团队：理解Scrum团队整体性的重要性。避免团队分割带来的沟通障碍和责任分散。"
+url: /why-no-subteam-in-agile/ 
+author: "Bob Jiang"
 tags: [feature team]
 ---
 

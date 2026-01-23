@@ -1,7 +1,7 @@
 ---
-Title: 如何使用DAOstack
-Date: 2019-06-18
-URL: /how-to-onboard-dao/
+title: 如何使用DAOstack
+date: 2019-06-18
+url: /how-to-onboard-dao/
 tags: [daostack, dao]
 ---
 

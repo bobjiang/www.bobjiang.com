@@ -1,7 +1,9 @@
 ---
-Title: 加州CSM共同培训反思及收获
-Date: 2019-05-27
-URL: /cotrain-learning-csm-la/
+title: 加州CSM共同培训反思及收获
+date: 2019-05-27
+description: "共同学习(Cotrian Learning)：团队学习的最佳方式。通过协作学习，提升团队整体能力和知识共享。"
+url: /cotrain-learning-csm-la/
+author: "Bob Jiang"
 tags: [csm, scrummaster, scrum alliance]
 ---
 

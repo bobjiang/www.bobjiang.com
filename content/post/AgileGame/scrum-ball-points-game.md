@@ -1,8 +1,10 @@
 ---
-Title: Scrum抛球游戏介绍
-Date: 2014-01-20
-URL: /scrum-ball-point-game/
+title: "Scrum抛球游戏介绍"
+date: 2014-01-20
+url: /scrum-ball-point-game/
+description: "Scrum抛球游戏完整教程：通过传球练习体验Scrum迭代开发和持续改进。学习Sprint计划、执行、回顾的完整流程，适合敏捷培训和团队建设。"
 tags: [ball point game , game , scrum , 抛球游戏, games]
+author: "Bob Jiang"
 ---
 
 **游戏规则**

@@ -1,7 +1,9 @@
 ---
-Title: 为什么Scrum指南中移除燃尽图
-Date: 2019-05-05
-URL: /why-not-use-burn-down-chart/
+title: 为什么Scrum指南中移除燃尽图
+date: 2019-05-05
+description: "为什么不用燃尽图：Scrum度量指标的反思。理解燃尽图的局限性，选择更有价值的度量方式。"
+url: /why-not-use-burn-down-chart/
+author: "Bob Jiang"
 tags: [scrum, burn down chart]
 ---
 

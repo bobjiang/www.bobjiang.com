@@ -1,7 +1,10 @@
 ---
 title: "Scrum工件-Scrum入门基础系列"
 date: "2015-02-20"
-url: /scrum_foundation_artifact/
+description: "Scrum三大工件详解：产品待办列表、Sprint待办列表、产品增量。理解Scrum透明性、检视与调整的核心工具，提升团队协作效率。"
+url: /scrum-foundation-artifact/
+aliases: [/scrum_foundation_artifact/]
+author: "Bob Jiang"
 tags: [Scrum]
 ---
 

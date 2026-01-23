@@ -1,8 +1,11 @@
 ---
-Title: 折飞机-团队建设游戏-敏捷游戏
-Date: 2015-07-03
-URL: /paper_plane/
+title: "折飞机-团队建设游戏-敏捷游戏"
+date: 2015-07-03
+url: /paper-plane/
+aliases: [/paper_plane/]
+description: "通过折纸飞机游戏体验敏捷开发中知识传递的最佳方式。实验证明教练指导方法达到100%成功率,远超文档说明和反向工程。适合团队建设和敏捷培训。"
 tags: [纸飞机, games]
+author: "Bob Jiang"
 ---
 
 ## 游戏准备

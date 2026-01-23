@@ -1,7 +1,7 @@
 ---
-Title: 如何用google cloud存储分区搭建网站 个人博客
-Date: 2019-12-27
-URL: /how-to-build-website-host-google-cloud/
+title: 如何用google cloud存储分区搭建网站 个人博客
+date: 2019-12-27
+url: /how-to-build-website-host-google-cloud/
 tags: [host website, google cloud, blog]
 ---
 

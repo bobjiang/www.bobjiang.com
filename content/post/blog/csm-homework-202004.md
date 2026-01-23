@@ -1,7 +1,9 @@
 ---
-Title: 培训总结 - Certified ScrumMaster 课后作业记录
-Date: 2020-12-24
-URL: /training-summary-song-csm-homework/
+title: 培训总结 - Certified ScrumMaster 课后作业记录
+date: 2020-12-24
+description: "CSM认证培训作业2020年4月：Scrum实践案例分析和问题解答。帮助CSM学员将理论应用到实际工作场景。"
+url: /training-summary-song-csm-homework/
+author: "Bob Jiang"
 tags: [agile, scrum, csm, certification]
 ---
 

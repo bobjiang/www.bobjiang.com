@@ -2,7 +2,7 @@
 title: "《偷师学艺——10个你一定要知道的创意秘籍》读后感"
 date: "2014-09-17"
 coverImage: "偷师学艺.jpg"
-URL: /steal-like-an-artist/
+url: /steal-like-an-artist/
 tags: [偷师学艺]
 ---
 

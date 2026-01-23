@@ -1,7 +1,9 @@
 ---
-Title: 不要推敏捷
-Date: 2019-03-30
-URL: /dont-push-agile/ 
+title: 不要推敏捷
+date: 2019-03-30
+description: "不要强推敏捷：为什么敏捷转型需要拉动而非推动。理解组织变革的正确方式，避免敏捷转型常见陷阱。"
+url: /dont-push-agile/ 
+author: "Bob Jiang"
 tags: []
 ---
 

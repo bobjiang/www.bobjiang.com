@@ -1,7 +1,9 @@
 ---
-Title: 在远程 CSM 课程中体验线上工作坊
-Date: 2020-05-16
-URL: /csm-summary-jijie/
+title: 在远程 CSM 课程中体验线上工作坊
+date: 2020-05-16
+description: "CSM学员总结-吉洁：从CSM培训中获得的收获与感悟。Scrum框架如何改变工作方式和团队协作。"
+url: /csm-summary-jijie/
+author: "Bob Jiang"
 tags: [csm, 敏捷认证, 课后总结, csm反馈]
 ---
 

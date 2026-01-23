@@ -1,13 +1,16 @@
 ---
-Title: 看板披萨游戏（Kanban Pizza Game）- 译
-Date: 2013-12-05
-URL: /kanban_pizza_game/
+title: "看板披萨游戏（Kanban Pizza Game）- 译"
+date: 2013-12-05
+url: /kanban-pizza-game/
+aliases: [/kanban_pizza_game/]
+description: "通过看板披萨游戏学习精益敏捷原则和看板系统。用纸制作披萨的过程体验工作流程、WIP限制和拉动式生产，理解看板如何从现有流程中浮现。"
 tags: [agile42 , kanban , lean , pizza game , wip , working in progress , 披萨游戏 , 看板, games]
+author: "Bob Jiang"
 ---
 
-# ![](https://media.agile42.com/cms_page_media/112/Pizza%20Small6163012549_7c7934aa5e-1_1.jpg)
+# ![看板披萨游戏中用纸制作的披萨示例](https://media.agile42.com/cms_page_media/112/Pizza%20Small6163012549_7c7934aa5e-1_1.jpg)
 
-![](https://media.agile42.com/cms_page_media/112/88x31.png)  由Agile42公司开发的看板披萨游戏遵循以下许可：[Creative Commons Attribution-Share Alike 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/).
+![Creative Commons许可证图标](https://media.agile42.com/cms_page_media/112/88x31.png)  由Agile42公司开发的看板披萨游戏遵循以下许可：[Creative Commons Attribution-Share Alike 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/).
 
 仅仅通过教科书的方式传授精益敏捷的原则，是很困难的。人们必须亲身经历这些原则以体会它们是如何工作的。通过游戏，不必打乱日程工作或沉迷在技术细节，你就可以获得经验。这也是我们在培训中使用游戏和模拟的原因。如果没有合适的游戏，我们就创造一个，比如看板披萨游戏！
 

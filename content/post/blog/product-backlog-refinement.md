@@ -1,8 +1,11 @@
 ---
 title: "Product Backlog Refinement"
 date: "2015-01-05"
+url: /product-backlog-refinement/
+description: "Learn about Product Backlog Refinement meetings in Scrum: what activities to include, who should participate, and why refinement is essential for sprint planning and product success."
 coverImage: "productbacklogrefinement1.jpg"
-URL: /product-backlog-refinement/
+author: "Bob Jiang"
+tags: [scrum, product backlog, refinement, agile]
 ---
 
 Here I would like to talk about product backlog refinement meeting, including what activities should be in this meeting, who should join this meeting and why we need refinement meeting.

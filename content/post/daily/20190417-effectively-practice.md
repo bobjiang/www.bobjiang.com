@@ -1,7 +1,9 @@
 ---
-Title: 有效练习
-Date: 2019-04-17
-URL: /practice-effectively/ 
+title: 有效练习
+date: 2019-04-17
+description: "有效实践：敏捷方法论的落地技巧。避免形式主义，真正发挥Scrum框架的价值。"
+url: /practice-effectively/ 
+author: "Bob Jiang"
 tags: []
 ---
 

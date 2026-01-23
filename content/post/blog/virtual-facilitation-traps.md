@@ -1,7 +1,9 @@
 ---
-Title: 虚拟引导中的那些坑（陷阱）与小技巧
-Date: 2020-03-09
-URL: /virtual-facilitation-traps/
+title: 虚拟引导中的那些坑（陷阱）与小技巧
+date: 2020-03-09
+description: "虚拟引导陷阱：远程会议引导的常见错误。提升线上工作坊和团队会议的效果。"
+url: /virtual-facilitation-traps/
+author: "Bob Jiang"
 tags: [虚拟引导,virtual facilitation, 自由职业]
 ---
 

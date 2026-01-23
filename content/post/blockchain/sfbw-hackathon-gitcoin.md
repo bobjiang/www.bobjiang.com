@@ -1,7 +1,7 @@
 ---
-Title: 旧金山区块链周黑客马拉松
-Date: 2020-06-15
-URL: /sfbw-hackathon-gitcoin/
+title: 旧金山区块链周黑客马拉松
+date: 2020-06-15
+url: /sfbw-hackathon-gitcoin/
 tags: [hackathon, blockchain]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: 地主和佃农的关系想到的产品开发
-Date: 2019-05-09
-URL: /landlord-vs-farmer/
+title: 地主和佃农的关系想到的产品开发
+date: 2019-05-09
+description: "地主思维vs农民思维：敏捷组织的价值观差异。从短期利益转向长期价值创造的思维模式。"
+url: /landlord-vs-farmer/
+author: "Bob Jiang"
 tags: [scrum, product development]
 ---
 

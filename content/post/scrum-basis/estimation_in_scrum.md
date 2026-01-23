@@ -1,7 +1,10 @@
 ---
 title: "敏捷估算--Scrum系列"
 date: "2015-05-14"
-url: /estimation_in_scrum/
+description: "Scrum估算方法完整指南：故事点、规划扑克、相对估算。学习敏捷团队如何进行工作量评估，提高Sprint计划准确性。"
+url: /estimation-in-scrum/
+aliases: [/estimation_in_scrum/]
+author: "Bob Jiang"
 tags: [Scrum]
 ---
 

@@ -1,7 +1,7 @@
 ---
-Title: Bob Jiang 2021 summary
-Date: 2021-12-26
-URL: /bob-2021/
+title: Bob Jiang 2021 summary
+date: 2021-12-26
+url: /bob-2021/
 description: "this is a summary for Bob Jiang in 2021"
 tags: [summary, gitcoin]
 ---

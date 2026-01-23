@@ -1,7 +1,9 @@
 ---
-Title: 引导书籍推荐
-Date: 2019-04-30
-URL: /top-facilitation-books/
+title: 引导书籍推荐
+date: 2019-04-30
+description: "引导技术顶级书籍：敏捷教练和ScrumMaster专业提升。掌握工作坊设计、团队引导的专业技能。"
+url: /top-facilitation-books/
+author: "Bob Jiang"
 tags: [facilitation]
 ---
 

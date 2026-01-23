@@ -1,7 +1,8 @@
 ---
-Title: 国王的晚宴 King's dinner
-Date: 2020-07-09
-URL: /king_dinner/
+title: 国王的晚宴 King's dinner
+date: 2020-07-09
+url: /king-dinner/
+aliases: [/king_dinner/]
 tags: [Ron Jeffries]
 ---
 

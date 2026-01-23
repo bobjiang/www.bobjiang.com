@@ -1,7 +1,9 @@
 ---
-Title: 网站地图之搜索引擎收录
-Date: 2019-04-24
-URL: /sitemap-google/ 
+title: 网站地图之搜索引擎收录
+date: 2019-04-24
+description: "网站Sitemap提交Google：SEO基础知识。帮助搜索引擎更好索引你的网站内容。"
+url: /sitemap-google/ 
+author: "Bob Jiang"
 tags: [sitemap, google]
 ---
 

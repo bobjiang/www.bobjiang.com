@@ -1,7 +1,9 @@
 ---
-Title: 士兵思维和侦察兵思维
-Date: 2019-04-13
-URL: /soldier-vs-scout/ 
+title: 士兵思维和侦察兵思维
+date: 2019-04-13
+description: "士兵思维vs侦察兵思维：敏捷团队的认知模式。培养开放心态，持续学习和改进。"
+url: /soldier-vs-scout/ 
+author: "Bob Jiang"
 tags: []
 ---
 

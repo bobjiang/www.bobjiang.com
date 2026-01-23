@@ -1,7 +1,7 @@
 ---
-Title: Agile123.net上线啦 | 敏捷学习资源大全
-Date: 2020-12-25
-URL: /agile123-net-launch/
+title: Agile123.net上线啦 | 敏捷学习资源大全
+date: 2020-12-25
+url: /agile123-net-launch/
 tags: [agile, agile123, agile portal, 敏捷资源, 敏捷入门, 敏捷大全]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: 我的第一次加州之旅
-Date: 2019-05-25
-URL: /califonia-tour-bob/
+title: 我的第一次加州之旅
+date: 2019-05-25
+description: "加州初体验：硅谷敏捷文化见闻。探访科技公司，学习全球顶尖团队的敏捷实践。"
+url: /califonia-tour-bob/
+author: "Bob Jiang"
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
-Title: 保护隐私的在线黑客马拉松
-Date: 2020-06-15
-URL: /privacy-hackathon-gitcoin/
+title: 保护隐私的在线黑客马拉松
+date: 2020-06-15
+url: /privacy-hackathon-gitcoin/
 tags: [hackathon, blockchain]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: Certified ScrumMaster (CSM) 培训学员总结 - 曹天宇
-Date: 2020-07-20
-URL: /csm-summary-caotianyu/
+title: Certified ScrumMaster (CSM) 培训学员总结 - 曹天宇
+date: 2020-07-20
+description: "CSM认证培训总结：学员心得分享、课程亮点回顾、Scrum实践要点。帮助你了解CSM认证培训的真实体验和收获。"
+url: /csm-summary-caotianyu/
+author: "Bob Jiang"
 tags: [CSM, Certified ScrumMaster]
 ---
 

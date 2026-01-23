@@ -1,7 +1,9 @@
 ---
-Title: ScrumMaster的技能要求是什么
-Date: 2019-04-20
-URL: /scrummaster-how-to/ 
+title: ScrumMaster的技能要求是什么
+date: 2019-04-20
+description: "如何成为优秀的ScrumMaster：实用技能、心态转变、职业发展路径。从新手到专家的ScrumMaster成长指南。"
+url: /scrummaster-how-to/ 
+author: "Bob Jiang"
 tags: [scrummaster, skills, agile coach]
 ---
 

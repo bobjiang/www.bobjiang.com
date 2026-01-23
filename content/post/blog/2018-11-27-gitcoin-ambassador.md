@@ -1,7 +1,7 @@
 ---
-Title: Gitcoin Ambassador
-Date: 2018-11-27   
-URL: /gitcoin-ambassador-1126/ 
+title: Gitcoin Ambassador
+date: 2018-11-27   
+url: /gitcoin-ambassador-1126/ 
 tags: [gitcoin, ethereum, ambassador]
 ---
 

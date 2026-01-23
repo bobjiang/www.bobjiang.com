@@ -1,8 +1,10 @@
 ---
 title: "Scrum教练静修报名接近尾声啦--Scrum联盟赞助主办"
 date: "2015-07-03"
+description: "Scrum教练静修会：顶级敏捷教练的交流聚会。学习先进的教练技术，深化Scrum理解和实践。"
 coverImage: "retreat.jpg"
-URL: /scrum-coach-retreat-2015/
+url: /scrum-coach-retreat-2015/
+author: "Bob Jiang"
 tags: [敏捷教练, 静修]
 ---
 

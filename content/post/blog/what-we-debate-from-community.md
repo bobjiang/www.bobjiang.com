@@ -1,8 +1,10 @@
 ---
-Title: "我们反驳的是什么"
-Date: "2017-03-29"
-URL: /what-we-debate-from-community-2017/
+title: "我们反驳的是什么"
+date: "2017-03-29"
+description: "社区辩论精华：敏捷实践者的热点讨论。探讨Scrum、Kanban、SAFe等方法论的争议和实践经验。"
+url: /what-we-debate-from-community-2017/
 Summary: ""
+author: "Bob Jiang"
 tags: []
 ---
 

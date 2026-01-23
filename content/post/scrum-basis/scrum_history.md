@@ -1,7 +1,10 @@
 ---
 title: "Scrum起源-Scrum历史-Scrum入门基础系列"
 date: "2014-10-23"
-url: /scrum_history/
+description: "Scrum框架发展历史：从1990年代诞生到现代敏捷运动核心方法。了解Scrum如何成为全球最流行的敏捷框架。"
+url: /scrum-history/
+aliases: [/scrum_history/]
+author: "Bob Jiang"
 tags: [Scrum, 敏捷入门]
 ---
 

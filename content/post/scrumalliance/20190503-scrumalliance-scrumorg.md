@@ -1,7 +1,9 @@
 ---
-Title: 探秘Scrum机构 - Scrum联盟和Scrum.org对比
-Date: 2019-05-03
-URL: /scrumalliance-vs-scrumorg/
+title: 探秘Scrum机构 - Scrum联盟和Scrum.org对比
+date: 2019-05-03
+description: "Scrum Alliance与Scrum.org对比：两大Scrum认证机构的区别、证书含金量、培训要求。帮助你选择适合的Scrum认证路径。"
+url: /scrumalliance-vs-scrumorg/
+author: "Bob Jiang"
 tags: [scrumalliance, scrum]
 ---
 

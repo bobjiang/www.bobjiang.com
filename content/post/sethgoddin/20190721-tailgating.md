@@ -1,7 +1,7 @@
 ---
-Title: 跟随
-Date: 2019-07-21
-URL: /tailgating/
+title: 跟随
+date: 2019-07-21
+url: /tailgating/
 tags: [Seth Goddin, marketing]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: 如何验证信息的真伪
-Date: 2019-04-10
-URL: /how-to-verify-information/ 
+title: 如何验证信息的真伪
+date: 2019-04-10
+description: "如何验证信息：敏捷团队的批判性思维。在信息爆炸时代保持理性判断，做出正确决策。"
+url: /how-to-verify-information/ 
+author: "Bob Jiang"
 tags: []
 ---
 

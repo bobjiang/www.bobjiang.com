@@ -1,7 +1,9 @@
 ---
-Title: 东方与西方的文化差异
-Date: 2019-05-10
-URL: /easter-vs-western/
+title: 东方与西方的文化差异
+date: 2019-05-10
+description: "东方文化vs西方文化：敏捷在不同文化背景下的适应。理解文化差异，本土化敏捷实践。"
+url: /easter-vs-western/
+author: "Bob Jiang"
 tags: [agile, culture, 文化]
 ---
 

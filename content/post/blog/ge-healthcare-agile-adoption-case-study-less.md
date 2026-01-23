@@ -1,6 +1,9 @@
 ---
 title: "翻转组织—通用医疗敏捷转型案例"
 date: "2015-11-15"
+description: "GE Healthcare敏捷转型真实案例：在强监管医疗行业如何启动敏捷项目，构建跨职能全功能团队，导入自组织文化，团队自设计实践经验分享。"
+author: "Bob Jiang"
+tags: [敏捷转型, GE, LeSS, case study]
 ---
 
 # 标题：翻转组织—通用医疗敏捷转型案例

@@ -1,7 +1,7 @@
 ---
-Title: Singapore
-Date: 2018-12-07
-URL: /singapore-1207/ 
+title: Singapore
+date: 2018-12-07
+url: /singapore-1207/ 
 tags: []
 ---
 

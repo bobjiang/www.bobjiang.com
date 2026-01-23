@@ -1,8 +1,10 @@
 ---
-Title: Scrum Master是否需要懂技术
-Date: 2020-07-24
-URL: /scrummaster-is-technical-expert/
+title: "Scrum Master是否需要懂技术"
+date: 2020-07-24
+url: /scrummaster-is-technical-expert/
+description: "回答Scrum Master常见问题：Scrum Master是否需要懂技术？三个原因说明为什么技术能力对Scrum Master至关重要，如何更好地融入团队和发现风险。"
 tags: [敏捷教练, Scrum Master, 技术专家, FAQ]
+author: "Bob Jiang"
 ---
 
 [我要提问](mailto:bob@bobjiang.com)

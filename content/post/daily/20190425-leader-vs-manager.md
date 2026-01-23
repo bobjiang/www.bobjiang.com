@@ -1,7 +1,9 @@
 ---
-Title: 领导者和管理者
-Date: 2019-04-25
-URL: /leaders-vs-managers/ 
+title: 领导者和管理者
+date: 2019-04-25
+description: "领导者vs管理者：敏捷环境下的角色转变。从命令控制转向仆人式领导，赋能团队自组织。"
+url: /leaders-vs-managers/ 
+author: "Bob Jiang"
 tags: [leader, agile]
 ---
 

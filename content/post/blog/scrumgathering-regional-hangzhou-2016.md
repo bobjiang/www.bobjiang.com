@@ -1,7 +1,9 @@
 ---
 title: "ScrumGathering杭州记录"
 date: "2016-10-24"
-URL: /scrumgathering-hangzhou-2016/
+description: "Regional Scrum Gathering杭州2016：中国区域Scrum聚会回顾。分享Scrum实践经验，建立社区连接。"
+url: /scrumgathering-hangzhou-2016/
+author: "Bob Jiang"
 tags: [大会, 杭州, RSG]
 ---
 

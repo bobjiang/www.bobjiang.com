@@ -1,7 +1,9 @@
 ---
 title: "Scrum的起源"
 date: "2013-08-27"
-URL: /scrum-origin/
+description: "Scrum起源与历史：从橄榄球术语到敏捷框架的演变。了解Scrum如何诞生并成为全球最流行的敏捷方法。"
+url: /scrum-origin/
+author: "Bob Jiang"
 tags: [Scrum, 起源, 哈佛商业评论]
 ---
 

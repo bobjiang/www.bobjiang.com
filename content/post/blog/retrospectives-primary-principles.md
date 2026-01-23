@@ -1,7 +1,9 @@
 ---
 title: "敏捷回顾最高指导原则--敏捷回顾工具箱"
 date: "2017-03-22"
-URL: /retrospectives-primary-principles/
+description: "回顾会议首要原则：创建安全空间和聚焦改进。掌握Sprint回顾会议的核心要素，提升回顾效果。"
+url: /retrospectives-primary-principles/
+author: "Bob Jiang"
 tags: [敏捷回顾]
 ---
 

@@ -1,8 +1,10 @@
 ---
-Title: 免费搭建个人博客详解 | Bob Jiang博客详解
-Date: 2021-02-12
-URL: /how-to-setup-peronal-blog/
+title: 免费搭建个人博客详解 | Bob Jiang博客详解
+date: 2021-02-12
+description: "搭建个人博客指南：技术博客平台选择和部署。分享知识，建立个人品牌的第一步。"
+url: /how-to-setup-peronal-blog/
 Summary: "每一个互联网人一定需要一个博客，博客相当于你在互联网的家。我们在生活中都有一个家；而在互联网上，你也需要有一个门牌号（域名）和你的家（博客）。2021年了，你有开始在互联网上搭建自己的家吗？种一棵树最好的时间是10年前，其次就是现在。"
+author: "Bob Jiang"
 tags: [个人博客,博客, hugo, seo]
 ---
 

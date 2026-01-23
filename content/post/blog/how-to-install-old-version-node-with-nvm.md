@@ -1,7 +1,9 @@
 ---
-Title: 如何安装旧版本的node 在新芯片M1苹果
-Date: 2021-01-20
-URL: /how-to-install-old-version-node-with-nvm/
+title: 如何安装旧版本的node 在新芯片M1苹果
+date: 2021-01-20
+description: "使用NVM安装旧版本Node.js：Node版本管理工具使用指南。在多项目环境中灵活切换Node版本。"
+url: /how-to-install-old-version-node-with-nvm/
+author: "Bob Jiang"
 tags: [苹果M1芯片, node, nvm]
 ---
 

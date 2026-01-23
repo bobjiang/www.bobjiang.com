@@ -1,7 +1,7 @@
 ---
-Title: 打开括号
-Date: 2019-07-10
-URL: /open-parentheses/
+title: 打开括号
+date: 2019-07-10
+url: /open-parentheses/
 tags: [Seth]
 ---
 

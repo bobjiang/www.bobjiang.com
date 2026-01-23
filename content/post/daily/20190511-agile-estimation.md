@@ -1,7 +1,9 @@
 ---
-Title: 敏捷估算
-Date: 2019-05-11
-URL: /agile-estimation/
+title: 敏捷估算
+date: 2019-05-11
+description: "敏捷估算实践指南：故事点、规划扑克、相对估算技术详解。帮助团队提高估算准确性，改善Sprint计划质量。"
+url: /agile-estimation/
+author: "Bob Jiang"
 tags: [agile, estimation, 估算]
 ---
 

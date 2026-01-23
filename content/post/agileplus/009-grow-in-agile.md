@@ -1,7 +1,7 @@
 ---
-Title: 在敏捷实践中加速成长 | 敏捷家分享009
-Date: 2020-05-17
-URL: /grow-in-agile-practice/
+title: 在敏捷实践中加速成长 | 敏捷家分享009
+date: 2020-05-17
+url: /grow-in-agile-practice/
 tags: [agile, 敏捷家]
 ---
 

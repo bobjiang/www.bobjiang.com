@@ -1,8 +1,10 @@
 ---
-Title: 敏捷问题集
-Date: 2019-12-05
-URL: /agile-faq-cn/
-tags: [agile, scrum, kanban]
+title: "敏捷问题集"
+date: 2019-12-05
+url: /agile-faq-cn/
+description: "敏捷开发常见问题解答集合，涵盖Scrum团队管理、Sprint计划、看板实践等实际工作场景中的问题和解决方案。提问和回答社区。"
+tags: [agile, scrum, kanban, faq]
+author: "Bob Jiang"
 ---
 
 [English Version](/agile-faq-en/)

@@ -1,7 +1,9 @@
 ---
-Title: Scrum反模式：微观管理
-Date: 2020-07-12
-URL: /micro-management/
+title: Scrum反模式：微观管理
+date: 2020-07-12
+description: "微观管理的危害：过度控制如何扼杀团队创造力。识别微观管理行为，转向授权领导。"
+url: /micro-management/
+author: "Bob Jiang"
 tags: [agile patterns, 敏捷模式]
 ---
 

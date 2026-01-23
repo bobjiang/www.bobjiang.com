@@ -1,7 +1,9 @@
 ---
-Title: 如何在敏捷转型中克服阻力 – 邀请的力量
-Date: 2020-05-20
-URL: /power-of-invitation/
+title: 如何在敏捷转型中克服阻力 – 邀请的力量
+date: 2020-05-20
+description: "邀请的力量：开放空间技术在敏捷中的应用。通过邀请而非强制，激发团队参与和创造力。"
+url: /power-of-invitation/
+author: "Bob Jiang"
 tags: [敏捷转型]
 ---
 

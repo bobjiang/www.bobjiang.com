@@ -1,7 +1,7 @@
 ---
-Title: 两种系统的风险
-Date: 2019-07-22
-URL: /two-kinds-of-insurance/
+title: 两种系统的风险
+date: 2019-07-22
+url: /two-kinds-of-insurance/
 tags: [Seth Goddin, marketing]
 ---
 

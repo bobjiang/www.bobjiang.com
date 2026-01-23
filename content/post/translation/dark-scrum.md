@@ -1,8 +1,10 @@
 ---
-Title: 黑暗敏捷 Dark Scrum
-Date: 2019-06-20
-URL: /dark-scrum/
+title: "黑暗敏捷 Dark Scrum"
+date: 2019-06-20
+url: /dark-scrum/
+description: "Ron Jeffries深度解析黑暗Scrum现象：Scrum在实施中如何压迫开发人员，为什么理想的敏捷框架在现实中会变质，如何识别和避免Scrum滥用。"
 tags: [dark scrum, anti-scrum, scrum-but, Ron Jeffries]
+author: "Bob Jiang"
 ---
 
 # 黑暗敏捷 Dark Scrum

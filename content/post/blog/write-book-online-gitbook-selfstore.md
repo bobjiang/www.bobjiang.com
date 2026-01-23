@@ -1,8 +1,10 @@
 ---
-Title: "在线写书工具大比拼-gitbook selfstore 知笔墨"
-Date: "2015-09-07"
-URL: "/online-writing-tools-comparision-2015/"
+title: "在线写书工具大比拼-gitbook selfstore 知笔墨"
+date: "2015-09-07"
+description: "在线写书指南：使用GitBook和自出版平台。分享技术写作和知识传播的经验。"
+url: "/online-writing-tools-comparision-2015/"
 Summary: ""
+author: "Bob Jiang"
 tags: [在线写作工具]
 ---
 

@@ -1,7 +1,7 @@
 ---
-Title: 如何改变组织文化
-Date: 2020-05-21
-URL: /how-to-change-organization-culture/
+title: 如何改变组织文化
+date: 2020-05-21
+url: /how-to-change-organization-culture/
 tags: [敏捷转型, 组织转型]
 ---
 

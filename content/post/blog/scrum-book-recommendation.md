@@ -1,7 +1,9 @@
 ---
 title: "Scrum书籍推荐"
 date: "2015-09-23"
-URL: /scrum-book-recommendation/
+description: "Scrum书籍推荐：从入门到精通的必读书单。包括《Scrum指南》《敏捷软件开发》等经典著作，帮助你系统学习Scrum框架。"
+url: /scrum-book-recommendation/
+author: "Bob Jiang"
 tags: [推荐图书, Scrum]
 ---
 

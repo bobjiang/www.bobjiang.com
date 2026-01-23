@@ -1,7 +1,7 @@
 ---
-Title: Reputation vs Tokens 声誉和代币
-Date: 2019-06-18
-URL: /reputation-vs-tokens/
+title: Reputation vs Tokens 声誉和代币
+date: 2019-06-18
+url: /reputation-vs-tokens/
 tags: [daostack, dao, reputation]
 ---
 

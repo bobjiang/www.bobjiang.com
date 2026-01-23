@@ -1,7 +1,7 @@
 ---
-Title: Bob's Experience in GitcoinDAO
-Date: 2022-03-30
-URL: /gitcoindao-experience/
+title: Bob's Experience in GitcoinDAO
+date: 2022-03-30
+url: /gitcoindao-experience/
 description: "Bob Jiang's Experience in GitcoinDAO."
 tags: [DAO, GitcoinDAO]
 ---

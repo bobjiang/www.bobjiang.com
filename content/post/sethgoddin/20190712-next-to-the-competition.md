@@ -1,7 +1,7 @@
 ---
-Title: 竞争就在身边
-Date: 2019-07-12
-URL: /next-to-the-competition/
+title: 竞争就在身边
+date: 2019-07-12
+url: /next-to-the-competition/
 tags: [Seth]
 ---
 

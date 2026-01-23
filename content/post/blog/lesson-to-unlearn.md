@@ -1,7 +1,9 @@
 ---
-Title: 忘却的教训 -- 保罗 格雷厄姆
-Date: 2020-01-09
-URL: /lesson-to-unlearn/
+title: 忘却的教训 -- 保罗 格雷厄姆
+date: 2020-01-09
+description: "需要忘却的教训：打破旧有思维模式。在敏捷转型中摒弃传统观念，拥抱新思维。"
+url: /lesson-to-unlearn/
+author: "Bob Jiang"
 tags: [格雷厄姆]
 ---
 

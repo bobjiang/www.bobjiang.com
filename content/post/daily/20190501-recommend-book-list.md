@@ -1,7 +1,9 @@
 ---
-Title: 推荐敏捷书单大全
-Date: 2019-05-01
-URL: /recommend-book-list-agile/
+title: 推荐敏捷书单大全
+date: 2019-05-01
+description: "推荐书单汇总：敏捷、Scrum、产品、技术全方位学习资源。一站式获取敏捷实践者的知识体系。"
+url: /recommend-book-list-agile/
+author: "Bob Jiang"
 tags: [agile]
 ---
 

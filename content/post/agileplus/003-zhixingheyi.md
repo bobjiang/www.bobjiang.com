@@ -1,7 +1,7 @@
 ---
-Title: 知行合一的敏捷实践 | 敏捷家分享003
-Date: 2020-04-05
-URL: /agile-zhixingheyi-003/
+title: 知行合一的敏捷实践 | 敏捷家分享003
+date: 2020-04-05
+url: /agile-zhixingheyi-003/
 tags: [敏捷家]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: 重新审视故事点
-Date: 2020-04-23
-URL: /reevaluate-story-points/
+title: 重新审视故事点
+date: 2020-04-23
+description: "重新评估故事点：相对估算的价值与局限性。理解故事点的正确用法，避免估算误区。"
+url: /reevaluate-story-points/
+author: "Bob Jiang"
 tags: [用户故事, 故事点, 估算, Ron Jeffries]
 ---
 

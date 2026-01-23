@@ -1,7 +1,7 @@
 ---
-Title: 开发团队 - SAFe请不要篡改Scrum！
-Date: 2020-01-13
-URL: /remove-scrum-from-safe-devteam/
+title: 开发团队 - SAFe请不要篡改Scrum！
+date: 2020-01-13
+url: /remove-scrum-from-safe-devteam/
 tags: [SAFe, Scrum, scrum guide, scrum master]
 ---
 

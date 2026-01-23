@@ -1,7 +1,9 @@
 ---
-Title: 如何成为一名Certified Scrum Master (CSM)
-Date: 2019-05-23
-URL: /how-to-be-csm/
+title: 如何成为一名Certified Scrum Master (CSM)
+date: 2019-05-23
+description: "如何成为CSM：完整的CSM认证流程、培训选择、学习建议。从零基础到获得Certified Scrum Master认证的路径图。"
+url: /how-to-be-csm/
+author: "Bob Jiang"
 tags: [scrum, csm, 敏捷认证]
 ---
 

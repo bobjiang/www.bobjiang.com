@@ -1,7 +1,9 @@
 ---
-Title: 获取SEU（Scrum Education Unit）的6个方法
-Date: 2019-05-04
-URL: /scrum-education-unit-seu/
+title: 获取SEU（Scrum Education Unit）的6个方法
+date: 2019-05-04
+description: "Scrum教育单元(SEU)详解：如何获得、如何使用、续证要求。CSM和CSPO认证持续学习的完整指南。"
+url: /scrum-education-unit-seu/
+author: "Bob Jiang"
 tags: [scrumalliance, seu, scrum]
 ---
 

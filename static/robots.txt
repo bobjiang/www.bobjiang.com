@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.bobjiang.com/sitemap.xml
+
+# Block admin/internal pages
+Disallow: /admin/
+Disallow: /wp-content/uploads/
+
+# Allow assets for proper rendering
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /img/

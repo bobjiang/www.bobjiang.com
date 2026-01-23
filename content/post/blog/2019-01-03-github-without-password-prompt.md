@@ -1,7 +1,7 @@
 ---
-Title: github ssh push不用输入密码
-Date: 2019-01-03
-URL: /github-ssh-push-without-password-prompt/ 
+title: github ssh push不用输入密码
+date: 2019-01-03
+url: /github-ssh-push-without-password-prompt/ 
 tags: []
 ---
 

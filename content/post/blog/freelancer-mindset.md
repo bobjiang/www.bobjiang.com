@@ -1,7 +1,7 @@
 ---
-Title: 自由职业者心态
-Date: 2020-05-10
-URL: /freelancer-mindset/
+title: 自由职业者心态
+date: 2020-05-10
+url: /freelancer-mindset/
 tags: [自由职业]
 ---
 

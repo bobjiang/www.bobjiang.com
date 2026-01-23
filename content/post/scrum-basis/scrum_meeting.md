@@ -1,7 +1,10 @@
 ---
 title: "敏捷会议-Scrum会议-Scrum入门基础系列"
 date: "2015-01-03"
-url: /scrum_meeting/
+description: "Scrum五大会议详解：Sprint计划、每日站会、Sprint评审、Sprint回顾、产品待办列表梳理。掌握每个会议的目的、时长和最佳实践。"
+url: /scrum-meeting/
+aliases: [/scrum_meeting/]
+author: "Bob Jiang"
 tags: [Scrum]
 ---
 

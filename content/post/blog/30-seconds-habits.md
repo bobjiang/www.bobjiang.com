@@ -1,7 +1,7 @@
 ---
-Title: 养成这个30秒的习惯，你将受益终生！
-Date: 2020-06-04
-URL: /30-seconds-habit/
+title: 养成这个30秒的习惯，你将受益终生！
+date: 2020-06-04
+url: /30-seconds-habit/
 tags: [习惯]
 ---
 

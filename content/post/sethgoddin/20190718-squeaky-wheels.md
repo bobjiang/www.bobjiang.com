@@ -1,7 +1,7 @@
 ---
-Title: 吱吱作响的轮子
-Date: 2019-07-18
-URL: /squeaky-wheels/
+title: 吱吱作响的轮子
+date: 2019-07-18
+url: /squeaky-wheels/
 tags: [Seth Goddin, marketing]
 ---
 

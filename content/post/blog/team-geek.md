@@ -1,8 +1,10 @@
 ---
 title: "读书笔记《极客与团队》"
 date: "2014-03-21"
+description: "团队极客：技术团队文化建设。构建健康的工程师文化，提升团队协作和代码质量。"
 coverImage: "team-geek.jpg"
-URL: /team-geek-2014/
+url: /team-geek-2014/
+author: "Bob Jiang"
 tags: [极客与团队]
 ---
 

@@ -1,7 +1,7 @@
 ---
-Title: 你被什么所吸引？
-Date: 2019-07-15
-URL: /what-are-you-drawn-to/
+title: 你被什么所吸引？
+date: 2019-07-15
+url: /what-are-you-drawn-to/
 tags: [Seth]
 ---
 

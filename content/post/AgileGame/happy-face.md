@@ -1,8 +1,11 @@
 ---
-Title: 幸福的笑脸
-Date: 2015-06-30
-URL: /happy_face_agile_game/
+title: "幸福的笑脸"
+date: 2015-06-30
+url: /happy-face-agile-game/
+aliases: [/happy_face_agile_game/]
+description: "通过制作纸笑脸游戏学习精益生产核心概念。体验拉动式生产、看板原则、现金流管理，理解预测规划的经济问题。适合4-6人团队，60分钟精益培训游戏。"
 tags: [敏捷游戏 , 精益游戏, games]
+author: "Bob Jiang"
 ---
 
 ## 游戏收益

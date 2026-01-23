@@ -1,7 +1,10 @@
 ---
 title: "Scrum完整剧本"
 date: "2020-06-16"
-url: /scrum_playbook/
+description: "Scrum实战手册：从理论到实践的完整指南。包含Sprint计划、每日站会、评审、回顾的最佳实践和常见问题解决方案。"
+url: /scrum-playbook/
+aliases: [/scrum_playbook/]
+author: "Bob Jiang"
 tags: [Scrum, Scrum指南, Scrum剧本]
 ---
 

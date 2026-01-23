@@ -1,8 +1,10 @@
 ---
 title: "为什么我们需要自组织团队"
 date: "2014-09-30"
+description: "自组织团队：敏捷的核心特征。理解自组织的真正含义，如何培养团队自主决策和问题解决能力。"
 coverImage: "自组织.gif"
-URL: /why-we-need-self-organizing-team/
+url: /why-we-need-self-organizing-team/
+author: "Bob Jiang"
 tags: [自组织]
 ---
 

@@ -1,7 +1,7 @@
 ---
-Title: 人人都在某处划条线
-Date: 2019-07-11
-URL: /everyone-draws-the-line-somewhere/
+title: 人人都在某处划条线
+date: 2019-07-11
+url: /everyone-draws-the-line-somewhere/
 tags: [Seth]
 ---
 

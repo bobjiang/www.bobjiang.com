@@ -1,7 +1,9 @@
 ---
-Title: CSM课程可以申请PDU
-Date: 2017-07-29 20:22:14
-URL: /apply-pdu-for-csm/
+title: CSM课程可以申请PDU
+date: 2017-07-29 20:22:14
+description: "CSM申请SEU教程：Scrum Alliance网站操作步骤、SEU类别选择、审核要点。维持CSM认证的详细操作指南。"
+url: /apply-pdu-for-csm/
+author: "Bob Jiang"
 tags: [csm, scrum training, pmp]
 ---
 

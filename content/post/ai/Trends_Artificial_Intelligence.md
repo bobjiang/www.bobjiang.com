@@ -1,7 +1,8 @@
 ---
 title: 人工智能趋势简报 2025
 date: "2025-06-08"
-url: /ai/Trends_Artificial_Intelligence/
+url: /ai/trends-artificial-intelligence/
+aliases: [/ai/Trends_Artificial_Intelligence/]
 Summary: "AI 正以前所未有的速度普及和变革全球产业，用户增长迅猛，企业和政府资本投入激增，驱动自动驾驶、机器人、医疗、金融等领域创新爆发。AI 正演变为新型基础设施，尽管面临高成本和盈利挑战，未来增长潜力巨大。"
 tags: [人工智能趋势, AI产业报告, 大语言模型, AI普及速度, 自动驾驶, 工业机器人, 企业AI应用, AI资本支出, 数据中心, 芯片市场, 技术巨头, 政府AI政策, AI生态系统, AI竞争格局, AI研发投入, 新兴技术, AI基础设施, 卫星互联网, 商业模式变革, 技术驱动创新]
 ---

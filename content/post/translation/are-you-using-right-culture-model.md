@@ -1,7 +1,7 @@
 ---
-Title: 你用的是正确的文化模式吗
-Date: 2019-06-21
-URL: /are-you-using-right-culture-model/
+title: 你用的是正确的文化模式吗
+date: 2019-06-21
+url: /are-you-using-right-culture-model/
 tags: [culture, model]
 ---
 

@@ -1,7 +1,7 @@
 ---
-Title: 原则和正在摆脱困境
-Date: 2019-07-13
-URL: /principles-and-being-let-off-the-hook/
+title: 原则和正在摆脱困境
+date: 2019-07-13
+url: /principles-and-being-let-off-the-hook/
 tags: [Seth]
 ---
 

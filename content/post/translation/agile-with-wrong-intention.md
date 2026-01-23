@@ -1,8 +1,10 @@
 ---
-Title: 敏捷的目的（方向）错了以后……
-Date: 2021-01-09
-URL: /agile-with-wrong-intention/
-tags: [敏捷, 伪敏捷]
+title: "敏捷的目的（方向）错了以后……"
+date: 2021-01-09
+url: /agile-with-wrong-intention/
+description: "当企业把敏捷当作目标而不是方法时会发生什么？分析敏捷转型中常见的陷阱：缺乏明确目标、盲目跟风、忽视文化变革的重要性。"
+tags: [敏捷, 伪敏捷, agile]
+author: "Bob Jiang"
 ---
 
 Scrum之类的框架非常适合解决业务问题，并且公司不断过渡到敏捷以实现目标。但是，如果他们忘记了敏捷只是一种方法论（一种实现目标的手段）而不是目标本身，就会出现问题。

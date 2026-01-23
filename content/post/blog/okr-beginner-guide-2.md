@@ -1,7 +1,9 @@
 ---
-Title: OKR新手入门指南 （第二部分）
-Date: 2020-04-29
-URL: /okr-beginner-guide-2/
+title: OKR新手入门指南 （第二部分）
+date: 2020-04-29
+description: "OKR新手指南(二)：如何制定有效的OKR。编写清晰目标和可衡量关键结果的实用技巧。"
+url: /okr-beginner-guide-2/
+author: "Bob Jiang"
 tags: [绩效管理, OKR, 谷歌, 目标系统]
 ---
 

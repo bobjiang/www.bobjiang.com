@@ -1,8 +1,10 @@
 ---
-Title: ScrumMaster的十大错误
-Date: 2019-05-02
-URL: /scrummaster-10-failures/
+title: "ScrumMaster的十大错误"
+date: 2019-05-02
+url: /scrummaster-10-failures/
+description: "揭示ScrumMaster常犯的十大错误：盲目追求敏捷、忽视团队目标、过度依赖工具。避免敏捷大仙陷阱，回归敏捷本质和价值交付。"
 tags: [scrummaster, scrum, agile]
+author: "Bob Jiang"
 ---
 
 ![](/images/SCRUMMASTER-DOES-NOT.jpg)

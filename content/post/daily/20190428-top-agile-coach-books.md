@@ -1,7 +1,9 @@
 ---
-Title: 敏捷教练书籍推荐
-Date: 2019-04-28
-URL: /top-agile-coach-books/
+title: 敏捷教练书籍推荐
+date: 2019-04-28
+description: "敏捷教练必读书籍：2019年顶级敏捷教练书单。包括引导技术、组织变革、系统思考等专业领域的经典著作。"
+url: /top-agile-coach-books/
+author: "Bob Jiang"
 tags: [agile, scrum, agile coach, book]
 ---
 

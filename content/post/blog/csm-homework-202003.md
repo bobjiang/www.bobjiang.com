@@ -1,8 +1,10 @@
 ---
-Title: Scrum敏捷管理学习心得 - Certified ScrumMaster 课后作业记录
-Date: 2020-12-23
-URL: /scrum-learning-xu-csm-homework/
+title: "Scrum敏捷管理学习心得 - Certified ScrumMaster 课后作业记录"
+date: 2020-12-23
+url: /scrum-learning-xu-csm-homework/
+description: "CSM认证课后作业分享：Scrum敏捷管理学习心得，包括敏捷宣言、Scrum框架、Sprint实践、产品待办列表管理等核心概念总结。"
 tags: [agile, scrum, csm, certification]
+author: "Bob Jiang"
 ---
 
 # Scrum敏捷管理学习心得

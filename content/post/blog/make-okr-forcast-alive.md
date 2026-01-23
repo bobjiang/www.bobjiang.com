@@ -1,7 +1,9 @@
 ---
-Title: 敏捷与OKR实践（如何让OKR与敏捷计划共存）
-Date: 2020-04-23
-URL: /okr-forcast-alive-together/
+title: 敏捷与OKR实践（如何让OKR与敏捷计划共存）
+date: 2020-04-23
+description: "让OKR预测活起来：动态调整OKR以应对变化。在不确定环境中保持目标管理的灵活性。"
+url: /okr-forcast-alive-together/
+author: "Bob Jiang"
 tags: [okr, forcast, 敏捷计划]
 ---
 

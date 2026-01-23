@@ -1,7 +1,9 @@
 ---
-Title: 你看到的世界不是真实的世界
-Date: 2019-04-04
-URL: /the-world-isnt-your-world/ 
+title: 你看到的世界不是真实的世界
+date: 2019-04-04
+description: "世界不是世界：打破认知局限，拥抱敏捷思维。理解敏捷方法论背后的系统思考和哲学基础。"
+url: /the-world-isnt-your-world/ 
+author: "Bob Jiang"
 tags: []
 ---
 

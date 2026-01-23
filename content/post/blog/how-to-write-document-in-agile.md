@@ -1,7 +1,9 @@
 ---
-Title: 敏捷环境下如何写文档之反模式 | 论只写有用的文档
-Date: 2021-01-06
-URL: /how-to-write-document-in-agile/
+title: 敏捷环境下如何写文档之反模式 | 论只写有用的文档
+date: 2021-01-06
+description: "敏捷中如何写文档：恰到好处的文档实践。平衡文档和沟通，创造真正价值。"
+url: /how-to-write-document-in-agile/
+author: "Bob Jiang"
 tags: [敏捷, 敏捷文档, 有用文档, 敏捷反模式]
 ---
 

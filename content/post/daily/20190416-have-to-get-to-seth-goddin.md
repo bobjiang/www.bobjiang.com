@@ -1,7 +1,9 @@
 ---
-Title: 苦逼模式和甜点模式
-Date: 2019-04-16
-URL: /have-to-vs-get-to/ 
+title: 苦逼模式和甜点模式
+date: 2019-04-16
+description: "Seth Godin营销智慧：产品经理必读的市场洞察。如何打造remarkable产品，建立用户口碑传播。"
+url: /have-to-vs-get-to/ 
+author: "Bob Jiang"
 tags: []
 ---
 

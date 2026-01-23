@@ -1,7 +1,7 @@
 ---
-Title: 超越指责（Beyond Blaming） -- 一致性沟通
-Date: 2020-08-09
-URL: /beyond-blaming/
+title: 超越指责（Beyond Blaming） -- 一致性沟通
+date: 2020-08-09
+url: /beyond-blaming/
 tags: [congruence, 一致性沟通, 温伯格]
 ---
 

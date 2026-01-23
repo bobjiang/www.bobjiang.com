@@ -1,7 +1,7 @@
 ---
-Title: Scrum回顾会实践
-Date: 2021-01-18
-URL: /running-my-favourite-sprint-retrospective/
+title: Scrum回顾会实践
+date: 2021-01-18
+url: /running-my-favourite-sprint-retrospective/
 Summary: "回顾会是敏捷中的核心，是帮助团队回顾反思的正式机会。如果你的团队还没有掌握回顾会的精髓，那么就非常值得反思。开始帮助团队建立起定期的反思机制吧。"
 tags: [Scrum, 回顾会]
 ---

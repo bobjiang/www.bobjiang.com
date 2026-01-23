@@ -1,7 +1,9 @@
 ---
-Title: 驱动组织演进的心智模式
-Date: 2020-04-24
-URL: /mental-model-driven-organization-evolution/
+title: 驱动组织演进的心智模式
+date: 2020-04-24
+description: "组织进化思维：从机械组织到生命系统。重新定义企业，拥抱持续演进和适应。"
+url: /mental-model-driven-organization-evolution/
+author: "Bob Jiang"
 tags: [心智模式, 组织转型]
 ---
 为什么初创公司通常是充满活力的网络结构，度过初创阶段则通常会成长为官僚化的层级结构？这里简单探讨两个驱动因素，如下图中左侧悬臂（1,5）所示。

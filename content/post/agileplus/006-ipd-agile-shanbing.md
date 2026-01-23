@@ -1,7 +1,7 @@
 ---
-Title: IPD下的敏捷实践 | 敏捷家分享006
-Date: 2020-04-26
-URL: /ipd-agile/
+title: IPD下的敏捷实践 | 敏捷家分享006
+date: 2020-04-26
+url: /ipd-agile/
 tags: [ipd, 敏捷家]
 ---
 

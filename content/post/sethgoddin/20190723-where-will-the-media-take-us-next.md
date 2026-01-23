@@ -1,7 +1,7 @@
 ---
-Title: 媒体接下来会带我们去往哪里
-Date: 2019-07-23
-URL: /where-will-the-media-take-us-next/
+title: 媒体接下来会带我们去往哪里
+date: 2019-07-23
+url: /where-will-the-media-take-us-next/
 tags: [Seth Goddin, marketing]
 ---
 

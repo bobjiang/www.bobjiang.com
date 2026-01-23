@@ -1,7 +1,9 @@
 ---
-Title: 用户故事和任务 | 敏捷小知识 | 敏捷家出品
-Date: 2020-10-13
-URL: /user-story-tasks/
+title: 用户故事和任务 | 敏捷小知识 | 敏捷家出品
+date: 2020-10-13
+description: "用户故事与任务分解：如何将用户故事拆分为可执行任务。Scrum团队进行Sprint计划的实用技巧。"
+url: /user-story-tasks/
+author: "Bob Jiang"
 tags: [用户故事, 敏捷需求, 任务]
 ---
 

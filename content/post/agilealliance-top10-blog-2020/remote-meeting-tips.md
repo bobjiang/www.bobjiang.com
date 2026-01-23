@@ -1,7 +1,8 @@
 ---
-Title: 远程会议的小窍门 | 敏捷联盟2020年十大博客
-Date: 2020-12-30
-URL: /remote-meeting-tips/
+title: 远程会议的小窍门 | 敏捷联盟2020年十大博客
+date: 2020-12-30
+url: /remote-meeting-tips/
+author: "Bob Jiang"
 tags: [remote meeting, 远程会议]
 ---
 

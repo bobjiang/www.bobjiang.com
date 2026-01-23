@@ -1,7 +1,7 @@
 ---
-Title: Scrum的本质与看板方法的本质
-Date: 2017-04-09
-URL: /essential-scrum-and-kanban/
+title: Scrum的本质与看板方法的本质
+date: 2017-04-09
+url: /essential-scrum-and-kanban/
 tags: [Scrum, 看板]
 ---
 

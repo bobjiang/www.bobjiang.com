@@ -1,8 +1,10 @@
 ---
-Title: "为什么敏捷是Agile，而不是Cgile或其他词"
-Date: "2017-03-24"
-URL: /why-is-agile-not-cgile-2017/
+title: "为什么敏捷是Agile，而不是Cgile或其他词"
+date: "2017-03-24"
+description: "为什么敏捷不是C敏捷：警惕伪敏捷陷阱。识别真假敏捷，避免形式主义和教条主义。"
+url: /why-is-agile-not-cgile-2017/
 Summary: ""
+author: "Bob Jiang"
 tags: []
 ---
 

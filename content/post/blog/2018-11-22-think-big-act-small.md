@@ -1,7 +1,7 @@
 ---
-Title: Think BIG, but act small  
-Date: 2018-11-22   
-URL: /think-big-and-act-small/ 
+title: Think BIG, but act small  
+date: 2018-11-22   
+url: /think-big-and-act-small/ 
 tags: [agile, scrum, action]
 ---
 

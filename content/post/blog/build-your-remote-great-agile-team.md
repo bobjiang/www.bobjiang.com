@@ -1,7 +1,7 @@
 ---
-Title: 如何打造优秀的远程敏捷团队（9步）
-Date: 2020-04-22
-URL: /build-your-remote-great-agile-team/
+title: 如何打造优秀的远程敏捷团队（9步）
+date: 2020-04-22
+url: /build-your-remote-great-agile-team/
 tags: [敏捷团队, 远程]
 ---
 

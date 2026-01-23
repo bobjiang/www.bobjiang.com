@@ -1,7 +1,7 @@
 ---
-Title: 如何在各种文化背景下成功敏捷
-Date: 2020-05-22
-URL: /success-agile-in-diff-culture/
+title: 如何在各种文化背景下成功敏捷
+date: 2020-05-22
+url: /success-agile-in-diff-culture/
 tags: [敏捷转型, 组织转型]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "我姐和我女友是如何学编程的（转）"
 date: "2013-12-05"
-URL: /learn-coding-little-sister/
+url: /learn-coding-little-sister/
 tags: [女朋友, 学编程]
 ---
 

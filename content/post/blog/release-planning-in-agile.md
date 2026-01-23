@@ -1,7 +1,9 @@
 ---
 title: "敏捷软件开发中的版本规划"
 date: "2014-01-19"
-URL: /release-planning-in-agile/
+description: "敏捷中的发布计划：在迭代开发中进行长期规划。平衡短期Sprint和长期产品路线图。"
+url: /release-planning-in-agile/
+author: "Bob Jiang"
 tags: [版本规划, 敏捷计划]
 ---
 

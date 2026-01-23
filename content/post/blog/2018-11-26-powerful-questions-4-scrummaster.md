@@ -1,7 +1,7 @@
 ---
-Title: Powerful questions for scrummaster
-Date: 2018-11-26   
-URL: /powerful-questions-4-scrummaster/ 
+title: Powerful questions for scrummaster
+date: 2018-11-26   
+url: /powerful-questions-4-scrummaster/ 
 tags: [powerful question, scrummaster]
 ---
 

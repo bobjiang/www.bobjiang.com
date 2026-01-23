@@ -1,7 +1,9 @@
 ---
 title: "Team Reflection"
 date: "2013-11-17"
-URL: /team-reflection-2013/
+description: "团队反思：Sprint回顾会议的深度实践。如何引导有效的团队回顾，促进持续改进和学习。"
+url: /team-reflection-2013/
+author: "Bob Jiang"
 tags: [team reflection, reflection]
 ---
 

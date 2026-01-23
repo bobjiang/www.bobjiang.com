@@ -1,7 +1,7 @@
 ---
-Title: To be a businessman
-Date: 2018-11-29   
-URL: /be-a-businessman-1129/ 
+title: To be a businessman
+date: 2018-11-29   
+url: /be-a-businessman-1129/ 
 tags: [businessman]
 ---
 

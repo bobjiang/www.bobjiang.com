@@ -1,7 +1,9 @@
 ---
-Title: 为什么做正确的事情这么难
-Date: 2019-04-11
-URL: /do-right-things/ 
+title: 为什么做正确的事情这么难
+date: 2019-04-11
+description: "做正确的事：敏捷价值观的核心。聚焦客户价值，避免低效工作和无用功能开发。"
+url: /do-right-things/ 
+author: "Bob Jiang"
 tags: []
 ---
 

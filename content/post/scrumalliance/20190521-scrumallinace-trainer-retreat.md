@@ -1,7 +1,9 @@
 ---
-Title: ScrumAlliance Trainer Retreat Update
-Date: 2019-05-21
-URL: /scrumalliance-trainer-retreat-update/
+title: ScrumAlliance Trainer Retreat Update
+date: 2019-05-21
+description: "Scrum Alliance培训师静修会：全球CST聚会分享教学经验、探讨Scrum教育未来。了解顶级Scrum培训师的专业发展。"
+url: /scrumalliance-trainer-retreat-update/
+author: "Bob Jiang"
 tags: [scrumallinace, trainer retreat]
 ---
 

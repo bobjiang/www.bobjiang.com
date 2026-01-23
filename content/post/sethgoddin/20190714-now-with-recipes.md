@@ -1,7 +1,7 @@
 ---
-Title: 现在有了食谱....
-Date: 2019-07-14
-URL: /now-with-recipes/
+title: 现在有了食谱....
+date: 2019-07-14
+url: /now-with-recipes/
 tags: [Seth]
 ---
 

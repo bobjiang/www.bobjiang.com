@@ -1,7 +1,9 @@
 ---
-Title: Scrum未完待续
-Date: 2020-05-18
-URL: /csm-summary-qihui/
+title: Scrum未完待续
+date: 2020-05-18
+description: "CSM学员总结-祁慧：敏捷思维方式的转变与Scrum实践应用。CSM培训带来的思维突破和工作改进。"
+url: /csm-summary-qihui/
+author: "Bob Jiang"
 tags: [csm, 敏捷认证, 课后总结, csm反馈]
 ---
 

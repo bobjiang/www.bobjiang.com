@@ -1,7 +1,9 @@
 ---
 title: "ORID和敏捷回顾会议的结合"
 date: "2013-11-12"
-URL: /agile-retrospective-orid-2013/
+description: "ORID回顾方法：焦点讨论法在Sprint回顾中的应用。结构化引导，提升回顾会议深度。"
+url: /agile-retrospective-orid-2013/
+author: "Bob Jiang"
 tags: [敏捷回顾, ORID]
 ---
 

@@ -1,7 +1,9 @@
 ---
-Title: 市场的基本原理
-Date: 2019-04-02
-URL: /market-basic-rule/ 
+title: 市场的基本原理
+date: 2019-04-02
+description: "市场营销基本规则：产品经理和敏捷团队必知的营销原理。理解用户需求，打造有市场竞争力的产品。"
+url: /market-basic-rule/ 
+author: "Bob Jiang"
 tags: []
 ---
 # 市场基本原理

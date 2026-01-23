@@ -1,7 +1,9 @@
 ---
-Title: Agile Glossaries
-Date: 2019-12-05
-URL: /agile-glossaries-en/
+title: Agile Glossaries
+date: 2019-12-05
+description: "Agile Glossary English Version: Comprehensive terminology guide for Scrum, Kanban, and Lean methodologies. Essential reference for agile practitioners."
+url: /agile-glossaries-en/
+author: "Bob Jiang"
 tags: [agile, glossary, scrum, kanban]
 ---
 

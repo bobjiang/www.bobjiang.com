@@ -1,7 +1,9 @@
 ---
-Title: CSM Training 记录、收获与心得
-Date: 2020-05-19
-URL: /csm-summary-leon/
+title: CSM Training 记录、收获与心得
+date: 2020-05-19
+description: "CSM学员总结-Leon：CSM认证培训的学习经历和实践启发。Scrum在实际项目中的应用思考。"
+url: /csm-summary-leon/
+author: "Bob Jiang"
 tags: [csm, 敏捷认证, 课后总结, csm反馈]
 ---
 

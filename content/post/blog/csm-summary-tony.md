@@ -1,7 +1,9 @@
 ---
-Title: 引导式互动交流，快速沉浸学习|参加Bob线上CSM课程总结
-Date: 2020-05-17
-URL: /csm-summary-tony/
+title: 引导式互动交流，快速沉浸学习|参加Bob线上CSM课程总结
+date: 2020-05-17
+description: "CSM学员总结-Tony：技术人员视角的Scrum理解。如何将Scrum框架应用到软件开发团队管理。"
+url: /csm-summary-tony/
+author: "Bob Jiang"
 tags: [csm, 敏捷认证, 课后总结, csm反馈]
 ---
 

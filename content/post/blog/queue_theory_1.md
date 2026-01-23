@@ -1,8 +1,10 @@
 ---
 title: "排队理论的反思（1）"
 date: "2014-03-31"
+description: "队列理论基础：精益和看板的数学原理。理解WIP限制和流动效率的科学依据。"
 coverImage: "queue.jpg"
-URL: /queue-theory-2014/
+url: /queue-theory-2014/
+author: "Bob Jiang"
 tags: [排队理论]
 ---
 

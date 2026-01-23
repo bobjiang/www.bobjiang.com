@@ -1,7 +1,9 @@
 ---
-Title: 重温Scrum精髓 - Scrum的核心到底是什么
-Date: 2020-05-08
-URL: /essense-scrum-revisit/
+title: 重温Scrum精髓 - Scrum的核心到底是什么
+date: 2020-05-08
+description: "Scrum的本质：透明性、检视与调整三大支柱。深入理解Scrum框架的核心原则和价值观。"
+url: /essense-scrum-revisit/
+author: "Bob Jiang"
 tags: [Scrum精髓, 敏捷核心]
 ---
 

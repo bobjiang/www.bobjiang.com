@@ -1,7 +1,7 @@
 ---
-Title: 比较百分比和大多数
-Date: 2019-07-25
-URL: /comparing-and-mass/
+title: 比较百分比和大多数
+date: 2019-07-25
+url: /comparing-and-mass/
 tags: [Seth Goddin, marketing]
 ---
 

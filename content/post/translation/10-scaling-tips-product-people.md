@@ -1,7 +1,7 @@
 ---
-Title: 给产品负责人的十条扩展建议
-Date: 2019-06-21
-URL: /10-scaling-tips-product-people/
+title: 给产品负责人的十条扩展建议
+date: 2019-06-21
+url: /10-scaling-tips-product-people/
 tags: [product owner]
 ---
 

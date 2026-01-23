@@ -1,7 +1,9 @@
 ---
-Title: 改善倾听的5种方式
-Date: 2019-04-18
-URL: /5-ways-to-listen-better/ 
+title: 改善倾听的5种方式
+date: 2019-04-18
+description: "5种更好倾听的方法：ScrumMaster和敏捷教练的沟通技能。提升倾听能力，理解团队真实需求。"
+url: /5-ways-to-listen-better/ 
+author: "Bob Jiang"
 tags: []
 ---
 

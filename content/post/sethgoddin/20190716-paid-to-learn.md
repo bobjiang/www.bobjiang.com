@@ -1,7 +1,7 @@
 ---
-Title: 付费学习
-Date: 2019-07-16
-URL: /paid-to-learn/
+title: 付费学习
+date: 2019-07-16
+url: /paid-to-learn/
 tags: [Seth]
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Agile is not quick"
 date: "2018-12-27"
+description: "敏捷不是快：理解敏捷开发的本质不是速度而是反馈。探讨敏捷的真正含义和价值，避免对敏捷的常见误解。"
 url: /agile-is-not-quick-en/
+author: "Bob Jiang"
 tags: [agile, adaptive]
 ---
 

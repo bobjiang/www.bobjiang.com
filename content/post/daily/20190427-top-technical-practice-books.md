@@ -1,7 +1,9 @@
 ---
-Title: 软件工程实践书籍推荐
-Date: 2019-04-27
-URL: /top-technical-practice-books/
+title: 软件工程实践书籍推荐
+date: 2019-04-27
+description: "顶级技术实践书籍推荐：敏捷开发必读书单。涵盖TDD、重构、持续集成等XP技术实践的经典著作。"
+url: /top-technical-practice-books/
+author: "Bob Jiang"
 tags: [agile, scrum, technical practice, book]
 ---
 

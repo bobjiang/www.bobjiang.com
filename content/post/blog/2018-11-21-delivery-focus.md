@@ -1,7 +1,7 @@
 ---
-Title: 交付还是交代
-Date: 2018-11-21 
-URL: /delivery-vs-discovery/ 
+title: 交付还是交代
+date: 2018-11-21 
+url: /delivery-vs-discovery/ 
 tags: [agile, scrum, delivery, discovery]
 ---
 

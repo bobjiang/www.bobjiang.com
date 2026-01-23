@@ -1,7 +1,9 @@
 ---
-Title: Scrum：用实验主义应对复杂问题的优秀框架|参加Bob线上CSM课程总结
-Date: 2020-05-16
-URL: /csm-feedback-wangfan/
+title: Scrum：用实验主义应对复杂问题的优秀框架|参加Bob线上CSM课程总结
+date: 2020-05-16
+description: "CSM学员总结-王凡：从传统项目管理到敏捷Scrum的转型。CSM认证培训后的实践经验分享。"
+url: /csm-feedback-wangfan/
+author: "Bob Jiang"
 tags: [csm, 敏捷认证, 课后总结, csm反馈]
 ---
 

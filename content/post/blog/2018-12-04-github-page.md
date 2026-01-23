@@ -1,7 +1,7 @@
 ---
-Title: Github page service
-Date: 2018-12-04
-URL: /github-page-1204/ 
+title: Github page service
+date: 2018-12-04
+url: /github-page-1204/ 
 tags: [website, github]
 ---
 

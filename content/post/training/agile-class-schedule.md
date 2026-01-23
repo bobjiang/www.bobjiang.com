@@ -1,7 +1,9 @@
 ---
-Title: 敏捷教练课程安排计划
-Date: 2020-10-10
-URL: /agile-class-schedule/
+title: 敏捷教练课程安排计划
+date: 2020-10-10
+description: "敏捷课程安排时间表：CSM认证、CSPO认证、敏捷教练培训最新开课计划。Bob Jiang全球认证Scrum培训师授课，查看课程详情和报名信息。"
+url: /agile-class-schedule/
+author: "Bob Jiang"
 tags: [敏捷教练, CSM, CSP, Agile Coach, 训练营]
 ---
 

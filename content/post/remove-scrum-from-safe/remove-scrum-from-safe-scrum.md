@@ -1,7 +1,7 @@
 ---
-Title: Scrum - SAFe请不要篡改Scrum！
-Date: 2020-01-13
-URL: /remove-scrum-from-safe-scrum/
+title: Scrum - SAFe请不要篡改Scrum！
+date: 2020-01-13
+url: /remove-scrum-from-safe-scrum/
 tags: [SAFe, Scrum, scrum guide]
 ---
 

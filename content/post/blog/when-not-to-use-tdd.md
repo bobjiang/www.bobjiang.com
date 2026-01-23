@@ -1,7 +1,9 @@
 ---
-Title: 什么时候不用测试驱动开发（TDD）
-Date: 2020-04-24
-URL: /when-not-to-use-tdd-2020/
+title: 什么时候不用测试驱动开发（TDD）
+date: 2020-04-24
+description: "何时不用TDD：测试驱动开发的适用场景。理解TDD的价值和局限，做出明智的技术实践选择。"
+url: /when-not-to-use-tdd-2020/
+author: "Bob Jiang"
 tags: [tdd, xp, Ron Jeffries, 测试驱动开发, 敏捷]
 ---
 

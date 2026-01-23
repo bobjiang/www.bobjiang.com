@@ -1,7 +1,10 @@
 ---
 title: "Scrum指南最新版 2020 Scrum权威指南 游戏规则"
 date: "2020-11-12"
-url: /scrum_guides/
+description: "Scrum指南官方中文版：Jeff Sutherland和Ken Schwaber编写的Scrum权威定义。免费下载最新版Scrum框架指南。"
+url: /scrum-guides/
+aliases: [/scrum_guides/]
+author: "Bob Jiang"
 tags: [Scrum, Scrum指南]
 ---
 

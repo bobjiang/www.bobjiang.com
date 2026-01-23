@@ -1,7 +1,9 @@
 ---
-Title: 产品管理书籍推荐
-Date: 2019-04-29
-URL: /top-product-management-books/
+title: 产品管理书籍推荐
+date: 2019-04-29
+description: "产品管理顶级书籍：产品负责人必读书单。从需求管理到产品战略的完整知识体系。"
+url: /top-product-management-books/
+author: "Bob Jiang"
 tags: [product management]
 ---
 

@@ -1,7 +1,7 @@
 ---
-Title: Do right things
-Date: 2018-12-06
-URL: /do-right-things-1206/ 
+title: Do right things
+date: 2018-12-06
+url: /do-right-things-1206/ 
 tags: []
 ---
 

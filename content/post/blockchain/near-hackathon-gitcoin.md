@@ -1,7 +1,7 @@
 ---
-Title: NEAR 黑客马拉松 (Gitcoin)
-Date: 2020-05-05
-URL: /near-hackathon-gitcoin/
+title: NEAR 黑客马拉松 (Gitcoin)
+date: 2020-05-05
+url: /near-hackathon-gitcoin/
 tags: [hackathon, blockchain, gitcoin]
 ---
 

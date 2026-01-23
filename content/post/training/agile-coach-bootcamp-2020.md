@@ -1,7 +1,9 @@
 ---
-Title: 敏捷教练训练营2020
-Date: 2020-09-11
-URL: /agile-coach-bootcamp-2020/
+title: 敏捷教练训练营2020
+date: 2020-09-11
+description: "敏捷教练训练营2020：系统学习敏捷教练技能、引导技术、组织转型实践。适合有Scrum经验的ScrumMaster和敏捷实践者进阶培训。"
+url: /agile-coach-bootcamp-2020/
+author: "Bob Jiang"
 tags: [Agile Coach]
 ---
 

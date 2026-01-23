@@ -1,7 +1,9 @@
 ---
-Title: 干货与实践
-Date: 2019-04-09
-URL: /theory-practice/ 
+title: 干货与实践
+date: 2019-04-09
+description: "理论与实践：敏捷方法论的应用差距。如何将Scrum框架理论转化为实际工作中的有效实践。"
+url: /theory-practice/ 
+author: "Bob Jiang"
 tags: []
 ---
 

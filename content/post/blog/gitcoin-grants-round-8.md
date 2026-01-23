@@ -1,7 +1,7 @@
 ---
-Title: Gitcoin第八轮支持活动（如何申请资金支持）
-Date: 2020-12-01
-URL: /gitcoin-grants-round-8/
+title: Gitcoin第八轮支持活动（如何申请资金支持）
+date: 2020-12-01
+url: /gitcoin-grants-round-8/
 tags: [gitcoin, 开源]
 ---
 

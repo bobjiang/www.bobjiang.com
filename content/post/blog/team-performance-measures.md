@@ -1,8 +1,10 @@
 ---
 title: "团队绩效指标"
 date: "2014-02-09"
+description: "团队绩效度量：超越速度和燃尽图的衡量方式。建立价值导向的度量体系，关注业务成果而非产出。"
 coverImage: "team-performance.jpg"
-URL: /team-performance-kpi-2014/
+url: /team-performance-kpi-2014/
+author: "Bob Jiang"
 tags: [团队绩效, 团队考核, 敏捷考核]
 ---
 

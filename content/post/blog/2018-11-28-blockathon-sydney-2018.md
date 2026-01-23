@@ -1,7 +1,7 @@
 ---
-Title: Sydney Blockathon
-Date: 2018-11-28   
-URL: /blockathon-sydney-1128/ 
+title: Sydney Blockathon
+date: 2018-11-28   
+url: /blockathon-sydney-1128/ 
 tags: [blockchain, blockathon]
 ---
 

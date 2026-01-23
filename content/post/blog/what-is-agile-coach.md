@@ -1,8 +1,10 @@
 ---
-Title: "什么是敏捷教练"
-Date: "2015-10-23"
-URL: /what-is-agile-coach/
+title: "什么是敏捷教练"
+date: "2015-10-23"
+description: "什么是敏捷教练：角色定义、职责范围、能力要求。敏捷教练与Scrum Master、咨询顾问的区别和职业发展路径。"
+url: /what-is-agile-coach/
 Summary: ""
+author: "Bob Jiang"
 tags: []
 ---
 

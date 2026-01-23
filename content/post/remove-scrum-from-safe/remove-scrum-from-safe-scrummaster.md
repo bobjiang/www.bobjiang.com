@@ -1,7 +1,7 @@
 ---
-Title: Scrum Master - SAFe请不要篡改Scrum！
-Date: 2020-01-13
-URL: /remove-scrum-from-safe-sm/
+title: Scrum Master - SAFe请不要篡改Scrum！
+date: 2020-01-13
+url: /remove-scrum-from-safe-sm/
 tags: [SAFe, Scrum, scrum guide, scrum master]
 ---
 

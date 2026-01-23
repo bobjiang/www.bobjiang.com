@@ -1,7 +1,9 @@
 ---
 title: "Scrum团队和直线组织兼容吗？"
 date: "2013-12-08"
-URL: /scrum-compitable-2013/
+description: "Scrum兼容的组织：什么样的组织适合Scrum。评估组织准备度，识别敏捷转型的阻碍因素。"
+url: /scrum-compitable-2013/
+author: "Bob Jiang"
 tags: [组织]
 ---
 

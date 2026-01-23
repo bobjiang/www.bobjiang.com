@@ -1,7 +1,7 @@
 ---
-Title: 如何在一年内构建8300万客户社区（译）
-Date: 2021-02-22
-URL: /how-to-build-community-with-marketing/
+title: 如何在一年内构建8300万客户社区（译）
+date: 2021-02-22
+url: /how-to-build-community-with-marketing/
 Summary: "本文是来自twitter上的一个系列推文，描述的是一年的时间通过社区方式获得了8300万客户。非常值得学习一下，尤其是对于区块链产品。"
 tags: [社区, 营销, cases]
 ---

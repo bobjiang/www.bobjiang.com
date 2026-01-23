@@ -1,7 +1,7 @@
 ---
-Title: 免费发布自己的https ssl证书 | 阿里云收费https服务应对方案
-Date: 2021-01-18
-URL: /how-to-create-your-https-certificate-free/
+title: 免费发布自己的https ssl证书 | 阿里云收费https服务应对方案
+date: 2021-01-18
+url: /how-to-create-your-https-certificate-free/
 Summary: "阿里云静态网站上如何使用自己的https证书。为自己的二级域名发布免费的https证书。"
 tags: [https证书, ssl证书, 免费, 阿里云https]
 ---

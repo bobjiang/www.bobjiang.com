@@ -1,7 +1,7 @@
 ---
-Title: 敏捷不是反管理，而是更加激进！
-Date: 2020-04-21
-URL: /agile-is-anti-management/
+title: 敏捷不是反管理，而是更加激进！
+date: 2020-04-21
+url: /agile-is-anti-management/
 tags: [敏捷, 自组织团队, Ron Jeffries]
 ---
 

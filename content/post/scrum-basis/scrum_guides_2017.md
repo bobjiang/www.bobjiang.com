@@ -1,7 +1,10 @@
 ---
 title: "Scrum指南 Scrum权威指南 游戏规则"
 date: "2017-11-12"
-url: /scrum_guides_2017/
+description: "Scrum指南2017版中文翻译：官方权威Scrum框架定义。学习Scrum角色、事件、工件和规则的完整说明。"
+url: /scrum-guides-2017/
+aliases: [/scrum_guides_2017/]
+author: "Bob Jiang"
 tags: [Scrum, Scrum指南]
 ---
 

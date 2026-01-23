@@ -1,7 +1,7 @@
 ---
-Title: 前进还是逃跑
-Date: 2019-07-20
-URL: /toward-or-away/
+title: 前进还是逃跑
+date: 2019-07-20
+url: /toward-or-away/
 tags: [Seth Goddin, marketing]
 ---
 

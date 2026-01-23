@@ -1,7 +1,9 @@
 ---
-Title: 查漏补缺，更上层楼 | 参加Bob老师CSM课程总结
-Date: 2020-05-15
-URL: /csm-summary-ouyang/
+title: 查漏补缺，更上层楼 | 参加Bob老师CSM课程总结
+date: 2020-05-15
+description: "CSM学员总结-欧阳：Scrum Master角色理解与成长路径。从CSM培训到实践ScrumMaster的心路历程。"
+url: /csm-summary-ouyang/
+author: "Bob Jiang"
 tags: [csm, 敏捷认证, 课后总结, csm反馈]
 ---
 

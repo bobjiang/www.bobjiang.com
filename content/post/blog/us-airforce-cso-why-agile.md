@@ -1,7 +1,9 @@
 ---
 title: "美国空军国防部企业级DevSecOps启动会探讨"
 date: "2019-12-12"
+description: "美国空军首席软件官谈敏捷：为什么政府和国防部门需要敏捷开发。了解敏捷如何在高度监管环境中提升软件交付效率和质量。"
 url: "/ama-us-airforce-devsecops/"
+author: "Bob Jiang"
 tags: [devops, SAFe, devsecops, airforce]
 ---
 本文是针对于最近网上流传的美国空军国防部企业级DevSecOps启动会上，对于敏捷的疑问展开讨论。

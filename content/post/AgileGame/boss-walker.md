@@ -1,8 +1,11 @@
 ---
-Title: 老板和走路人的游戏（boss walker）- 敏捷自组织团队游戏
-Date: 2015-06-19
-URL: /boss_walker_agile_game/
-tags: [敏捷游戏 , 自组织, games]
+title: "老板和走路人的游戏（boss walker）- 敏捷自组织团队游戏"
+date: 2015-06-19
+url: /boss-walker-agile-game/
+aliases: [/boss_walker_agile_game/]
+description: "Boss Walker游戏：体验敏捷自组织团队的力量。通过两轮对比实验理解命令控制与自组织的区别，帮助团队建立自主管理能力。"
+tags: [敏捷游戏 , 自组织, games, scrum]
+author: "Bob Jiang"
 ---
 
 这个游戏一共分两轮

@@ -1,7 +1,9 @@
 ---
-Title: 再次强调完成的定义（DoD）
-Date: 2020-05-18
-URL: /revisit-dod/
+title: 再次强调完成的定义（DoD）
+date: 2020-05-18
+description: "重新审视完成的定义(DoD)：Definition of Done在Scrum中的重要性。如何制定和使用DoD提升交付质量。"
+url: /revisit-dod/
+author: "Bob Jiang"
 tags: [完成的定义, 验收标准]
 ---
 

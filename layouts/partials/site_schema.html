@@ -1,0 +1,144 @@
+{{ if .IsHome -}}
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "thumbnailUrl": "{{ if .Site.Params.logo.image }}{{ .Site.Params.logo.image | absURL }}{{ else }}{{ .Site.Params.Logo | absURL }}{{ end }}",
+    "license": "{{ .Site.Params.Copyright }}"
+}
+</script>
+{{- /* Enhanced Organization Schema with social profiles */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Bob Jiang 敏捷培训",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ if .Site.Params.logo.image }}{{ .Site.Params.logo.image | absURL }}{{ else }}{{ .Site.Params.Logo | absURL }}{{ end }}",
+  "sameAs": [
+    "https://twitter.com/bobjiang123",
+    "https://www.linkedin.com/in/xinbaojiang",
+    "https://github.com/bobjiang",
+    "https://www.youtube.com/channel/UCY6l_ASrqbDks31hMFrtkYA"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "bobjiang@bobjiang.com",
+    "contactType": "Customer Service"
+  }
+}
+</script>
+{{ else if .IsPage }}
+{{ $author :=  or (.Params.author) (.Site.Params.Author.name) }}
+{{ $org_name :=  .Site.Title }}
+{{ $logo_url := "" }}
+{{ if .Site.Params.logo.image }}
+  {{ $logo_url = .Site.Params.logo.image | absURL }}
+{{ else if .Site.Params.Logo }}
+  {{ $logo_url = .Site.Params.Logo | absURL }}
+{{ end }}
+{{- /* Breadcrumb Schema */ -}}
+{{ if .Section }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "首页",
+    "item": "{{ .Site.BaseURL }}"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "{{ .Section }}",
+    "item": "{{ .Site.BaseURL }}{{ .Section }}/"
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "{{ .Title }}",
+    "item": "{{ .Permalink }}"
+  }]
+}
+</script>
+{{ end }}
+{{- /* Check if this is a Course post (CSM, CSPO, training-related tags) */ -}}
+{{ $isCourse := false }}
+{{ if .Params.tags }}
+  {{ range .Params.tags }}
+    {{ if or (in (lower .) "csm") (in (lower .) "cspo") (in (lower .) "认证") (in (lower .) "培训") }}
+      {{ $isCourse = true }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if $isCourse }}
+{{- /* Course Schema for training posts */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "{{ .Title }}",
+  "description": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}",
+  "provider": {
+    "@type": "Organization",
+    "name": "Bob Jiang 敏捷培训",
+    "url": "{{ .Site.BaseURL }}"
+  }
+}
+</script>
+{{ end }}
+{{- /* BlogPosting Schema */ -}}
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "{{ .Section }}",
+    "name": "{{ .Title | safeJS }}",
+    "headline": "{{ .Title | safeJS }}",
+    "alternativeHeadline": "{{ .Params.lead }}",
+    "description": "{{ if .Description }}{{ .Description | safeJS }}{{ else }}{{if .IsPage}}{{ .Summary  }}{{ end }}{{ end }}",
+    "inLanguage": {{ .Site.LanguageCode | default "en-us" }},
+    "isFamilyFriendly": "true",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+    },
+    "author" : {
+        "@type": "Person",
+        "name": "{{ $author }}"
+    },
+    "creator" : {
+        "@type": "Person",
+        "name": "{{ $author }}"
+    },
+    "accountablePerson" : {
+        "@type": "Person",
+        "name": "{{ $author }}"
+    },
+    "copyrightHolder" : "{{ $org_name }}",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
+    "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+    "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+    "publisher":{
+        "@type":"Organization",
+        "name": {{ $org_name }},
+        "url": {{ .Site.BaseURL }},
+        "logo": {
+            "@type": "ImageObject",
+            "url": "{{ $logo_url }}",
+            "width":"32",
+            "height":"32"
+        }
+    },
+    "image": {{ if .Params.images }}[{{ range $i, $e := .Params.images }}{{ if $i }}, {{ end }}{{ $e | absURL }}{{ end }}]{{ else}}"{{ $logo_url }}"{{ end }},
+    "url" : "{{ .Permalink }}",
+    "wordCount" : "{{ .WordCount }}",
+    "genre" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
+    "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
+}
+</script>
+{{ end }}

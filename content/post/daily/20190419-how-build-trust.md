@@ -1,7 +1,9 @@
 ---
-Title: 如何构建信任
-Date: 2019-04-19
-URL: /how-to-build-trust/ 
+title: 如何构建信任
+date: 2019-04-19
+description: "如何建立信任：敏捷团队协作的基础。通过透明沟通和一致行为，建立高信任度团队文化。"
+url: /how-to-build-trust/ 
+author: "Bob Jiang"
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
-Title: Free as in freedom
-Date: 2018-12-18
-URL: /free-as-in-freedom/ 
+title: Free as in freedom
+date: 2018-12-18
+url: /free-as-in-freedom/ 
 tags: []
 ---
 

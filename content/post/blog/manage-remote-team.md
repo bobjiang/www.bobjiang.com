@@ -1,7 +1,9 @@
 ---
-Title: 管理远程团队的5个必备要点
-Date: 2020-04-27
-URL: /manage-remote-teams/
+title: 管理远程团队的5个必备要点
+date: 2020-04-27
+description: "管理远程团队：分布式团队的协作最佳实践。克服时差、文化差异，建立高效远程工作模式。"
+url: /manage-remote-teams/
+author: "Bob Jiang"
 tags: [远程工作, 远程办公]
 ---
 

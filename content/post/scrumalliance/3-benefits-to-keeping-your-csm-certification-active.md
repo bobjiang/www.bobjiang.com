@@ -1,7 +1,9 @@
 ---
-Title: 为什么要学习Certified Scrum Master（CSM）并续费证书
-Date: 2020-07-26
-URL: /3-benefits-to-keeping-your-csm-certification-active/
+title: 为什么要学习Certified Scrum Master（CSM）并续费证书
+date: 2020-07-26
+description: "保持CSM认证有效的3大好处：职业发展、持续学习、社区网络。为什么应该续证CSM而不是让它过期。"
+url: /3-benefits-to-keeping-your-csm-certification-active/
+author: "Bob Jiang"
 tags: [Certified Scrum Master, CSM, 敏捷认证, 敏捷证书]
 ---
 

@@ -1,7 +1,10 @@
 ---
 title: "Scrum框架-Scrum入门基础系列"
 date: "2014-10-30"
-url: /scrum_framework/
+description: "Scrum框架完整介绍：三个角色、五个事件、三个工件。理解Scrum如何帮助团队以迭代方式交付高价值产品。"
+url: /scrum-framework/
+aliases: [/scrum_framework/]
+author: "Bob Jiang"
 tags: [Scrum, Scrum入门]
 ---
 

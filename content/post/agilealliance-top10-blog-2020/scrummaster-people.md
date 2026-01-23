@@ -1,8 +1,10 @@
 ---
-Title: ScrumMaster也是人 | 敏捷联盟2020年十大博客
-Date: 2021-01-02
-URL: /scrummaster-people-2/
-tags: [scrum master]
+title: "ScrumMaster也是人 | 敏捷联盟2020年十大博客"
+date: 2021-01-02
+url: /scrummaster-people-2/
+description: "敏捷联盟2020年十大博客之一：理解ScrumMaster也是人，如何帮助新手Scrum Master成长，六个实用建议促进团队协作和障碍消除。"
+tags: [scrum master, 敏捷联盟]
+author: "Bob Jiang"
 ---
 
 有很棒的Scrum Master，也有糟糕的Scrum Master。

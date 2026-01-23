@@ -1,7 +1,7 @@
 ---
-Title: 敏捷软件开发绩效管理系列之如何考核敏捷团队
-Date: 2017-02-09 08:51:53
-URL: /agile-measurement-performance-management-agile-coach/
+title: 敏捷软件开发绩效管理系列之如何考核敏捷团队
+date: 2017-02-09 08:51:53
+url: /agile-measurement-performance-management-agile-coach/
 Summary: "敏捷度量以及绩效管理，敏捷团队的考核和敏捷团队度量一直是个难题。本文会从度量的目标开始，然后进一步阐述度量的指标有哪些。"
 tags: [敏捷, 绩效管理, 敏捷度量]
 ---

@@ -1,7 +1,7 @@
 ---
-Title: 六大秘籍教你月入50000
-Date: 2020-06-10
-URL: /50000-salary-shimo/
+title: 六大秘籍教你月入50000
+date: 2020-06-10
+url: /50000-salary-shimo/
 tags: [个人成长]
 ---
 

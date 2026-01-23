@@ -1,7 +1,7 @@
 ---
-Title: 这是哪种演示？
-Date: 2019-07-17
-URL: /which-sort-of-presentation-is-this/
+title: 这是哪种演示？
+date: 2019-07-17
+url: /which-sort-of-presentation-is-this/
 tags: [Seth Goddin, marketing]
 ---
 

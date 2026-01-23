@@ -1,7 +1,9 @@
 ---
-Title: 敏捷与架构的关系
-Date: 2019-05-09
-URL: /agile-architecture/
+title: 敏捷与架构的关系
+date: 2019-05-09
+description: "敏捷架构设计：如何在敏捷开发中进行架构设计和演进。平衡前期设计与持续重构，构建可演进的架构。"
+url: /agile-architecture/
+author: "Bob Jiang"
 tags: [agile, architecture, 敏捷架构]
 ---
 

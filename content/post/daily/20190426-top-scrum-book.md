@@ -1,7 +1,9 @@
 ---
-Title: Scrum书籍推荐
-Date: 2019-04-26
-URL: /top-scrum-book/
+title: Scrum书籍推荐
+date: 2019-04-26
+description: "Scrum顶级书籍推荐：2019年最值得阅读的Scrum和敏捷开发书籍。从初学者到专家的完整书单，系统提升Scrum知识和实践能力。"
+url: /top-scrum-book/
+author: "Bob Jiang"
 tags: [agile, scrum, book]
 ---
 

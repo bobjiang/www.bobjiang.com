@@ -1,7 +1,9 @@
 ---
-Title: Scrum培训感想
-Date: 2020-05-19
-URL: /csm-summary-huan/
+title: Scrum培训感想
+date: 2020-05-19
+description: "CSM学员总结-燕欢：产品经理的Scrum学习之旅。如何运用Scrum框架提升产品管理能力。"
+url: /csm-summary-huan/
+author: "Bob Jiang"
 tags: [csm, 敏捷认证, 课后总结, csm反馈]
 ---
 

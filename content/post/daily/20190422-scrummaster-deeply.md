@@ -1,7 +1,9 @@
 ---
-Title: 深入理解ScrumMaster的技能
-Date: 2019-04-22
-URL: /scrummaster-skills-deeply/ 
+title: 深入理解ScrumMaster的技能
+date: 2019-04-22
+description: "深入理解ScrumMaster角色：不仅是流程管理者，更是仆人式领导和变革推动者。探索ScrumMaster的深层职责和影响力。"
+url: /scrummaster-skills-deeply/ 
+author: "Bob Jiang"
 tags: [scrummaster, skills, agile coach]
 ---
 
