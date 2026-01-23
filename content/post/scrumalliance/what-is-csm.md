@@ -2,6 +2,7 @@
 title: "什么是CSM（Certified ScrumMaster）"
 date: "2013-07-20"
 url: /what-is-csm/
+description: "CSM（Certified ScrumMaster）是Scrum联盟官方认证，帮助您掌握Scrum框架核心知识，拓展敏捷职业机会。了解CSM认证收益、考试流程及如何获得全球认可的Scrum Master证书。"
 tags: [csm, scrum, scrum联盟]
 ---
 

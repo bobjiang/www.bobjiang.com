@@ -2,6 +2,7 @@
 title: 你用的是正确的文化模式吗
 date: 2019-06-21
 url: /are-you-using-right-culture-model/
+description: "组织文化模式对比分析：施耐德、竞争价值观框架与拉卢模型深度解读。揭示高绩效文化的真正定义，学习如何选择并应用最适合的文化模式推动敏捷转型成功。"
 tags: [culture, model]
 ---
 

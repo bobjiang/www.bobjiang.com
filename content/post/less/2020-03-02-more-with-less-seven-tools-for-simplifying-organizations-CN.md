@@ -2,6 +2,7 @@
 title: 少即是多 - 组织简化的7个设计原则
 date: 2020-03-01
 url: /less-principles-less-is-more/
+description: "LeSS核心原则解读：从专业角色到团队、从资源思维到人才思维等7大组织简化设计原则。学习如何通过简化组织提升业务敏捷性与客户价值交付，打造适应性强的敏捷组织。"
 tags: [less, less principles, agile case study, 敏捷案例, 规模化敏捷]
 ---
 

@@ -2,6 +2,7 @@
 title: Sita - 边境安检 LeSS案例 （大规模敏捷案例分析）
 date: 2020-03-01
 url: /sita-less-case-study/
+description: "SITA边境安检系统LeSS实践案例：离岸开发环境下的规模化Scrum成功之道。从组件团队到特性团队的转型经验，解决分布式团队协作与跨职能团队建设难题。"
 tags: [sita, less, agile case study, 敏捷案例, 规模化敏捷]
 ---
 

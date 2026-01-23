@@ -2,6 +2,7 @@
 title: 德国大保险公司（化名） LeSS案例 （大规模敏捷案例分析）
 date: 2020-03-01
 url: /insurance-less-case-study/
+description: "德国保险巨头LeSS Huge转型真实案例：从Scrum到规模化敏捷的完整历程。深度剖析部门重设计、需求领域建立、LeSS事件引入等关键步骤与挑战，规模化敏捷实践必读。"
 tags: [less, agile case study, 敏捷案例, 规模化敏捷]
 ---
 

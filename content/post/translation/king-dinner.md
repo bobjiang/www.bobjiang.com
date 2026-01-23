@@ -2,6 +2,7 @@
 title: 国王的晚宴 King's dinner
 date: 2020-07-09
 url: /king-dinner/
+description: "Ron Jeffries经典寓言故事：通过国王与工匠的对话，深刻阐释项目管理中资源、质量、范围与时间的关系。理解技术债务、过度干预与可持续节奏的重要性。"
 aliases: [/king_dinner/]
 tags: [Ron Jeffries]
 ---

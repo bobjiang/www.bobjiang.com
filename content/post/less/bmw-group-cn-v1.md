@@ -2,6 +2,7 @@
 title: 宝马集团 LeSS案例 （大规模敏捷案例分析）
 date: 2020-03-01
 url: /bmw-group-less-case-study/
+description: "宝马集团BMW i统一销售平台LeSS转型案例：从单一Scrum团队到多个特性团队的敏捷扩展实践。学习汽车制造业如何在传统项目集环境中成功实施规模化敏捷开发。"
 tags: [bmw group, 宝马集团, less, agile case study, 敏捷案例, 规模化敏捷, cases, scaling]
 ---
 # 巴伐利亚汽车制造商的LeSS转型

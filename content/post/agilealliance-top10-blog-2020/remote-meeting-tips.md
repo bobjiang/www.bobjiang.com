@@ -2,6 +2,7 @@
 title: 远程会议的小窍门 | 敏捷联盟2020年十大博客
 date: 2020-12-30
 url: /remote-meeting-tips/
+description: "远程会议高效运作指南：议程设置、工具使用、签到流程、结构化提问等6大实用技巧。适用于远程工作、在线协作与虚拟团队管理，显著提升会议效率。"
 author: "Bob Jiang"
 tags: [remote meeting, 远程会议]
 ---

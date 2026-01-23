@@ -2,6 +2,7 @@
 title: "敏捷认证大全"
 date: "2019-11-20"
 url: /agile-certification/
+description: "2024最新敏捷认证对比指南：Scrum联盟CSM、Scrum.org PSM、PMI-ACP、LeSS、SAFe等7大机构认证体系、考试难度、费用及权威性全面分析，助您选择最适合的敏捷认证。"
 tags: [敏捷认证, csm, acp, scrum]
 ---
 今年年初，我曾经写过一篇[敏捷认证对比](/agile-certification-comparison/)的博客。后来有博友咨询是否有更新，今天特地抽出时间整理了一下最新情况。

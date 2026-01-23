@@ -2,6 +2,7 @@
 title: "Scrum联盟中文"
 date: "2019-05-05"
 url: /scrumalliance/
+description: "Scrum联盟中文资源导航：CSM/CSPO认证介绍、考试流程、常见问题、SEU教育学分及与其他敏捷机构对比。一站式获取Scrum联盟认证全方位信息。"
 ---
 
 **敏捷认证的对比**

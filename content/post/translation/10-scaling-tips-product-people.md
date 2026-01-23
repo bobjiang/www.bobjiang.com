@@ -2,6 +2,7 @@
 title: 给产品负责人的十条扩展建议
 date: 2019-06-21
 url: /10-scaling-tips-product-people/
+description: "Product Owner规模化实战指南：Roman Pichler分享10条产品扩展建议，包含团队组建、有机增长、功能团队、产品路线图等关键策略，助力产品负责人有效管理成长中的产品。"
 tags: [product owner]
 ---
 

@@ -2,6 +2,7 @@
 title: LeSS案例 Sys商店（大规模敏捷案例分析）
 date: 2020-03-01
 url: /sys-store-less-case-study/
+description: "Sys电商平台LeSS转型案例：从传统组织到规模化敏捷的艰难历程。揭示未在一开始建立合适组织结构的后果与教训，深度解析拉曼组织行为定律在实践中的体现。"
 tags: [sys, less, agile case study, 敏捷案例, 规模化敏捷]
 ---
 

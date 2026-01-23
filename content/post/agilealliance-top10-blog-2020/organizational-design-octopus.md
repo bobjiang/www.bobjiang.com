@@ -2,6 +2,7 @@
 title: 章鱼对敏捷组织设计的启示 | 敏捷联盟2020年十大博客
 date: 2020-12-31
 url: /agile-organization-design-octopus/
+description: "从章鱼神经系统学习敏捷组织设计原则：探索Spotify模型、分布式决策与自组织团队。深入理解VUCA环境下敏捷组织结构的核心特征与实践路径。"
 author: "Bob Jiang"
 tags: [agile organization, 敏捷组织设计]
 ---
