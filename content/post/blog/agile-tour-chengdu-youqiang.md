@@ -1,4 +1,5 @@
 ---
+description: "如何成为引爆点:成都敏捷之旅爆红话题背后的故事。Malcolm Gladwell引爆点理论在社区活动中的实践,学习内容传播与影响力打造策略。"
 title: "如何成为引爆点 - 从成都敏捷之旅爆红话题的背后故事说起"
 date: "2015-12-23"
 coverImage: "Screen-Shot-2015-12-23-at-11.30.44-PM.png"

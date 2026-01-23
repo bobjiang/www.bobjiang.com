@@ -1,4 +1,5 @@
 ---
+description: "即兴表演在敏捷中的应用:快速响应与创造力培养。体验即兴表演(Improv)如何提升团队适应性、沟通能力与协作默契,丰富敏捷实践工具箱。"
 title: "即兴表演体验"
 date: "2019-11-24"
 url: "/improvisation-performance-taste/"
