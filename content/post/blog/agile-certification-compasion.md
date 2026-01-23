@@ -1,4 +1,5 @@
 ---
+description: "敏捷认证全面对比:Scrum联盟CSM、Scrum.org PSM、PMI-ACP等主流认证。分析各认证体系特点、考试难度、费用及职业发展价值,助力认证选择决策。"
 title: "敏捷认证对比"
 date: "2019-04-30"
 url: "/agile-certification-comparison/"

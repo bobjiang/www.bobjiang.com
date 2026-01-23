@@ -1,4 +1,5 @@
 ---
+description: "Scrum回顾会议(Retrospective)创意玩法:有趣高效的团队反思方法。收录多种回顾会议形式与活动设计,激发团队参与提升持续改进效果。"
 title: "有趣方式的回顾会议（Retrospective）"
 date: "2013-12-23"
 ---

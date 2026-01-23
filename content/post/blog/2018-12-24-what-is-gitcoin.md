@@ -1,4 +1,5 @@
 ---
+description: "GitCoin平台详解:开源项目激励与去中心化协作生态。了解GitCoin如何通过区块链技术连接开发者与项目,实现开源贡献的价值化与可持续发展。"
 title: 什么是GitCoin
 date: 2018-12-24
 url: /what-is-gitcoin-20181224/ 

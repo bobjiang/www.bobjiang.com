@@ -1,4 +1,5 @@
 ---
+description: "超越指责的一致性沟通:萨提亚沟通模式在团队协作中的应用。学习如何通过一致性沟通建立信任、化解冲突,提升团队协作效能与心理安全感。"
 title: 超越指责（Beyond Blaming） -- 一致性沟通
 date: 2020-08-09
 url: /beyond-blaming/

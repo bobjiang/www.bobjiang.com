@@ -1,4 +1,5 @@
 ---
+description: "Google OKR与传统KPI的本质区别:目标管理理念与实践对比。深入理解OKR聚焦目标与关键结果、KPI侧重考核指标的差异,选择适合组织的目标管理方法。"
 title: "谈谈Google的OKR与其他公司KPI的不同之处"
 date: "2014-02-16"
 coverImage: "google-okr.jpg"
