@@ -2,6 +2,7 @@
 title: 开发团队 - SAFe请不要篡改Scrum！
 date: 2020-01-13
 url: /remove-scrum-from-safe-devteam/
+description: "SAFe开发团队缺失自组织核心：系统架构师与解决方案架构师角色侵蚀团队自主性。对比Scrum指南，揭示SAFe框架破坏开发团队自组织的机制。"
 tags: [SAFe, Scrum, scrum guide, scrum master]
 ---
 

@@ -2,6 +2,7 @@
 title: Scrum Master - SAFe请不要篡改Scrum！
 date: 2020-01-13
 url: /remove-scrum-from-safe-sm/
+description: "SAFe中ScrumMaster角色的严重偏差：缺失组织指导与变革职责，导致局部优化的Scrum反模式。对比Scrum指南，揭示SAFe框架对SM角色的误导性定义。"
 tags: [SAFe, Scrum, scrum guide, scrum master]
 ---
 

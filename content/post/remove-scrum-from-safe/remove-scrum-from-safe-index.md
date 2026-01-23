@@ -2,6 +2,7 @@
 title: SAFe请不要篡改Scrum！
 date: 2020-01-13
 url: /remove-scrum-from-safe-index/
+description: "深度剖析SAFe对Scrum的误导：ScrumMaster、ProductOwner、开发团队角色偏差与Scrum反模式。揭示SAFe框架中无法实施真正Scrum的根本原因，避免敏捷转型陷阱。"
 tags: [SAFe, Scrum, scrum guide]
 ---
 

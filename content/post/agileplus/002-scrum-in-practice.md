@@ -2,6 +2,7 @@
 title: Scrum落地关键实践 | 敏捷家分享002
 date: 2020-03-29
 url: /scrum-in-practice-002/
+description: "网易敏捷实践分享：Scrum难以落地的真正原因及解决方案。从敏捷宣言第一条出发，深度剖析人与协作在Scrum框架实施中的关键作用，助力敏捷转型成功落地。"
 tags: [敏捷家]
 ---
 

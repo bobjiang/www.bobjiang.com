@@ -2,6 +2,7 @@
 title: OKR痛点与误区 | 敏捷家分享007
 date: 2020-05-03
 url: /okr-misunderstandings/
+description: "资深敏捷教练大叔杨分享OKR实战痛点：OKR与KPI关系辨析、常见误区解读及落地实践建议。敏捷圈必学的OKR课程精华，助力OKR在组织中成功应用。"
 tags: [okr, 敏捷家]
 ---
 

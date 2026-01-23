@@ -2,6 +2,7 @@
 title: 敏捷与OKR -系统思考与组织设计的艺术 | 敏捷家分享004
 date: 2020-04-12
 url: /agile-okr-youzan/
+description: "有赞OKR实践经验分享：系统思考与组织设计在敏捷与OKR融合中的应用。学习如何突破角色局限，从更高维度实践敏捷，实现局部优化到全局理性的跃迁。"
 tags: [agile, okr, 敏捷家]
 ---
 

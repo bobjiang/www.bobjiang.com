@@ -2,6 +2,7 @@
 title: 我在哈啰的敏捷之旅 | 敏捷家分享005
 date: 2020-04-19
 url: /grow-in-agile-practice/
+description: "哈啰出行敏捷实践全景：Scrum操作、透明拉通团队共识、内驱力模型激励及ScrumMaster培养体系。学习如何兼顾多Scrum团队并建设内部敏捷社区Thor。"
 tags: [agile, 敏捷家]
 ---
 

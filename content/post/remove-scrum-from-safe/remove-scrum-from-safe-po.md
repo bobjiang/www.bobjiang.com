@@ -2,6 +2,7 @@
 title: 产品负责人 - SAFe请不要篡改Scrum！
 date: 2020-01-13
 url: /remove-scrum-from-safe-po/
+description: "SAFe产品负责人角色的根本缺陷：非唯一决策者、多PO多待办列表的功能障碍。对比Scrum指南规模化方案，揭示SAFe框架对PO角色的错误实践。"
 tags: [SAFe, Scrum, scrum guide, product owner]
 ---
 

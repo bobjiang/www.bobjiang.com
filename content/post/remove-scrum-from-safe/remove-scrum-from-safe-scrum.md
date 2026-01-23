@@ -2,6 +2,7 @@
 title: Scrum - SAFe请不要篡改Scrum！
 date: 2020-01-13
 url: /remove-scrum-from-safe-scrum/
+description: "为何SAFe中无法实施真正Scrum：组件团队vs特性团队、局部优化vs产品价值。揭示SAFe敏捷团队与Scrum产品开发理念的根本冲突与功能依赖陷阱。"
 tags: [SAFe, Scrum, scrum guide]
 ---
 
