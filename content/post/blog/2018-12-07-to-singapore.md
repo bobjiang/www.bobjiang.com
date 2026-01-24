@@ -1,4 +1,5 @@
 ---
+description: "新加坡之行见闻:全球化视野下的敏捷实践。分享新加坡敏捷社区交流、跨文化协作观察与国际化发展思考。"
 title: Singapore
 date: 2018-12-07
 url: /singapore-1207/ 

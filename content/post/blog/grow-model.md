@@ -1,4 +1,5 @@
 ---
+description: "GROW教练模型:目标导向的对话框架。详解目标(Goal)、现状(Reality)、选项(Options)、意愿(Will)四步法,提升教练对话效果。"
 title: "GROW模型"
 date: "2014-01-23"
 coverImage: "GROW_Model.jpg"

@@ -1,4 +1,5 @@
 ---
+description: "GitHub Pages建站指南:免费搭建个人博客网站。详细介绍GitHub Pages配置、Jekyll主题定制、自定义域名绑定等技术要点。"
 title: Github page service
 date: 2018-12-04
 url: /github-page-1204/ 

@@ -1,4 +1,5 @@
 ---
+description: "GitCoin大使计划:开源社区建设者的角色与责任。分享GitCoin生态推广、社区活动组织、开发者激励等实践经验。"
 title: Gitcoin Ambassador
 date: 2018-11-27   
 url: /gitcoin-ambassador-1126/ 

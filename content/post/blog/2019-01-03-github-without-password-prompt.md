@@ -1,4 +1,5 @@
 ---
+description: "GitHub免密码登录配置:SSH密钥设置完全指南。详解SSH密钥生成、添加到GitHub账户、解决常见问题,提升开发效率。"
 title: github ssh push不用输入密码
 date: 2019-01-03
 url: /github-ssh-push-without-password-prompt/ 

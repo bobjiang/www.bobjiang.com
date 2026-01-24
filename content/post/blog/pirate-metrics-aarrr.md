@@ -1,4 +1,5 @@
 ---
+description: "海盗指标AARRR模型:增长黑客的核心框架。详解获取(Acquisition)、激活(Activation)、留存(Retention)、收入(Revenue)、推荐(Referral)五大关键指标,驱动产品增长。"
 title: "连海盗都震惊了！我们居然做到了27‰的付费转化率！"
 date: "2015-12-18"
 url: /aarrr-metric-in-agile-2015/

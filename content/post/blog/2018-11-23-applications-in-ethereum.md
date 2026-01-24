@@ -1,4 +1,5 @@
 ---
+description: "以太坊应用开发实践:去中心化应用(DApp)入门。介绍智能合约、Web3.js、MetaMask集成等核心技术,构建区块链应用。"
 title: Applications in Ethereum
 date: 2018-11-23   
 url: /applications-in-ethereum/ 

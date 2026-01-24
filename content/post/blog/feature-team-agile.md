@@ -1,4 +1,5 @@
 ---
+description: "特性团队vs组件团队:敏捷组织结构设计。对比两种团队模式优劣、适用场景与转型路径,打造端到端价值交付能力。"
 title: "特性团队是敏捷必须的吗？"
 date: "2015-12-21"
 coverImage: "feature-team.jpg"

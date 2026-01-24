@@ -1,4 +1,5 @@
 ---
+description: "ScrumMaster的强力提问:教练式引导的核心技能。收录20+强力问题模板,学习如何通过提问激发团队思考、促进自组织与问题解决。"
 title: Powerful questions for scrummaster
 date: 2018-11-26   
 url: /powerful-questions-4-scrummaster/ 

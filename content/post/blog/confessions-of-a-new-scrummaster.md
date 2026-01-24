@@ -1,4 +1,5 @@
 ---
+description: "新晋ScrumMaster的自白:角色转型的真实挑战。分享从开发者到ScrumMaster的心路历程、常见困惑与成长感悟。"
 title: "一个ScrumMaster的自白"
 date: "2014-01-25"
 coverImage: "scrum-master.png"

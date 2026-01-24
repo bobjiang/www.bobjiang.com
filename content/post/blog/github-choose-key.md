@@ -1,4 +1,5 @@
 ---
+description: "GitHub多SSH密钥管理:不同项目使用不同密钥。解决多账户SSH配置、密钥选择、安全隔离等实际场景问题。"
 title: Github指定本地私钥访问仓库
 date: 2020-12-21
 url: /github-choose-key/

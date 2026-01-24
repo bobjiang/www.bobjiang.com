@@ -1,4 +1,5 @@
 ---
+description: "好创意从哪里来:创新环境与思维模式。Steven Johnson洞察解读,理解创新网络、液态网络、相邻可能等创意孵化机制。"
 title: "伟大创意的诞生"
 date: "2016-01-04"
 coverImage: "great-ideas.jpg"

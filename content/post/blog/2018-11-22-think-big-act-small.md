@@ -1,4 +1,5 @@
 ---
+description: "大处着眼小处着手:敏捷战略与执行的平衡。学习如何制定远大愿景同时从小步快跑开始,实现渐进式创新与持续价值交付。"
 title: Think BIG, but act small  
 date: 2018-11-22   
 url: /think-big-and-act-small/ 

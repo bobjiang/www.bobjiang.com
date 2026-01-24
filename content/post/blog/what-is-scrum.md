@@ -1,4 +1,5 @@
 ---
+description: "什么是Scrum:敏捷开发框架核心入门。全面介绍Scrum三个角色、五个事件、三个工件及其协作机制,快速理解Scrum精髓。"
 title: "7分钟揭晓Scrum的秘密（Scrum框架）"
 date: "2020-03-16"
 url: /what-is-scrum/

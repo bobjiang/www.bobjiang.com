@@ -1,4 +1,5 @@
 ---
+description: "EHF(Executives Helping Families)介绍:高管志愿服务项目。分享企业社会责任实践、志愿者文化建设与公益活动组织经验。"
 title: Edmund Hillary Fellowship (EHF) 介绍
 date: "2020-04-06"
 url: /ehf-introduction/

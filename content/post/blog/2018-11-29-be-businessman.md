@@ -1,4 +1,5 @@
 ---
+description: "成为商人思维:敏捷教练的商业意识。探讨如何理解客户需求、创造商业价值、建立可持续商业模式,提升敏捷咨询专业度。"
 title: To be a businessman
 date: 2018-11-29   
 url: /be-a-businessman-1129/ 

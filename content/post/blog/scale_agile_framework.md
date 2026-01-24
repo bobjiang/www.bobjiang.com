@@ -1,4 +1,5 @@
 ---
+description: "规模化敏捷框架(SAFe)详解:大型组织敏捷转型指南。介绍SAFe核心概念、实施层级、角色职责与最佳实践,助力企业级敏捷落地。"
 title: "谈谈SAFe大规模敏捷框架（Scale Agile Framework）"
 date: "2014-04-07"
 coverImage: "safe.jpg"

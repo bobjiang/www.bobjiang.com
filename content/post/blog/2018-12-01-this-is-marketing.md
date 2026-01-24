@@ -1,4 +1,5 @@
 ---
+description: "这就是营销:Seth Godin营销智慧精华。解读现代营销本质、共情连接、最小可行受众等核心理念,重塑营销认知框架。"
 title: This is marketing
 date: 2018-12-01
 url: /this-is-marketing-1201/ 

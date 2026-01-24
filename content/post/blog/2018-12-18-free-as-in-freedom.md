@@ -1,4 +1,5 @@
 ---
+description: "自由如自由软件:开源精神的哲学内涵。探讨开源运动、知识共享、协作文化与数字时代的自由理念,理解开源的深层价值。"
 title: Free as in freedom
 date: 2018-12-18
 url: /free-as-in-freedom/ 

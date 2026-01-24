@@ -1,4 +1,5 @@
 ---
+description: "敏捷回顾会议实践指南:持续改进的催化剂。分享回顾会设计技巧、引导方法与常见陷阱,激发团队自我反思与主动改进。"
 title: Why it is important with retrospectives
 date: 2018-11-20
 url: /why-it-is-important-retrospectives/

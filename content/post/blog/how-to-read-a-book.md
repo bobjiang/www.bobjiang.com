@@ -1,4 +1,5 @@
 ---
+description: "如何阅读一本书:高效阅读方法论。Mortimer Adler经典解读,掌握基础阅读、检视阅读、分析阅读、主题阅读四个层次。"
 title: "《如何阅读一本书》读书笔记"
 date: "2014-02-13"
 coverImage: "how-to-read-a-book.jpg"

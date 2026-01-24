@@ -1,4 +1,5 @@
 ---
+description: "《Scrum精髓》书籍导读:全面系统的Scrum学习指南。Kenny Rubin经典著作精华提炼,涵盖核心概念、最佳实践与实施路线图。"
 title: "《Scrum精髓》内容简介"
 date: "2014-05-12"
 coverImage: "Screen-Shot-2014-05-12-at-8.32.24-PM.png"

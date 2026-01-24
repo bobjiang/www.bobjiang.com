@@ -1,4 +1,5 @@
 ---
+description: "Scrum产品管理实践:ProductOwner完全手册。Roman Pichler著作精华,学习产品愿景、需求优先级、发布计划等核心职责。"
 title: "《Scrum敏捷产品管理》读书笔记"
 date: "2014-01-03"
 ---

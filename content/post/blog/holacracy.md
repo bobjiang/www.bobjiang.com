@@ -1,4 +1,5 @@
 ---
+description: "全体共治(Holacracy):去中心化组织管理新范式。探索扁平化组织结构、分布式决策权、动态角色分配等创新实践。"
 title: "合弄制-新型的组织结构？"
 date: "2015-12-29"
 coverImage: "holacracy.png"

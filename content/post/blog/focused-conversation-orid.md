@@ -1,4 +1,5 @@
 ---
+description: "聚焦式会话ORID模型:结构化引导技术。掌握客观(Objective)、反映(Reflective)、诠释(Interpretive)、决定(Decisional)四层次提问法。"
 title: "焦点式对话ORID感悟"
 date: "2016-05-21"
 ---

@@ -1,4 +1,5 @@
 ---
+description: "聚焦交付价值:敏捷团队的核心使命。探讨如何平衡速度与质量、技术债务管理、持续交付实践,实现高效价值流动。"
 title: 交付还是交代
 date: 2018-11-21 
 url: /delivery-vs-discovery/ 

@@ -1,4 +1,5 @@
 ---
+description: "悉尼区块链黑客松2018:Web3创新实践记录。记录黑客松参赛经历、项目开发历程与区块链应用探索,感受去中心化技术魅力。"
 title: Sydney Blockathon
 date: 2018-11-28   
 url: /blockathon-sydney-1128/ 

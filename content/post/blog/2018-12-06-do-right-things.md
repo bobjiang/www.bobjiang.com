@@ -1,4 +1,5 @@
 ---
+description: "做正确的事:价值导向的决策智慧。探讨如何识别真正重要的工作、避免忙碌陷阱、聚焦高价值活动,实现有效成果产出。"
 title: Do right things
 date: 2018-12-06
 url: /do-right-things-1206/ 

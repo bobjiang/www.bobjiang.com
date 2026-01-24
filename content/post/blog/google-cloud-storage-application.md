@@ -1,4 +1,5 @@
 ---
+description: "Google Cloud Storage应用实践:云存储服务入门。介绍GCS基本概念、API使用、权限管理与最佳实践,构建可扩展的云存储方案。"
 title: 如何用google cloud存储分区搭建网站 个人博客
 date: 2019-12-27
 url: /how-to-build-website-host-google-cloud/
