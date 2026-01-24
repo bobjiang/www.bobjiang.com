@@ -1,4 +1,5 @@
 ---
+description: "CSM认证课程2016年12月北京班:培训现场纪实。分享课程亮点、学员互动、认证考试,见证Scrum学习旅程。"
 title: "Certified ScrumMaster (CSM中文认证课) - 北京"
 date: "2016-12-22"
 ---

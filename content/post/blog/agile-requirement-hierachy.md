@@ -1,4 +1,5 @@
 ---
+description: "敏捷需求层级:从愿景到任务的分解结构。理解Epic、Feature、UserStory、Task的层级关系与管理方法。"
 title: "敏捷需求之分层管理"
 date: "2015-11-13"
 coverImage: "Screen-Shot-2015-11-13-at-10.36.34-AM.png"

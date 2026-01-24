@@ -1,4 +1,5 @@
 ---
+description: "找时间投资自己:个人成长的时间管理。探讨如何在忙碌中挤出时间学习、反思、提升,实现长期价值积累。"
 title: 花时间投资自己
 date: "2020-03-27"
 url: /find-time-invest-yourself/

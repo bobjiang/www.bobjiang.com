@@ -1,4 +1,5 @@
 ---
+description: "博客迁移记录:从WordPress到Hugo静态站点。分享迁移动机、技术方案、踩坑经验,实现更快更稳定的博客体验。"
 title: 博客搬家 - 记第四次搬家(hugo建站推送到谷歌云存储)
 date: "2020-04-10"
 url: /blog-migration-4/

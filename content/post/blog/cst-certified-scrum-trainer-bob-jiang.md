@@ -1,4 +1,5 @@
 ---
+description: "成为CST认证Scrum培训师:Bob Jiang的认证之路。分享CST申请流程、考核标准、培训技能提升,中国北方第一位CST的经验。"
 title: "Certified Scrum Trainer (CST)之旅"
 date: "2016-07-01"
 coverImage: "SCR20146-Seals-Final-CST.png"

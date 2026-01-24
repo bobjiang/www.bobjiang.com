@@ -1,4 +1,5 @@
 ---
+description: "自由职业者访谈:小博的技术自由之路。分享从程序员到独立开发者的转型经验、接单策略与生活平衡心得。"
 title: 百万年薪之间的对话（自由职业者访谈录）
 date: "2020-03-17"
 url: /freelancer-interview-xiaobo/

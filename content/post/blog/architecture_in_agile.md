@@ -1,4 +1,5 @@
 ---
+description: "敏捷架构设计:演进式架构与持续重构。探讨敏捷环境下的架构决策、技术债务管理、架构愿景与增量实现的平衡之道。"
 title: "敏捷软件开发中的架构设计"
 date: "2015-05-30"
 coverImage: "agile_architecture.jpg"

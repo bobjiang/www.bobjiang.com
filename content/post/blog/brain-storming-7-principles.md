@@ -1,4 +1,5 @@
 ---
+description: "头脑风暴7大原则:激发团队创造力的黄金法则。掌握延迟评判、鼓励疯狂想法、数量优于质量等核心规则。"
 title: "头脑风暴七原则"
 date: "2015-12-16"
 coverImage: "brainstorming.jpg"

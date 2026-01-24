@@ -1,4 +1,5 @@
 ---
+description: "商业模式画布:创业与创新的战略工具。Alex Osterwalder经典框架解读,梳理价值主张、客户细分、收入来源等9大模块。"
 title: "商业模式画布"
 date: "2015-02-28"
 coverImage: "shangyemoshi.jpg"

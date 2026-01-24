@@ -1,4 +1,5 @@
 ---
+description: "《隐形影响力》读书笔记:塑造行为的隐藏力量。Jonah Berger洞察解读,理解社会影响、从众心理、群体动力学。"
 title: "图书推荐：Invisible Influence - The Hidden forces that shape behavior"
 date: "2016-07-28"
 coverImage: "invisible-influence.jpg"

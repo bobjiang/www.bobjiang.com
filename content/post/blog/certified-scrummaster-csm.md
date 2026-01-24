@@ -1,4 +1,5 @@
 ---
+description: "CSM认证完全指南:成为认证ScrumMaster的路径。详解CSM课程内容、考试要求、续证规则及职业发展价值。"
 title: "Certified ScrumMaster (CSM中文认证课)-20160804-20160805-北京"
 date: "2016-07-09"
 ---
