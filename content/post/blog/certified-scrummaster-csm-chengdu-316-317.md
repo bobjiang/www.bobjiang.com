@@ -1,4 +1,5 @@
 ---
+description: "CSM认证课程成都站2017年3月:西南地区Scrum培训。课程安排、讲师介绍、报名优惠,推动成都敏捷社区发展。"
 title: "Certified ScrumMaster (CSM中文认证课) - 成都 3.16-3.17"
 date: "2017-02-22"
 ---

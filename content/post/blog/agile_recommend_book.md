@@ -1,4 +1,5 @@
 ---
+description: "敏捷推荐书单:精选敏捷学习必读书籍。涵盖Scrum、看板、精益、DevOps等领域经典著作,构建完整知识体系。"
 title: "敏捷推荐书单（1）"
 date: "2014-06-20"
 coverImage: "booklist.jpg"

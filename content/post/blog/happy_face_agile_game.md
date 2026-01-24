@@ -1,4 +1,5 @@
 ---
+description: "笑脸游戏(Happy Face):团队协作与沟通练习。快速破冰活动,体验非语言沟通、观察力、团队合作的重要性。"
 title: "幸福的笑脸"
 date: "2015-06-30"
 coverImage: "happy_face.jpg"

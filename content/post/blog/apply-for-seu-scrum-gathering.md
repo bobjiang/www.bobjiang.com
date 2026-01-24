@@ -1,4 +1,5 @@
 ---
+description: "如何申请SEU参加ScrumGathering:Scrum联盟教育学分指南。详解SEU申请流程、审核标准、活动选择,获得CSM续证所需学分。"
 title: "申请SEUs（Scrum Educational Units）参加Scrum Gathering"
 date: "2016-11-03"
 ---

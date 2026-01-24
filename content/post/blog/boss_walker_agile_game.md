@@ -1,4 +1,5 @@
 ---
+description: "老板漫步(Boss Walker)敏捷游戏:领导力体验活动。通过角色扮演理解领导风格、团队自组织与授权的重要性。"
 title: "老板和走路人的游戏（boss walker）- 敏捷自组织团队游戏"
 date: "2015-06-19"
 coverImage: "boss_walker_agile_game.jpg"
