@@ -37,7 +37,7 @@ Twitter 联合创始人 Evan Williams 已经在自己的新创业公司 [Medium]
 > 
 > ——谢家华, CEO, Zappos
 
-![](https://img0.tech2ipo.com/upload/img/article/2014/07/1405348844752.jpg "4637027240_8a32155c53_o.0_standard_1280.0.jpg")
+![谢家华照片Zappos CEO推行合弄制管理模式倡导者](https://img0.tech2ipo.com/upload/img/article/2014/07/1405348844752.jpg "4637027240_8a32155c53_o.0_standard_1280.0.jpg")
 
 谢家华
 
@@ -85,7 +85,7 @@ Zappos 敢于这样做的原因在于：他们认为传统的架构会使得新�
 
 #### 听起来还是上下级的感觉
 
-![](https://img0.tech2ipo.com/upload/img/article/2014/07/1405348910794.gif "214286.strip.gif")
+![传统层级管理结构示意动图，展示上下级关系和决策流程](https://img0.tech2ipo.com/upload/img/article/2014/07/1405348910794.gif "214286.strip.gif")
 
 实际操作中，所有的小团队还是需要一个「委员会」（或一个圈子）来管理，这种管理模式恰好和合弄制想要替代掉的陈旧的层级管理模式相仿。在公司层面上，仍然需要一个大部分组成人员为公司高管的「超级委员会」（超级圈子）来做出公司最主要的重大决策。
 
@@ -157,7 +157,7 @@ Zappos 的 IT 部门忍受相对不足，他们表示花费了 5 个工作日，
 
 #### 合弄制太复杂了，大家怎样够记住所有的东西？
 
-![](https://img0.tech2ipo.com/upload/img/article/2014/07/1405348976889.png "holacracy.png")
+![Glass Frog合弄制管理软件界面截图，支持组织结构梳理和会议协调](https://img0.tech2ipo.com/upload/img/article/2014/07/1405348976889.png "holacracy.png")
 
 和团队协同软件一样，网上有专门的软件用于支持合弄制公司结构的梳理和日常会议的协调安排，比如 [Glass Frog](https://glassfrog.holacracy.org/organizations/5)。
 
