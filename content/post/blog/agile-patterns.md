@@ -11,7 +11,7 @@ tags: [agile patterns, 敏捷模式, 敏捷本质]
 本文的内容来自于7月10日我在“艾威网校”的一次分享。  
 开始先简单自我介绍如下：（欢迎扫码获取ppt）
 
-![](/images/agile-patterns/Slide02.png)
+![Bob Jiang自我介绍幻灯片，中国北方第一位CST认证Scrum培训师](/images/agile-patterns/Slide02.png)
 
 本文主要分为四个部分：
 
@@ -22,7 +22,7 @@ tags: [agile patterns, 敏捷模式, 敏捷本质]
 
 ## 什么是模式语言和反模式语言
 
-![](/images/agile-patterns/Slide04.png)
+![模式语言定义：物体或事件上规律变化与自我重复的样式过程](/images/agile-patterns/Slide04.png)
 
 模式（英语：Pattern，源自法语：patron），在物体或事件上，产生的一种规律变化与自我重复的样式之过程。
 
@@ -50,7 +50,7 @@ tags: [agile patterns, 敏捷模式, 敏捷本质]
 
 ## 敏捷中的模式语言
 
-![](/images/agile-patterns/Slide06.png)
+![敏捷中的四种模式语言：回顾会、小吃神社、障碍清单、Scrum板](/images/agile-patterns/Slide06.png)
 
 下文主要描述四种敏捷中的模式语言：（分为两类 - 产品组织和价值流）
 
@@ -63,8 +63,8 @@ tags: [agile patterns, 敏捷模式, 敏捷本质]
 
 回顾会是敏捷中至关重要的一个会议（也是敏捷的本质，在最后的总结中我会再次提出这个重点）。如下图，如果忙于交付而忽视了改进，则从长期来看一定是得不偿失。
 
-![](/images/agile-patterns/Slide07.png)
-![](/images/agile-patterns/Slide08.png)
+![回顾会的重要性示意图：忙于交付忽视改进长期得不偿失](/images/agile-patterns/Slide07.png)
+![回顾会Start-Stop-Continue方法：开始尝试、停止无效、继续良好](/images/agile-patterns/Slide08.png)
 
 对于团队而言，回顾会就是每个迭代结束前团队在一起反思团队中关于人、关系、过程和工具的情况，根据上述情况制定具体的改进计划。上图中采用的方法是： Start, Stop, Continue
 
@@ -80,13 +80,13 @@ tags: [agile patterns, 敏捷模式, 敏捷本质]
 
 注：小吃神社不是茶水间，这个区域离团队很近，但不至于影响到团队的其他人工作。
 
-![](/images/agile-patterns/Slide09.png)
+![小吃神社模式示意图：团队缓冲地带避免频繁打断工作节奏](/images/agile-patterns/Slide09.png)
 
 这个缓冲地带对于团队来讲非常重要，任何问题都不要直接去打断团队的节奏（除非是生产系统挂了）。而是大家可以在小吃神社这里进行讨论。这个模式的前提是，团队太容易也太频繁被打断了。
 
 ### 障碍清单
 
-![](/images/agile-patterns/Slide10.png)
+![障碍清单模式：可视化收集排序团队障碍，指定跟进人解决](/images/agile-patterns/Slide10.png)
 
 工作中每个人都会碰到不同的问题、障碍。敏捷中经常也会提倡在每日站会上提出遇到的问题障碍。然而仅仅提出并不是很好的做法，更好的做法是可以创建一个障碍清单，用于收集并**排序**团队中的障碍。
 
@@ -102,11 +102,11 @@ Scrum板如下图，是一个白板，用于可视化团队在迭代内的进度
 
 注：Scrum板并不是看板。这里有[它们之间的区别](/posts/blog/essential-scrum-and-kanban.html)。
 
-![](/images/agile-patterns/Slide11.png)
+![Scrum板示意图：白板可视化迭代进度，每日站会围绕进行](/images/agile-patterns/Slide11.png)
 
 下面是京东一个团队的Scrum板示例：
 
-![](/images/agile-patterns/Slide12.png)
+![京东团队Scrum板实例照片，展示真实团队的Scrum板使用情况](/images/agile-patterns/Slide12.png)
 
 ## 敏捷中的反模式
 
@@ -125,7 +125,7 @@ Scrum板如下图，是一个白板，用于可视化团队在迭代内的进度
 
 敏捷的本质是什么呢？ 且看下文。
 
-![](/images/agile-patterns/Slide14.png)
+![买椟还珠反模式：认识敏捷本质而非被华丽外表所吸引](/images/agile-patterns/Slide14.png)
 
 ### 借尸还魂
 
@@ -137,7 +137,7 @@ Scrum板如下图，是一个白板，用于可视化团队在迭代内的进度
 如果需求只有BA（业务分析人员）提出并编写，然后传递给开发团队。这**不是**敏捷软件开发，这是传统的瀑布式开发。
 
 敏捷转型中应该如何进行呢？先卖个关子。
-![](/images/agile-patterns/Slide15.png)
+![借尸还魂反模式：警惕传统瀑布开发思维根深蒂固卷土重来](/images/agile-patterns/Slide15.png)
 
 ### 揠苗助长
 
@@ -149,7 +149,7 @@ Scrum板如下图，是一个白板，用于可视化团队在迭代内的进度
 
 揠苗助长的反模式，危害非常之大。常见于各种团队，不限于敏捷转型中。
 
-![](/images/agile-patterns/Slide16.png)
+![揠苗助长反模式：忽视质量一味求快必然事与愿违](/images/agile-patterns/Slide16.png)
 
 ### 闭门造车
 
@@ -164,20 +164,20 @@ Scrum板如下图，是一个白板，用于可视化团队在迭代内的进度
 
 [敏捷家](https://www.agileplus.co/) 提供了一个社区内分享的平台。欢迎联系提供分享。
 
-![](/images/agile-patterns/Slide17.png)
+![闭门造车反模式：保持开放心态在组织内外分享团队经验](/images/agile-patterns/Slide17.png)
 
 ## 敏捷的本质
 
 敏捷的核心本质就是敏捷宣言，全名是“[敏捷软件开发宣言](https://agilemanifesto.org/iso/zhchs/manifesto.html)”。请认真仔细反复阅读。
 
 ### 敏捷宣言
-![](/images/agile-patterns/Slide19.png)
+![敏捷宣言四大价值观：个体互动、可工作软件、客户合作、响应变化](/images/agile-patterns/Slide19.png)
 
 ### 敏捷原则
 
 [敏捷原则中文版](https://agilemanifesto.org/iso/zhchs/principles.html)
 
-![](/images/agile-patterns/Slide20.png)
+![敏捷十二原则详细列表，指导敏捷软件开发实践](/images/agile-patterns/Slide20.png)
 
 ### 敏捷的本质
 
@@ -189,7 +189,7 @@ Scrum板如下图，是一个白板，用于可视化团队在迭代内的进度
 
 更详细的描述可以[点击这里](/essense-scrum-revisit/)。
 
-![](/images/agile-patterns/Slide22.png)
+![敏捷本质三要素：业务价值、协作关系、持续改进Kaizen](/images/agile-patterns/Slide22.png)
 
 # 如何学习敏捷
 
@@ -197,7 +197,7 @@ Scrum板如下图，是一个白板，用于可视化团队在迭代内的进度
 
 可以参考下图（感谢 拆封同学的课程，让我有了下图的灵感）
 
-![](/images/agile-patterns/Slide23.png)
+![敏捷学习路径图：从敏捷宣言到Scrum到规模化敏捷框架](/images/agile-patterns/Slide23.png)
 
 参考学习一门编程语言，我们的学习路径为：
 
@@ -210,4 +210,4 @@ Scrum板如下图，是一个白板，用于可视化团队在迭代内的进度
 如果想要快速入门，可以看一下 [Certified Scrum Master - CSM认证课程](/csm/)
 
 如果对于敏捷软件开发，你还有其他的模式想要探讨或分享，可以参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码，扫码加入探讨敏捷模式与反模式](/images/wechat-agileplus-ent.png)
