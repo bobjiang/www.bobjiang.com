@@ -2,6 +2,7 @@
 description: "CSM认证课程2016年11月上海班:课程回顾与学员反馈。记录精彩瞬间、学习收获、认证考试通过率。"
 title: "Certified ScrumMaster (CSM中文认证课) - 上海"
 date: "2016-12-01"
+featured_image: "https://res.yihuode.io/FoxkV5HL1o5wgBuwsIGak_MAlnxc"
 ---
 
 **时间：2016年12月6日 - 7日 9:00-18:00**
