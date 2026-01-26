@@ -14,13 +14,13 @@ date: "2016-07-09"
 
 **特别说明**：京东员工、敏捷社区志愿者有特别折扣，详情联系讲师（邮件或微信）
 
-![](https://res.yihuode.io/FomBwO6E22wD2ti3Pha5f4-kHUKf)
+![CSM认证课程2016年8月北京班宣传海报，包含课程时间地点和报名优惠信息](https://res.yihuode.io/FomBwO6E22wD2ti3Pha5f4-kHUKf)
 
 ### 以往学员是如何评价的
 
-![](https://res.yihuode.io/FlLjKycAxftBPkVX9VPZHjN-dO_l)
+![CSM认证培训往期学员反馈评价，分享课程收获与学习体验](https://res.yihuode.io/FlLjKycAxftBPkVX9VPZHjN-dO_l)
 
-![](https://res.yihuode.io/FsRgdx1G6Q3l9U_XoNZkQUK0O2Pm)![](https://res.yihuode.io/FtVkCDHneA8toYd2ckSwOZYmEyQb)
+![学员对CSM课程的满意度评价与推荐意见](https://res.yihuode.io/FsRgdx1G6Q3l9U_XoNZkQUK0O2Pm)![往期CSM学员对Bob Jiang讲师教学风格的评价](https://res.yihuode.io/FtVkCDHneA8toYd2ckSwOZYmEyQb)
 
 ## **课程特色**
 
@@ -83,7 +83,7 @@ date: "2016-07-09"
 
 可以给讲师写邮件（[bobjiang@bobjiang.com](mailto:bobjiang@bobjiang.com)） 或者加微信
 
-![](https://res.yihuode.io/FmYXhl_c0hY6FmnPeuhvc4fJlHeb)
+![Bob Jiang微信二维码，扫码咨询CSM认证课程详情](https://res.yihuode.io/FmYXhl_c0hY6FmnPeuhvc4fJlHeb)
 
 ## 讲师简介
 
