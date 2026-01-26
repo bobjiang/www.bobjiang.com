@@ -3,10 +3,13 @@ title = "Bob Jiang 敏捷开发培训 敏捷认证Scrum Master"
 languageCode = "zh-cn"
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
-# IMPORTANT: Universal Analytics (UA-) is DEPRECATED. Migrate to GA4 as soon as possible!
-# See GA4-MIGRATION-INSTRUCTIONS.md for step-by-step migration guide.
-# To migrate: Replace UA-36175470-1 with your GA4 Measurement ID (format: G-XXXXXXXXXX)
-googleAnalytics = "UA-36175470-1" # TODO: Replace with GA4 Measurement ID (G-XXXXXXXXXX)
+# Google Analytics 4 (GA4) - Migrated from Universal Analytics
+googleAnalytics = "G-W0M04BBCT1"
+
+# Hugo services configuration (required for Hugo v0.120+)
+[services]
+  [services.googleAnalytics]
+    ID = "G-W0M04BBCT1"
 
 [pagination]
   disableAliases = false
