@@ -7,7 +7,7 @@ tags: [ball point game, games, scrum, 规模化敏捷]
 author: "Bob Jiang"
 ---
 
-![](/images/ballpointgame.jpg)
+![多团队参与敏捷嘉年华抛球游戏现场，体验规模化Scrum协作](/images/ballpointgame.jpg)
 
 ## 游戏简介：
 这个游戏将要求所有参与者站立完成。大家围成一个大圈，在一个共同的标准和规则下，在既定的时间里，完成抛球的动作，达成一定的目标。然后通过每个迭代的改进，提升团队协作的效率。 我们在以往的实践中，做过几十场不同规模的团队抛球游戏。本场，我们也将向最大规模发起挑战。团队成员将能收获，较大团队的协作和持续改进，是如何完成的。
@@ -53,7 +53,7 @@ author: "Bob Jiang"
 *   领导是如何产生的？
 *   有没有好的建议，但是没有被采纳？ 为什么？
 *   回到工作中，哪些内容可以带回去？
-![](/images/ball_point_game_qcon.jpg)
+![QCon Beijing 2013敏捷嘉年华现场，多个团队同时进行抛球游戏协作练习](/images/ball_point_game_qcon.jpg)
 
 * * *
 
