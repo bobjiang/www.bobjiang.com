@@ -1,5 +1,5 @@
 ---
-description: "每日站会的Scrum But问题:"我们在做Scrum,但是..."。识别并解决团队对Scrum框架的误解与不完整实施。"
+description: '每日站会的Scrum But问题:"我们在做Scrum,但是..."。识别并解决团队对Scrum框架的误解与不完整实施。'
 title: "每日站会真的需要每天都开吗？#scrum-but"
 date: "2016-07-11"
 ---
