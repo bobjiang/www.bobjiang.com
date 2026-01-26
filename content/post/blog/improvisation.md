@@ -9,14 +9,14 @@ tags: [agiletour, 敏捷之旅, 即兴表演]
 11月24日，星期天，北京的天气晴朗但北风嗖嗖，温度已经到了零下5度。
 顶着5级大风，乘着欢快的地铁，我按时赶到了位于白石桥的新世纪日航大酒店。
 
-![](/images/agiletour-2019-beijing-bg.jpeg)
+![敏捷之旅2019北京站会场背景照片，新世纪日航大酒店活动现场](images/agiletour-2019-beijing-bg.jpeg)
 
 今天我有一个话题（工作坊），便签公司。即如何用便签来体验规模化敏捷。
 如果想要了解更多关于工作坊，可以扫下面的二维码。
-![](/images/agiletour-2019-beijing-workshop.jpeg)
+![敏捷之旅2019北京站工作坊宣传二维码，便签公司规模化敏捷体验](images/agiletour-2019-beijing-workshop.jpeg)
 
 今年敏捷之旅最大的收获是参加了开放空间中的一场即兴表演
-![](/images/agiletour-2019-beijing-openspace.jpeg)
+![敏捷之旅2019北京站开放空间即兴表演环节现场照片](images/agiletour-2019-beijing-openspace.jpeg)
 
 即兴表演中，我积极参与其中，乐得其所。
 整体1个小时的时间中，娜娜同学（引导者）表现的相当出色，成功地带着这群IT人疯了起来。
@@ -60,13 +60,13 @@ tags: [agiletour, 敏捷之旅, 即兴表演]
 - Yes, and
 
 最后感谢敏捷之旅北京的组织者廉雨和张明同学。（只有廉雨的照片啦）
-![](/images/agiletour-2019-beijing-lianyu.jpeg)
+![廉雨照片，敏捷之旅2019北京站组织者之一](images/agiletour-2019-beijing-lianyu.jpeg)
 
 以及更多其他的志愿者们 - 
-![](/images/agiletour-2019-beijing-volunteers.jpeg)
+![敏捷之旅2019北京站志愿者团队合影](images/agiletour-2019-beijing-volunteers.jpeg)
 
 最后送上一张大合影 - 
-![](/images/agiletour-2019-beijing-all.jpeg)
+![敏捷之旅2019北京站全体参与者大合影](images/agiletour-2019-beijing-all.jpeg)
 
 ## 关于作者
 **BoB Jiang**
