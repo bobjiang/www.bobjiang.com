@@ -6,7 +6,7 @@ date: "2015-01-02"
 
 _2014-12-21_ _黄喆_ 敏捷一千零一夜
 
-![](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnibdAgXSgkSoFyCX5Zxndicu4jgoXicooiay86EjgeObgg6dNPQp8JvLTNw/0?tp=webp)
+![黄喆自我介绍照片，GE软件工程师CSM认证，敏捷精益实践者](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnibdAgXSgkSoFyCX5Zxndicu4jgoXicooiay86EjgeObgg6dNPQp8JvLTNw/0?tp=webp)
 
 **记录者，黄喆，软件攻城狮****，CSM，热爱敏捷、精益。**目前工作于GE，从事软件过程改进、敏捷项目管理等工作。希望能在Agile1001这个大家庭中与大家交流、学习、共同成长。
 
@@ -14,19 +14,19 @@ _2014-12-21_ _黄喆_ 敏捷一千零一夜
 
 废话不多说，咱们直奔主题，这次Agile 1001为我们带来的“O2O体验式工作坊”的主题是最近火遍全球的精益创业。但其采用的方式是纯体验式的，整个活动下来没有一句说教，就是一个字“玩儿”！参与工作坊的同学首先被随机的分成了3个小组，每个小组选出一名CEO负责创业公司决策和一名CPO负责产品设计。笔者非常幸运的被大家推选为了CEO，而来自“汽车之家”的刘阳 同学被我们推举为了CPO，这可能是我们做的第一个也是最正确的决定。至于当CEO为啥“幸运”，选CPO为啥“正确”，这个我们后面会说。
 
-“家里菜团队” ![](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnWGicfXLtkVfeoCkJ0pMUXqssjh067j50C8KCKiaHECZ4x7Ljk9vBkE2w/640?tp=webp)
+“家里菜团队” ![家里菜团队合影，敏捷1001 O2O工作坊精益创业游戏参赛团队](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnWGicfXLtkVfeoCkJ0pMUXqssjh067j50C8KCKiaHECZ4x7Ljk9vBkE2w/640?tp=webp)
 
 “来就吃”团队
 
-![](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnGlNdp1NSB15icRLSNr7A19OIicFWcuxuicLIPmT2GeAlLuAVp2XjWVolw/640?tp=webp)
+![来就吃团队合影，敏捷1001 O2O工作坊精益创业游戏参赛团队](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnGlNdp1NSB15icRLSNr7A19OIicFWcuxuicLIPmT2GeAlLuAVp2XjWVolw/640?tp=webp)
 
 俺们**“微饭”团队，在讲的是CPO,我是。。。你们猜猜。**
 
-![](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnTGoN2YeFT1q1pVShFcibuO8NrjY7B1bOt9Nm5zpibP8lwU4Lmp09ICTQ/640?tp=webp)
+![微饭团队合影CPO刘阳讲解产品设计，敏捷1001 O2O工作坊冠军团队](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnTGoN2YeFT1q1pVShFcibuO8NrjY7B1bOt9Nm5zpibP8lwU4Lmp09ICTQ/640?tp=webp)
 
 工作坊的游戏规则很简单：三个组的目标都是做一款餐饮APP，需要有自己的特色，总共三个MVP，每次交付一个纸面原型，然后选择是否发布给市场获取反馈（但同时也要承担竞争组针对性的打击），最终三个迭代后在三个组中PK出唯一的获胜团队。（不知道MVP和纸面原型概念的童鞋要赶紧补习一下啦，这里不解释喽）。之后就是这次工作坊的最大亮点，每个团队被要求进行一轮真金白银的创业集资，每位团队成员都必须拿出真的人民的币来进行这次集资，而最终在游戏中获胜的团队将会“席卷”另外两个团队的所有集资，然后按照股本比例分红！赤裸裸的零和博弈and真金白银的输赢啊！不要太刺激了有木有？！！在一番面面相窥的严肃思考后，大家小心翼翼的将自己热乎乎的人民币放到了团队集资袋中封好。然后，为了另外两个组的人民的币，我们义无反顾的踏上了激动人心的创业之旅。
 
-![](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnSIpJleyTFC2rpFUNTtEkHPHWdbTsInjm9O6laxWnwzdgXYN88D86Ew/640?tp=webp) 下面来说说我们的“创业”历程。我们小组对这款餐饮App取名“微饭”，我们的CPO刘总和大家讨论后对“微饭”的定义是：实现客户的提前在线订餐，让食客可以到了就吃，在节省食客就餐时间的同时提高餐馆的翻台率。双赢！很不错的想法是吧？可后来的事实证明我们差点就在这里犯了最致命的错误，幸亏我们后面悬崖勒马，才避免了一出创业悲剧的上演。我们小组经历了一个Sprint的忙碌，终于满头大汗的做出了第一个MVP，团队成员一致决定向市场发布我们的产品，不畏竞争对手可能的针对，听取市场的反馈。另外的两个小组中“家乡菜 ”小组和我们一样选择了发布，另一个“来就吃” 小组则选择了隐藏自己的产品意图暂不发布。从这里开始一出狗血创业剧正式拉开了序幕！
+![创业团队真金白银集资现场，参赛者投入人民币进行零和博弈](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnSIpJleyTFC2rpFUNTtEkHPHWdbTsInjm9O6laxWnwzdgXYN88D86Ew/640?tp=webp) 下面来说说我们的“创业”历程。我们小组对这款餐饮App取名“微饭”，我们的CPO刘总和大家讨论后对“微饭”的定义是：实现客户的提前在线订餐，让食客可以到了就吃，在节省食客就餐时间的同时提高餐馆的翻台率。双赢！很不错的想法是吧？可后来的事实证明我们差点就在这里犯了最致命的错误，幸亏我们后面悬崖勒马，才避免了一出创业悲剧的上演。我们小组经历了一个Sprint的忙碌，终于满头大汗的做出了第一个MVP，团队成员一致决定向市场发布我们的产品，不畏竞争对手可能的针对，听取市场的反馈。另外的两个小组中“家乡菜 ”小组和我们一样选择了发布，另一个“来就吃” 小组则选择了隐藏自己的产品意图暂不发布。从这里开始一出狗血创业剧正式拉开了序幕！
 
 “微饭”的第一次产品发布很炫很过瘾，但在礼节性的掌声后，围观群众全都作鸟兽散去，等等！说好的天使客户和用户反馈呢？没有反馈就失去了MVP的意义啊，这可不行！于是我们团队紧急开会，一起讨论如何才能激发用户的反馈。最终，在试了各种诱惑招数失败后，我们“机智的”向市场推出了“天使用户配股”政策：只要给我们提供反馈并被我们认定为有价值后，就可以获得微饭1%到5%的原始股权。也就是说如果我们组获胜，天使用户就可以按照比例参与分红。这招果然有效！
 
@@ -46,7 +46,7 @@ _2014-12-21_ _黄喆_ 敏捷一千零一夜
 
 ![](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUn8fUxBj6picqG37hMl2M5mWRRyBViczJwzKoRFaPK3PIAFzy8g8lI3L1g/640?tp=webp) 想来说到这里聪明的读者也已经猜到了故事的结尾，我们“微饭”最终赢得了游戏的胜利，席卷了另外两个组的集资（切。。。还用猜！你当大家是傻子吗！！开篇不就说了吗！）。欧也！把他们两个组的集资给朕拿来，弟兄们按照股份比例开始分赃，不对！分红！当我们拿到了他们两组的集资袋时，说实话，真是下了我们一跳，两组加起来整整960大洋，他们也真真的是蛮拼的啊！再看我们微饭组的集资，真是不要太开心了~~~我们组加上天使投资总共才160块！！！1：6，以小博大，完胜！我们组的队员是不是今天应该去买彩票！？ 这里停下来说说，为啥前面说我被选为CEO是很幸运的。其实是因为当时集资的时候，大家都让我这个CEO先放钱，我当时很囧的看着这帮队友们，心里飞速的想，黄喆啊，你这钱包包里的钱可都是好不容易才从老婆大人那里批下来的，平时卖体力做软件换血汗钱也不容易，你可要冷静，要冷静，想好了。。。最终我颤颤巍巍的从兜里费劲的掏出了50大洋放了进去，而我的这帮“亲密”队友思密达见我放了50进去，马上说“CEO就是豪爽！我们不能放的比CEO还多啊，Bula。。。Bula。。。”一个个比猴儿还快的都塞了10块钱进去，有一位看着最“忠厚老实”的同学可能是被我感召了，使劲咬了咬后槽牙，最后放了20。。。。而此时、此刻、此地，俺这个在三个半小时前被推到集资最前线的“CEO”，就成了全世界最幸运的宠儿！投入50，三个半小时，拿回股本，纯利284，净赚600%，干净利索！此刻我只能傲娇的说，哎呀！人生的第一桶金来的太快，伦家还没有准备好呢嘛~~~哈哈，当然，我的队友们，以及为我们投资并为我们提供极具战略价值反馈的天使投资人们也最终拿到了6倍的回报，大家都笑开了花儿（一群见钱眼开的家伙。。。敏捷圈子不是应该很高大上的吗？）
 
-“分赃有我！！哈哈” ![](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnMGRzQr3pdX4WZu7dE3hW1hdcWWaxcxHY0Yv85rg4MUFcQ5eGq6UkDw/640?tp=webp)
+“分赃有我！！哈哈” ![微饭团队庆祝胜利分红现场，以50元赢得960元600%纯利回报](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnMGRzQr3pdX4WZu7dE3hW1hdcWWaxcxHY0Yv85rg4MUFcQ5eGq6UkDw/640?tp=webp)
 
 好了，本来想简单写写就收笔的，一口气写了这么多，话痨毛病又犯了。最后，感谢一下立杰和伟忠两位老师为我们免费的提供了这次挣钱的机会。。。不对，是学习的机会！让我们在快乐的玩耍中学到了精益创业的很多很多。
 
@@ -54,7 +54,7 @@ _2014-12-21_ _黄喆_ 敏捷一千零一夜
 
 好了，真的就写到了这里了！不能再扯了，最后感谢敏捷之旅，感谢Agile1001，感谢立杰、伟忠、Bob、谢钊，感谢参与这次工作坊的所有同学，让我学到了这么多。祝愿Agile1001越办越好，我也会尽我的力量为Agile10001这个大家庭贡献更多的力量！
 
-![](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnbBLSk6SoYwTtOsib3sK7XpKHGrhZ5v46VbQsL9bMVROfvsriaXhTics7Q/640?tp=webp)
+![敏捷1001 O2O精益创业工作坊全体参与者合影，敏捷之旅2014活动](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768trR5jqwyOEuWY2anqIGRBUnbBLSk6SoYwTtOsib3sK7XpKHGrhZ5v46VbQsL9bMVROfvsriaXhTics7Q/640?tp=webp)
 
 **记录者，黄喆，软件攻城狮****，CSM，热爱敏捷、精益。**目前工作于GE，从事软件过程改进、敏捷项目管理等工作。希望能在Agile1001这个大家庭中与大家交流、学习、共同成长。
 
@@ -62,4 +62,4 @@ _2014-12-21_ _黄喆_ 敏捷一千零一夜
 
 **\-------------------------------------------------------**
 
-![](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768tqCkEcn3ODvfLBaywrjdHMH2yibU1nf0ASRRg487eb205dGRUXldx7hgkUq63CkVn3dXLCooLvicnsg/640?tp=webp)
+![敏捷1001微信公众号二维码，扫码了解更多O2O工作坊活动](https://mmbiz.qpic.cn/mmbiz/CUiaHgo768tqCkEcn3ODvfLBaywrjdHMH2yibU1nf0ASRRg487eb205dGRUXldx7hgkUq63CkVn3dXLCooLvicnsg/640?tp=webp)
