@@ -37,7 +37,7 @@ tags: [敏捷报告]
 
 有了这些回应，我们期望随着理解的增加和工具的更强大而能够统一“现金到现金”价值流的组织，越来越多的组织将接受VSM。
 
-![](/images/state-of-agile-vsm.png)
+![价值流管理（VSM）采用情况统计图表，展示组织对VSM的兴趣和实施阶段](/images/state-of-agile-vsm.png)
 
 ## 未来该何去何从
 
@@ -51,9 +51,9 @@ tags: [敏捷报告]
 
 **封面如下**
 
-![](/images/14th-annual-state-of-agile-report-01.png)
+![第14届年度敏捷状态报告封面，全球敏捷采用趋势调查](/images/14th-annual-state-of-agile-report-01.png)
 
-![](/images/14th-annual-state-of-agile-report-02.png)
+![敏捷状态报告调查说明页，超过40000名敏捷从业者参与调查](/images/14th-annual-state-of-agile-report-02.png)
 超过40,000名敏捷高管、从业人员和顾问参加了敏捷状态报告自成立以来的调查。（14年的总调查人数） 第14届年度敏捷状态调查提供了有关敏捷在企业不同领域中的应用以及**价值流管理**的见解。 查看结果时，您可能会发现一些熟悉的趋势，并发现上一年的调查中有一些值得注意的变化。 阅读并深入了解数字，以发现一些有趣的关联。
 
 ## 最新趋势
@@ -70,7 +70,7 @@ Scrum 是实践最广泛的敏捷框架，至少有75％的受访者在实践 Sc
 
 今年，实施敏捷而得到改进的前两项能力是，管理优先级变化和项目可见性。继续进入前五名的其他改进能力是：业务与IT的一致性、团队士气、交付速度、上市时间和团队生产力。
 
-![](/images/14th-annual-state-of-agile-report-03.png)
+![敏捷实施改进能力排名：管理优先级变化、项目可见性等关键能力提升](/images/14th-annual-state-of-agile-report-03.png)
 ## 敏捷又老了一年（又一年过去了）
 
 与去年相比，三个调查结果均相差超过10%。
@@ -87,7 +87,7 @@ Scrum 是实践最广泛的敏捷框架，至少有75％的受访者在实践 Sc
 
 今年有28％的受访者认为跨控制点的自动化审计合规和治理非常有价值，而去年这一比例为10％。 这可能是由于具有强制性合规性要求的组织更广泛地采用敏捷，以及对工具的更高意识的结果。
 
-![](/images/14th-annual-state-of-agile-report-04.png)
+![敏捷实践年度变化趋势：成本降低、技术风险识别、合规性提升](/images/14th-annual-state-of-agile-report-04.png)
 
 ## 从这些数字观察到……
 
@@ -110,12 +110,12 @@ Scrum 是实践最广泛的敏捷框架，至少有75％的受访者在实践 Sc
 
 调查结果表明，敏捷性仍主要限于开发，IT和运营。但是，关于业务敏捷性需要在组织的各个领域进行有效调整和协调的观点继续得到发展。 那么未来会怎样呢？ 明年，我们希望看到组织报告敏捷性进一步扩展到超出与构建、部署和维护软件相关的领域。 
 
-![](/images/14th-annual-state-of-agile-report-05.png)
+![敏捷状态报告目录页，列出所有调查主题和章节](/images/14th-annual-state-of-agile-report-05.png)
 
 本页是目录，请参考后面的详细解读。
 
-![](/images/14th-annual-state-of-agile-report-06.png)
-![](/images/14th-annual-state-of-agile-report-07.png)
+![调查者统计分布图一：组织规模、软件组织规模分布情况](/images/14th-annual-state-of-agile-report-06.png)
+![调查者统计分布图二：地理位置、角色和行业分布](/images/14th-annual-state-of-agile-report-07.png)
 
 上述两页是调查者统计分布。
 第14届年度调查收集了来自不同组织规模，地理位置，角色和行业的反馈。今年，全球调查的代表人数增加了59％，而去年这一数字为53％。 与去年相比，报告有1000余人的软件组织百分比有所增加，而有1000人以下的软件组织的百分比有所下降。
@@ -129,8 +129,8 @@ Scrum 是实践最广泛的敏捷框架，至少有75％的受访者在实践 Sc
 4. 角色
 5. 行业
 
-![](/images/14th-annual-state-of-agile-report-08.png)
-![](/images/14th-annual-state-of-agile-report-09.png)
+![组织敏捷经验与实施情况：95%组织已开始敏捷实践](/images/14th-annual-state-of-agile-report-08.png)
+![敏捷团队比例和实践领域分布图，展示企业级敏捷转型空间](/images/14th-annual-state-of-agile-report-09.png)
 
 ## 公司的敏捷经验与敏捷实施
 
@@ -158,7 +158,7 @@ Scrum 是实践最广泛的敏捷框架，至少有75％的受访者在实践 Sc
 
 绝大多数受访者（84％）表示，他们的组织在敏捷实践方面的能力水平不高，这表明通过支持培训和辅导持续改进的机会。
 
-![](/images/14th-annual-state-of-agile-report-10.png)
+![采用敏捷的原因和组织敏捷成熟度评估，84%组织能力水平不高](/images/14th-annual-state-of-agile-report-10.png)
 
 ## 敏捷的好处
 
@@ -172,7 +172,7 @@ Scrum 是实践最广泛的敏捷框架，至少有75％的受访者在实践 Sc
 
 Scrum及其变体仍然是最常见的敏捷方法（这里应该为框架）。
 
-![](/images/14th-annual-state-of-agile-report-11.png)
+![采用的敏捷方法统计：Scrum及其变体最常见，占比超过75%](/images/14th-annual-state-of-agile-report-11.png)
 
 ### 采用的敏捷技术
 
@@ -187,7 +187,7 @@ Scrum及其变体仍然是最常见的敏捷方法（这里应该为框架）。
 4. 冲刺评审会
 5. 短迭代
 
-![](/images/14th-annual-state-of-agile-report-12.png)
+![前五项敏捷技术：每日站会、Sprint回顾会、Sprint计划会等](/images/14th-annual-state-of-agile-report-12.png)
 
 ### 采用的工程实践
 
@@ -197,7 +197,7 @@ Scrum及其变体仍然是最常见的敏捷方法（这里应该为框架）。
 
 50％的受访者使用敏捷实践来管理外包开发项目。 42％的受访者表示，他们计划在未来24个月内在外包开发项目中增加对敏捷的使用。
 
-![](/images/14th-annual-state-of-agile-report-13.png)
+![工程实践采用情况：自动化验收测试、结对编程、TDD、BDD统计](/images/14th-annual-state-of-agile-report-13.png)
 
 ## 敏捷的成功与度量
 
@@ -215,7 +215,7 @@ Scrum及其变体仍然是最常见的敏捷方法（这里应该为框架）。
 
 与敏捷转型一样，在今年的调查中，业务价值交付和客户/用户满意度仍然是单个项目成功引用的前两个指标。
 
-![](/images/14th-annual-state-of-agile-report-14.png)
+![敏捷成功度量指标：客户满意度、业务价值优于按时交付和生产率](/images/14th-annual-state-of-agile-report-14.png)
 
 ## 规模化敏捷
 
@@ -227,7 +227,7 @@ Scaled AgileFramework® （SAFe）仍然是受访者所引用的最受欢迎的�
 
 规模化敏捷实践的前三位的挑战或障碍，最主要还是内部（组织）文化。
 
-![](/images/14th-annual-state-of-agile-report-15.png)
+![规模化敏捷方法排名：SAFe最受欢迎占35%，Scrum@Scale第二](/images/14th-annual-state-of-agile-report-15.png)
 
 ## 敏捷项目管理工具
 
@@ -235,19 +235,19 @@ Scaled AgileFramework® （SAFe）仍然是受访者所引用的最受欢迎的�
 
 越来越多的受访者表示使用自动验收工具（39％，去年为36％），更多的受访者表示他们计划将来使用敏捷项目管理工具（今年为12％，去年为9％）。 今年的调查还增加了一些新选项（线框工具，产品路线图工具，静态分析和时间表）。
 
-![](/images/14th-annual-state-of-agile-report-16.png)
+![敏捷项目管理工具使用统计，自动验收工具采用率上升](/images/14th-annual-state-of-agile-report-16.png)
 
 ### 敏捷项目管理工具的使用
 
 受访者引用了使用多种不同工具来管理敏捷项目的信息。从结果中我们可以看出，第一位是 JIRA，第二位是Excel。
 
-![](/images/14th-annual-state-of-agile-report-17.png)
+![最常用敏捷工具排名：JIRA第一位，Excel第二位](/images/14th-annual-state-of-agile-report-17.png)
 
 ### 推荐的敏捷项目管理工具
 
 受访者中，推荐 Jira的人最多，其次是 VersionOne （这个有历史原因，这个调查最早就是VersionOne这个公司发起的，哈哈哈哈）
 
-![](/images/14th-annual-state-of-agile-report-18.png)
+![受访者推荐的敏捷项目管理工具，Jira获得最多推荐](/images/14th-annual-state-of-agile-report-18.png)
 
 ## DevOps 和 价值流管理（VSM）
 
@@ -263,7 +263,7 @@ Scaled AgileFramework® （SAFe）仍然是受访者所引用的最受欢迎的�
 
 受访者指出，DevOps转型计划成功的最关键指标仍然是提高质量和更快地交付软件。
 
-![](/images/14th-annual-state-of-agile-report-19.png)
+![敏捷状态报告总结页，关键发现和未来趋势展望](/images/14th-annual-state-of-agile-report-19.png)
 
 ### 改进 DevOps 实践
 
