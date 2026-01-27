@@ -4,12 +4,12 @@ languageCode = "zh-cn"
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 # Google Analytics 4 (GA4) - Migrated from Universal Analytics
-googleAnalytics = "G-W0M04BBCT1"
+googleAnalytics = "G-9652RGRWZX"
 
 # Hugo services configuration (required for Hugo v0.120+)
 [services]
   [services.googleAnalytics]
-    ID = "G-W0M04BBCT1"
+    ID = "G-9652RGRWZX"
 
 [pagination]
   disableAliases = false
