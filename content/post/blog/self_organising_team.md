@@ -44,7 +44,7 @@ tags: [自组织]
 
 根据当代的一些研究，比如德勤领先创新中心的变化指数（The Shift Index），五个雇员中只有一个会全身心投入工作，75%的雇员缺乏动力和激情，只有15%的团队才能完全展现他们的潜力。此外，越来越多的人患上“变革疲劳症”（译者注：对组织的不断调整表现出冷漠和消极），因为很多变革动议最终都无法达到预想的目的。通常这种动议得到的回应是，“千万别再搞了”，而不是成员的积极投入。虽然没有广泛的数据支持这一点，但是各种采样调研显示，60%到80%比例的项目都终结于此。
 
-![](https://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907051.png)
+![变革失败率统计图表：60-80%的项目因缺乏透明性计划过细等原因终结](https://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907051.png)
 
 这种令人沮丧的失败率有很多原因：缺乏透明性、同时实施太多的变革、变革推动者太弱势、缺乏反馈机制，最后但同样重要的是，太过沉湎于项目计划细节、预设的里程碑和明确的结果。不幸的是，我们身边的这些动荡，在无情地嘲弄着我们的那些计划和预测。正如Meg Wheatley试图唤醒我们的话：“我们不能再用旧世界的地图去征服新世界了。”
 
@@ -139,8 +139,8 @@ tags: [自组织]
 
 ## 关于作者
 
-![](https://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907052.jpg)**Sigi Kaltenecker**是维也纳Loop Consultancy公司的联合总经理，他致力于帮助个人、集团和组织成功应对他们面临的专业挑战。他是一名经过认证的Scrum Master，Kanban培训专家以及[PAM](https://www.p-a-m.org/)的联合编辑。Sigi和他人合著的英文书“Kanban in IT: Creating a culture of continuous improvement”将会在2015年出版。你可以通过@sigikaltenecker来联系他。
+![Sigi Kaltenecker照片，Loop Consultancy联合总经理认证Scrum Master](https://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907052.jpg)**Sigi Kaltenecker**是维也纳Loop Consultancy公司的联合总经理，他致力于帮助个人、集团和组织成功应对他们面临的专业挑战。他是一名经过认证的Scrum Master，Kanban培训专家以及[PAM](https://www.p-a-m.org/)的联合编辑。Sigi和他人合著的英文书“Kanban in IT: Creating a culture of continuous improvement”将会在2015年出版。你可以通过@sigikaltenecker来联系他。
 
-![](https://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907053.jpg)**Peter Hundermark**是一名经过认证的Scrum教练、培训师，同时还是[Scrum Sense](https://scrumsense.com/)Kanban教练。他专注于组织发展，变革管理和领导力培养，将敏捷带给各个行业。他是“Do Better Scrum”的作者。你可以通过@peterhundermark来联系他。
+![Peter Hundermark照片，认证Scrum教练培训师Scrum Sense Kanban教练](https://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907053.jpg)**Peter Hundermark**是一名经过认证的Scrum教练、培训师，同时还是[Scrum Sense](https://scrumsense.com/)Kanban教练。他专注于组织发展，变革管理和领导力培养，将敏捷带给各个行业。他是“Do Better Scrum”的作者。你可以通过@peterhundermark来联系他。
 
 **查看参考原文：**[https://www.infoq.com/articles/why-need-self-organizing-teams](https://www.infoq.com/articles/why-need-self-organizing-teams)
