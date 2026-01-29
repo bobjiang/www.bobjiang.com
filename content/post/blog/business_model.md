@@ -77,8 +77,8 @@ coverImage: "shangyemoshi.jpg"
 
 # 商业模式画布模板
 
-![](https://cf.jd.com/download/attachments/43702708/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83.png?version=1&modificationDate=1423451325000&api=v2 "精益与敏捷 > 商业模式画布 > 商业模式画布.png")
+![商业模式画布模板：包含客户细分、价值主张、渠道通路、客户关系、收入来源、核心资源、关键业务、重要合作、成本结构九大模块](https://cf.jd.com/download/attachments/43702708/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83.png?version=1&modificationDate=1423451325000&api=v2 "精益与敏捷 > 商业模式画布 > 商业模式画布.png")
 
 # 自提柜如何盈利的商业模式画布
 
-![](https://cf.jd.com/download/attachments/43702708/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83%202.jpg?version=1&modificationDate=1423452305000&api=v2 "精益与敏捷 > 商业模式画布 > 商业模式画布 2.jpg")
+![自提柜盈利模式商业画布案例：展示快递自提柜业务的九大模块分析](https://cf.jd.com/download/attachments/43702708/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83%202.jpg?version=1&modificationDate=1423452305000&api=v2 "精益与敏捷 > 商业模式画布 > 商业模式画布 2.jpg")

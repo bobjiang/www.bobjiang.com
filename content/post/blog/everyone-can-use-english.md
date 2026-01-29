@@ -4,7 +4,7 @@ title: "读书笔记《人人都能用英语》"
 date: "2016-10-14"
 ---
 
-![](https://zhibimo.com/uploads/books/covers/everyone-can-use-english/preview_cover.jpg)
+![人人都能用英语书籍封面李笑来著](https://zhibimo.com/uploads/books/covers/everyone-can-use-english/preview_cover.jpg)
 
 [人人都能用英语](https://zhibimo.com/read/xiaolai/everyone-can-use-english/)
 

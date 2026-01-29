@@ -6,7 +6,7 @@ date: "2013-08-27"
 
 整体印象：2012年目标完成的比较差，如下图：
 
-![](https://bobjiang.github.io/images/Bob-2012-perf.jpg)
+![Bob的2012年度目标完成情况评分图：健康、工作、家庭、社交、读书五个维度的雷达图](https://bobjiang.github.io/images/Bob-2012-perf.jpg)
 
 我的2012总结分为以下几个方面：
 

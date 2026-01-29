@@ -39,11 +39,11 @@ BOB老师，您好
 
 **场地赞助商**
 
-[![](https://res.yihuo.de/FuvnjvnwW9NuvWsmJN1rdGPuZVod)](https://www.glodon.com/)
+[![广联达科技股份有限公司场地赞助商标识](https://res.yihuo.de/FuvnjvnwW9NuvWsmJN1rdGPuZVod)](https://www.glodon.com/)
 
 **礼品赞助商**
 
-[![](https://res.yihuo.de/FjJ35ymZiFdwTIuMdE2glsfYVgB1)](https://www.shui.cn/)[![](https://res.yihuo.de/FraFYobIO0pqJl_w7217UpQFum5c)](https://www.shinescrum.com/)[![](https://res.yihuo.de/FsuyaNmCjo4bOaFrgBb9t6-Kqwdo)](https://www.qiniu.com/)[![](https://res.yihuo.de/FsFNJfkOm7LFuCBT8zixiU5xCAMx)](https://www.msup.com.cn/)[![](https://res.yihuo.de/FvebgbxLlqJCZMTDwBm1N2DRUm5j)](https://www.china-pub.com/)  
+[![税友集团礼品赞助商标识](https://res.yihuo.de/FjJ35ymZiFdwTIuMdE2glsfYVgB1)](https://www.shui.cn/)[![ShineScrum礼品赞助商标识](https://res.yihuo.de/FraFYobIO0pqJl_w7217UpQFum5c)](https://www.shinescrum.com/)[![七牛云存储礼品赞助商标识](https://res.yihuo.de/FsuyaNmCjo4bOaFrgBb9t6-Kqwdo)](https://www.qiniu.com/)[![MSUP产品经理大会礼品赞助商标识](https://res.yihuo.de/FsFNJfkOm7LFuCBT8zixiU5xCAMx)](https://www.msup.com.cn/)[![互动出版网礼品赞助商标识](https://res.yihuo.de/FvebgbxLlqJCZMTDwBm1N2DRUm5j)](https://www.china-pub.com/)  
 
 **图书赞助商**
 
