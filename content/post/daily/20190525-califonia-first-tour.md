@@ -11,9 +11,9 @@ tags: []
 美国来过多次，但加州一直没来过。这次借参加ScrumGathering Austin的机会，来见2个朋友，顺便拜访了一下大名鼎鼎的斯坦福大学。
 
 下面是斯坦福大学的3张照片（主楼区）：
-![](/images/stanford-university1.jpeg)
-![](/images/stanford-university2.jpeg)
-![](/images/stanford-university3.jpeg)
+![斯坦福大学主楼区全景第一张照片](/images/stanford-university1.jpeg)
+![斯坦福大学主楼区建筑第二张照片](/images/stanford-university2.jpeg)
+![斯坦福大学主楼区景观第三张照片](/images/stanford-university3.jpeg)
 
 还有一些工程区（Engineering），艺术区的照片，如果感兴趣的可以私聊我分享。
 
