@@ -19,7 +19,7 @@ tags: [自由职业者, freelancer, 自由职业技能]
 
 有的人追求稳定，有的人喜欢探索；《穷爸爸富爸爸》中有一幅图可以很好的解释职业（如下）：
 
-![](/images/ebsi-001.png)
+![EBSI四象限图：Employee职员、Business创业、Self-employed自由职业、Invest投资四种职业类型](/images/ebsi-001.png)
 
 我们每个人的职业可以分在EBSI四个象限：
 

@@ -5,7 +5,7 @@ description: "精益创业方法论：快速验证商业假设。通过MVP和快
 url: /lean-startup-reading-2013/
 ---
 
-![](https://bobjiang.github.io/images/lean_startup.png)
+![精益创业书籍封面The Lean Startup by Eric Ries](https://bobjiang.github.io/images/lean_startup.png)
 
 我最喜欢的一句话
 
