@@ -22,7 +22,7 @@ tags: [bob jiang, agile, agile coach, 敏捷教练]
 - Mentoring
 - Personal Coaching
 
-![](/images/Lyssa-Adkins-competent-coach.png)
+![Lyssa Adkins敏捷教练能力模型：展示教学、引导、辅导和专业教练四大技能维度](/images/Lyssa-Adkins-competent-coach.png)
 
 除了敏捷、精益知识的深度之外（本文不提这个方向，默认已经具备），还需要具备以上4项软技能。从我自身的经验来看，我着重于前两项技能，即 Teaching, Facilitation。
 

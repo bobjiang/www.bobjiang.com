@@ -41,7 +41,7 @@ tags: [DoD, 完成的定义, 验收标准, Acceptance Criterias]
 - 完成的定义可以**扩展**（当团队成熟之后）
 
 **完成的定义**一个例子（有下划线的内容为当前产品的完成的定义，随着团队成熟，其他未有下划线的部分，可以逐步加入到完成的定义中）：
-![](/images/DefinitionofDone.png)
+![完成的定义DoD示例图：展示团队成熟度不同阶段的DoD扩展内容](/images/DefinitionofDone.png)
 
 ### 验收标准
 

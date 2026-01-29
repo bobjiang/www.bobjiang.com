@@ -31,7 +31,7 @@ tags: [讲故事]
 
 大家还记得[西蒙西涅克的黄金圆环](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)吗？
 
-![](/images/golden-circle.jpeg)
+![黄金圆环模型图：从Why到How到What的三层圆环结构示意图](/images/golden-circle.jpeg)
 
 讲故事也遵循同样的黄金圆环原则。
 

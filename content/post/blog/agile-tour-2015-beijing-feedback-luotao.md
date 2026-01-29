@@ -26,11 +26,11 @@ date: "2015-12-04"
 
 **场地赞助商**
 
-[![](https://res.yihuo.de/FuvnjvnwW9NuvWsmJN1rdGPuZVod)](https://www.glodon.com/)
+[![广联达科技股份有限公司赞助商标识](https://res.yihuo.de/FuvnjvnwW9NuvWsmJN1rdGPuZVod)](https://www.glodon.com/)
 
 **礼品赞助商**
 
-[![](https://res.yihuo.de/FjJ35ymZiFdwTIuMdE2glsfYVgB1)](https://www.shui.cn/)[![](https://res.yihuo.de/FraFYobIO0pqJl_w7217UpQFum5c)](https://www.shinescrum.com/)[![](https://res.yihuo.de/FsuyaNmCjo4bOaFrgBb9t6-Kqwdo)](https://www.qiniu.com/)[![](https://res.yihuo.de/FsFNJfkOm7LFuCBT8zixiU5xCAMx)](https://www.msup.com.cn/)[![](https://res.yihuo.de/FvebgbxLlqJCZMTDwBm1N2DRUm5j)](https://www.china-pub.com/)  
+[![税友软件集团赞助商标识](https://res.yihuo.de/FjJ35ymZiFdwTIuMdE2glsfYVgB1)](https://www.shui.cn/)[![ShineScrum赞助商标识](https://res.yihuo.de/FraFYobIO0pqJl_w7217UpQFum5c)](https://www.shinescrum.com/)[![七牛云赞助商标识](https://res.yihuo.de/FsuyaNmCjo4bOaFrgBb9t6-Kqwdo)](https://www.qiniu.com/)[![MSUP赞助商标识](https://res.yihuo.de/FsFNJfkOm7LFuCBT8zixiU5xCAMx)](https://www.msup.com.cn/)[![互动出版网赞助商标识](https://res.yihuo.de/FvebgbxLlqJCZMTDwBm1N2DRUm5j)](https://www.china-pub.com/)  
 
 **图书赞助商**
 
