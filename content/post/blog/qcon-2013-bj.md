@@ -49,7 +49,7 @@ QCon北京2013大会 大会时间：2013年4月25-27日 大会地点：中国·�
 
 知识漏斗 vs 知识影响力
 
-![](https://bobjiang.github.io/images/knowledge_impact.jpg)
+![知识影响力漏斗图：从谜题到代码的四层知识转化过程示意图](https://bobjiang.github.io/images/knowledge_impact.jpg)
 
 - 谜题（Mystery）vs 自我学习1
 - 启发式探索（Heuristic）vs 自我理解
@@ -60,7 +60,7 @@ QCon北京2013大会 大会时间：2013年4月25-27日 大会地点：中国·�
 
 学习验证画布
 
-![](https://bobjiang.github.io/images/learning_canvas.jpg)
+![学习验证画布模型图：系统化验证学习效果的框架工具](https://bobjiang.github.io/images/learning_canvas.jpg)
 
 ## 参考资料
 
