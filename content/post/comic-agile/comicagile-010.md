@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 规模化敏捷大对决 The Scaling Agile Showdown
 
-![](/images/comicagile/comicagile-10.png)
+![敏捷漫画：LeSS与SAFe规模化敏捷框架的说唱对决Battle场景](/images/comicagile/comicagile-10.png)
 
 - 在底特律一个隐秘的地点，准备下去啦
 - 规模化敏捷大对决。 Alarmin' Craig (LeSS) vs. Don Leff (SAFe)
@@ -37,6 +37,6 @@ tags: [敏捷漫画, comic agile]
 对于今天的漫画，你有什么想说的呢？
 
 参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码：加入敏捷社区讨论](/images/wechat-agileplus-ent.png)
 
 [原文链接](https://noe-nygaard.dk/comicagile/comic/the-showdown/)

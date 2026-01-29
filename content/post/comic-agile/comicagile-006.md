@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 我们就叫它……
 
-![](/images/comicagile/comicagile-06.png)
+![敏捷漫画：团队因Scrum实践不当而随意将自己重命名为Kanban的讽刺场景](/images/comicagile/comicagile-06.png)
 
 - 恭喜你拿到 Scrum Master 认证（[什么是CSM认证](/what-is-csm/)）。团队进展怎么样？
 - 【实际上非常好。尽管我们在 sprint 中间变更了 sprint backlog ， 也没有 sprint 目标，产品负责人也不想进行 sprint 评审，以及团队憎恨回顾会……】我真的感觉我们理解了敏捷的精神。
@@ -32,6 +32,6 @@ Scrum 中的“看板”本质上并不是 Kanban ， 而只是一个白板（�
 对于今天的漫画，你有什么想说的呢？
 
 参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码：加入敏捷社区讨论](/images/wechat-agileplus-ent.png)
 
 [原文链接](https://noe-nygaard.dk/comicagile/comic/lets-call-it-kanban/)

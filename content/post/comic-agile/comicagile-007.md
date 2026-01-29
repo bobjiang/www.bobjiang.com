@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 社交隔离 social distancing
 
-![](/images/comicagile/comicagile-07.png)
+![敏捷漫画：COVID疫情社交隔离下产品负责人与开发团队距离遥远难以协作的场景](/images/comicagile/comicagile-07.png)
 
 - 明天起，我们彼此不能离得很近。必须通过社交隔离（social distancing）来阻止COV-19的传播。
 - 好像产品负责人已经尝试让曲线变平。现在接下来的几个迭代将找不到他了。
@@ -33,6 +33,6 @@ tags: [敏捷漫画, comic agile]
 对于今天的漫画，你有什么想说的呢？
 
 参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码：加入敏捷社区讨论](/images/wechat-agileplus-ent.png)
 
 [原文链接](https://noe-nygaard.dk/comicagile/comic/social-distancing/)

@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 经理与冲刺列表 Manager vs. Sprint Backlog
 
-![](/images/comicagile/comicagile-08.png)
+![敏捷漫画：经理试图强制团队在Sprint Backlog中添加度量效率任务的反模式场景](/images/comicagile/comicagile-08.png)
 
 - 我们的冲刺列表不仅包含来自产品待办列表中的用户故事，还包含缺陷、风险、和改进项。
 - 所以任何事情都可以加到冲刺列表中吗？是的，如果团队同意的话，但是……
@@ -73,6 +73,6 @@ Scrum指南指出：“Sprint列表是为Sprint选择的产品待办列表条目
 对于今天的漫画，你有什么想说的呢？
 
 参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码：加入敏捷社区讨论](/images/wechat-agileplus-ent.png)
 
 [原文链接](https://noe-nygaard.dk/comicagile/comic/the-sprint-backlog/)

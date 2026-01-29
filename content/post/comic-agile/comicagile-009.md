@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 在家上学 Homeschooling
 
-![](/images/comicagile/comicagile-09.png)
+![敏捷漫画：疫情居家办公期间父母教孩子学习验收标准和完成定义的幽默场景](/images/comicagile/comicagile-09.png)
 
 - 由于新冠疫情我们都在家，你妈妈和我都同意最好我们在家上学。
 - 我想学习造小汽车。我想知道为什么太阳那么炎热。
@@ -32,6 +32,6 @@ tags: [敏捷漫画, comic agile]
 对于今天的漫画，你有什么想说的呢？
 
 参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码：加入敏捷社区讨论](/images/wechat-agileplus-ent.png)
 
 [原文链接](https://noe-nygaard.dk/comicagile/comic/homeschooling/)
