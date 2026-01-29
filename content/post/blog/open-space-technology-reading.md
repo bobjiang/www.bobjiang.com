@@ -5,7 +5,7 @@ description: "开放空间技术读书笔记：自组织会议的引导方法。
 url: /open-space-technology-reading/
 ---
 
-![](https://img1.doubanio.com/lpic/s28047957.jpg)
+![开放空间技术书籍封面：哈里森欧文著电子工业出版社2015年版](https://img1.doubanio.com/lpic/s28047957.jpg)
 
 作者: [哈里森.欧文](https://book.douban.com/search/%E5%93%88%E9%87%8C%E6%A3%AE.%E6%AC%A7%E6%96%87) 出版社: 电子工业出版社 出版年: 2015-4-1 页数: 224 定价: CNY 48.00 装帧: 平装 ISBN: 9787121256653
 

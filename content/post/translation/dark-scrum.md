@@ -11,7 +11,7 @@ author: "Bob Jiang"
 作者：Ron Jeffries
 译者：陈旭 （微信公众号：敏捷变革中心）
 
-![](/images/dark-scrum.jpeg)
+![黑暗Scrum概念图：展示Scrum被滥用压迫开发人员的现象](/images/dark-scrum.jpeg)
 我们来谈谈“黑暗Scrum”。至少在软件方面，Scrum似乎常常压迫人们。通常，Scrum不能像它本该的那样快速、可靠、稳定地交付。结果，每个人都在受苦。大多数情况下，开发人员比任何人都要承受更多的痛苦。
 
 我最近很多想法背后的主题是：
