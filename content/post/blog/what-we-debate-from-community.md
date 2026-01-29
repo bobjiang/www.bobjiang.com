@@ -12,7 +12,7 @@ tags: []
 
 ## 面向对象类图设计
 
-![](https://upload-images.jianshu.io/upload_images/1622292-d5ebd2d8f961d502.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![面向对象类图设计：Animal和Plant接口及其实现类Dog、Cat、Tiger、Tree、Grass的UML图](https://upload-images.jianshu.io/upload_images/1622292-d5ebd2d8f961d502.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 类图设计
 

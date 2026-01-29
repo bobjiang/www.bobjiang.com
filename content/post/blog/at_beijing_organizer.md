@@ -16,9 +16,9 @@ O2O很火，你知道吗？ Agile1001的F4团队将以精益创业的思想带�
 
 谁是幕后英雄，敏捷之旅2014-北京的组织者：
 
-![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtVKxQM1RiciajhgkcCxT87qLgwhTmAFOGH1grOltzibQWMR3PL161XY65A/640?tp=webp)
+![敏捷之旅2014北京站组织者团队合影第一张](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtVKxQM1RiciajhgkcCxT87qLgwhTmAFOGH1grOltzibQWMR3PL161XY65A/640?tp=webp)
 
-![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtO1EH0XNSQ8aiaEuBicmibHiaQSg7B1YSx40VuGD7sowicpOslq5ia029ldBQ/640?tp=webp)
+![敏捷之旅2014北京站组织者团队合影第二张](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtO1EH0XNSQ8aiaEuBicmibHiaQSg7B1YSx40VuGD7sowicpOslq5ia029ldBQ/640?tp=webp)
 
 报名请戳： https://www.headin.cn/Themes/Activity/Details/?activityId=5466c604c3378ff3a4de7665
 
