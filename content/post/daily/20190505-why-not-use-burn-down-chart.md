@@ -20,7 +20,7 @@ Scrum指南尝试只保留最重要最基本的核心元素。那么燃尽图的
 
 燃尽图是一种实践，是辅助Sprint Backlog的一种实践。除了燃尽图，我们还可以用任务板等方式来实现Sprint Backlog。
 下图是一个任务板（Sprint Backlog）的样例。
-![](/images/sprintbacklog-jd.png)
+![京东Sprint Backlog任务板示例：展示待办、进行中和已完成三列状态](/images/sprintbacklog-jd.png)
 
 # 行动
 

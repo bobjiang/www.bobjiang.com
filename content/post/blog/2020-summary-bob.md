@@ -6,15 +6,15 @@ url: /bob-2020/
 tags: [2020, 总结]
 ---
 
-2020最后一天，回顾一下“折腾”的一年。我是一名爱“折腾”的Scrum培训师。
+2020最后一天，回顾一下"折腾"的一年。我是一名爱"折腾"的Scrum培训师。
 
-![](/images/bob-2020.png)
+![Bob的2020年度总结思维导图：涵盖阅读、宣传、网站、理财和敏捷等五大板块](/images/bob-2020.png)
 
 # 数字
 年度总结我们就从数字开始吧。数字是最有说服力的。
 
 - 网站 - [Bob Jiang博客](https://www.bobjiang.com/)的一年数据如下:
-![](/images/bobjiang.com.google.png)
+![Bob博客2020年Google统计数据：显示点击次数、展示次数和平均排名的趋势图](/images/bobjiang.com.google.png)
 总体来看，点击率很低。2021年可以考虑如何提高内容质量。
 
 - 微信公众号 - （敏捷家AgilePlus，粉丝数5055；HiBlock区块链社区，粉丝数7937）
@@ -81,7 +81,7 @@ tags: [2020, 总结]
 
 github今天花的时间最多，从贡献度上可以看出来。
 
-![](/images/github-contributions.png)
+![Bob的2020年GitHub代码贡献图：显示全年活跃度和提交记录](/images/github-contributions.png)
 
 # 网站
 

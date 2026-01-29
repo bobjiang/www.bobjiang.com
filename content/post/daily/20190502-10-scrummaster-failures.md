@@ -7,7 +7,7 @@ tags: [scrummaster, scrum, agile]
 author: "Bob Jiang"
 ---
 
-![](/images/SCRUMMASTER-DOES-NOT.jpg)
+![ScrumMaster角色职责图：展示ScrumMaster不应该做的十大错误行为](/images/SCRUMMASTER-DOES-NOT.jpg)
 
 # ScrumMaster的十大错误
 敏捷进入中国有18年了，现在各个行业都在说敏捷，每个ScrumMaster都在说scrum。本身这是个好事，可是出现了很多“敏捷大仙”。用各种预定义的流程、工具、文档替代了敏捷，这已经背离了敏捷的精髓，敏捷的本质。

@@ -35,7 +35,7 @@ tags: []
 
 扫描二维码，并回复“scrum”
 
-![](https://github.com/bobjiang/bobjiang/blob/master/images/xiao-bao.jpeg)
+![小宝微信二维码：扫码回复scrum或dream加入社群](https://github.com/bobjiang/bobjiang/blob/master/images/xiao-bao.jpeg)
 
 2. **我有一个梦想**
 
@@ -44,7 +44,7 @@ tags: []
 
 扫描二维码，并回复“dream” 加入微信群
 
-![](https://github.com/bobjiang/bobjiang/blob/master/images/xiao-bao.jpeg)
+![小宝微信二维码：扫码回复scrum或dream加入社群](https://github.com/bobjiang/bobjiang/blob/master/images/xiao-bao.jpeg)
 
 ## 版权声明
 
