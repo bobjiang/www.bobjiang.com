@@ -68,7 +68,7 @@ Scrum Master 以各种方式服务于组织，包括：
 
 ## Scrum Master 的关注度
 
-![](/images/scrum-master-focus-over-time.png)
+![Scrum Master关注度曲线图：团队、产品负责人、组织和开发实践四个维度随时间的变化趋势](/images/scrum-master-focus-over-time.png)
 
 上图是 Michael James 同学整理的，Scrum Master随着时间的推移关注度的变化曲线。从图中我们可以很容易看出，Scrum Master 需要关注：
 
@@ -146,7 +146,7 @@ Scrum Master 在实际工作中会遇到许多不同的挑战，在 Barry Overee
 
 ## 敏捷教练能力框架
 
-![](https://www.agilecoachinginstitute.com/wp-content/uploads/2013/03/Agile-Coach-Competency-Framework-for-website.0011.jpg)
+![敏捷教练能力框架图：八大能力维度包括教学、引导、辅导、专业教练、转型精通等](https://www.agilecoachinginstitute.com/wp-content/uploads/2013/03/Agile-Coach-Competency-Framework-for-website.0011.jpg)
 
 ### 敏捷和精益的实践者 Agile-Lean Practitioner
 
