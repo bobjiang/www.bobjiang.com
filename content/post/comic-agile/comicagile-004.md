@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 燃尽图
 
-![](/images/comicagile/comicagile-04.png)
+![敏捷漫画：将公司股价暴跌图误认为完美燃尽图的讽刺场景](/images/comicagile/comicagile-04.png)
 
 - Wow，我从来没看见过如此完美的燃尽图。你们确实设法与团队保持了一致。
 - 这不是我们的燃尽图！这是我们公司的股价！（由于COVID疫情的影响）
@@ -28,6 +28,6 @@ tags: [敏捷漫画, comic agile]
 
 
 参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码：加入敏捷社区讨论](/images/wechat-agileplus-ent.png)
 
 [原文链接](https://noe-nygaard.dk/comicagile/comic/burned-down/)

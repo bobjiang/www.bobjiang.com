@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 分布式囤积
 
-![](/images/comicagile/comicagile-02.png)
+![敏捷漫画：COVID疫情下Scrum团队远程Sprint Planning会议中的分布式囤积场景](/images/comicagile/comicagile-02.png)
 
 - 大家都知道，由于新型冠状病毒肺炎（COVID-19）的影响，在接下来的几周内公司的执行管理层决定禁止见面的会议。
 - 因此很高兴大家都能在家参加我们的计划会（Sprint Planning）。我们已经进行了很好的梳理会议，所以计划会将非常高效……我们准备好开始了吗？
@@ -25,6 +25,6 @@ tags: [敏捷漫画, comic agile]
 所以针对线上的形式，你准备好了吗？
 
 参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码：加入敏捷社区讨论](/images/wechat-agileplus-ent.png)
 
 [原文链接](https://noe-nygaard.dk/comicagile/comic/distributed-hoarding/)

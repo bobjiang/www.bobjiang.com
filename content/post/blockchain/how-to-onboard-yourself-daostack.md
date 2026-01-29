@@ -37,10 +37,10 @@ tags: [daostack, dao]
 3.	twitter链接复制到google doc里面，交叉引用
 4.	在浏览器里打开[Genesis DAO](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830) （[Alchemy](https://alchemy.daostack.io/)是DAOstack的门户）。会有很多DAO组织加入，Genesis DAO是这个点上的最相关的实验。
 5.	假设你已经安装好了[Metamask](https://metamask.io/)（译者注：需要科学上网），并且你的账号里有以太币，那么久可以开始在Alchemy上提交你的提议
-6.	在右上角点击“+ New Proposal”打开一个新的提议
+6.	在右上角点击"+ New Proposal"打开一个新的提议
 7.	按照如下提示填写提议：
 
-![](/images/daostack.png)
+![DAOstack Alchemy平台提交声望请求提议界面截图](/images/daostack.png)
 
 - 声望请求：你的名字
 - 请求的简短介绍

@@ -17,7 +17,7 @@ tags: [SAFe, Scrum, scrum guide, product owner]
 源自《Scrum指南》
 
 在[SAFe描述](https://www.scaledagileframework.com/team-backlog)中，团队待办事项类似于Scrum中的产品待办事项。团队待办列表的工作部分由计划待办列表（Program Backlog）工作填充，而计划待办列表工作是由敏捷团队外部的独立角色 - 产品经理来管理。实际上，在这种设置中，**产品负责人并不是团队待办事项列表的唯一决策者。**
-![](/images/product-owner1.png)
+![SAFe产品负责人受产品经理和计划待办列表约束的架构图](/images/product-owner1.png)
 
 而且，即使在规模化的情况下，Scrum也会规定：
 

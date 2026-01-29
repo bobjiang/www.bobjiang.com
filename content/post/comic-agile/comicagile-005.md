@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 为什么要敏捷？
 
-![](/images/comicagile/comicagile-05.png)
+![敏捷漫画：管理层期望通过敏捷在预算内时间内范围内交付项目的错误认知](/images/comicagile/comicagile-05.png)
 
 - 我有一些好消息宣布。现在我们终于变得敏捷并踏上敏捷之旅啦！
 - 我们已经说了好几年了！但是改变了什么呢？
@@ -31,6 +31,6 @@ tags: [敏捷漫画, comic agile]
 对于今天的漫画，你有什么想说的呢？
 
 参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码：加入敏捷社区讨论](/images/wechat-agileplus-ent.png)
 
 [原文链接](https://noe-nygaard.dk/comicagile/comic/the-why-of-going-agile/)

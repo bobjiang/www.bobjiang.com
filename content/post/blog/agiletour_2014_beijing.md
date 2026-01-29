@@ -188,7 +188,7 @@ Agile Tour（以下称为敏捷之旅）是一个国际非盈利性组织，于
 
 新浪微博：[@敏捷之旅北京](https://weibo.com/agiletourbj) 微信公众号：敏捷驴友汇 （agiletourchina） 敏捷之旅网站：[https://www.agiletour.cn/](https://www.agiletour.cn/) 活动微信群，大家扫码入群：
 
-![](https://images.cnitblog.com/blog/81288/201412/121750280568790.jpg)
+![敏捷之旅2014北京站活动微信群二维码，扫码入群参与讨论](https://images.cnitblog.com/blog/81288/201412/121750280568790.jpg)
 
 交通详情：
 
@@ -198,7 +198,7 @@ Agile Tour（以下称为敏捷之旅）是一个国际非盈利性组织，于
 
 ### **金牌赞助商**
 
-![](https://www.headin.cn/Upload/SNS/Activity/Description/cb5bb573-5570-451f-aeaf-d96fcb31a88b.png)Unlimax成立于2008年，是Atlassian白金级和企业级专家合作伙伴。自成立至今，Unlimax致力于通过Atlassian工具和顾问咨询服务，帮助客户实践卓有成效的Scrum敏捷项目管理和Kanban精益项目管理。
+![Unlimax优利麦斯金牌赞助商Logo，Atlassian白金级合作伙伴](https://www.headin.cn/Upload/SNS/Activity/Description/cb5bb573-5570-451f-aeaf-d96fcb31a88b.png)Unlimax成立于2008年，是Atlassian白金级和企业级专家合作伙伴。自成立至今，Unlimax致力于通过Atlassian工具和顾问咨询服务，帮助客户实践卓有成效的Scrum敏捷项目管理和Kanban精益项目管理。
 
 ### 场地赞助商
 
@@ -206,4 +206,4 @@ Agile Tour（以下称为敏捷之旅）是一个国际非盈利性组织，于
 
 ### 图书礼品赞助商
 
-###  ![](https://www.headin.cn/Upload/SNS/Activity/Description/8acf3d8d-039b-4a4e-a2c9-b3815ffd81b2.png)![](https://www.headin.cn/Upload/SNS/Activity/Description/92c59ab4-7f5e-4c3d-b68b-a181ddb8091f.png)![](https://www.headin.cn/Upload/SNS/Activity/Description/fa074d99-8bb4-4582-957d-3ccdfd8748ec.png)![](https://www.headin.cn/Upload/SNS/Activity/Description/a85107df-eb3a-4ed2-a7b0-eeacc4024244.png)![](https://www.headin.cn/Upload/SNS/Activity/Description/6114530a-50a8-467e-91c3-93b010529b5b.jpg)
+###  ![图书赞助商Logo集合：电子工业出版社等多家出版社提供精美专业图书奖品](https://www.headin.cn/Upload/SNS/Activity/Description/8acf3d8d-039b-4a4e-a2c9-b3815ffd81b2.png)![图书赞助商Logo](https://www.headin.cn/Upload/SNS/Activity/Description/92c59ab4-7f5e-4c3d-b68b-a181ddb8091f.png)![图书赞助商Logo](https://www.headin.cn/Upload/SNS/Activity/Description/fa074d99-8bb4-4582-957d-3ccdfd8748ec.png)![图书赞助商Logo](https://www.headin.cn/Upload/SNS/Activity/Description/a85107df-eb3a-4ed2-a7b0-eeacc4024244.png)![图书赞助商Logo](https://www.headin.cn/Upload/SNS/Activity/Description/6114530a-50a8-467e-91c3-93b010529b5b.jpg)

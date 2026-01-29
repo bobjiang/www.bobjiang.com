@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 敏捷滑板车……
 
-![](/images/comicagile/comicagile-03.jpg)
+![敏捷漫画：MVP滑板隐喻的误用，堆积废弃的滑板车等产品原型](/images/comicagile/comicagile-03.jpg)
 
 - 所以，请只做那些最少的必需的工作以满足验收标准（Acceptance Criteria）。没有黄金盘子，因为预算还是非常紧张。记住MVP方法就是有关于思维方式，因此先从滑板开始，从客户那里获取一些反馈！
 - 嗯，我们做这些东西干什么？
@@ -27,6 +27,6 @@ MVP是一个非常流行的概念，尤其在总理提倡“双创”以来。�
 
 
 参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码：加入敏捷社区讨论](/images/wechat-agileplus-ent.png)
 
 [原文链接](https://noe-nygaard.dk/comicagile/comic/skateboards/)

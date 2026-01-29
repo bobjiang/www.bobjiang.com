@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 项目集白板 The Program Board
 
-![](/images/comicagile/comicagile-01.png)
+![敏捷漫画：项目集白板Program Board上团队依赖关系错综复杂的讽刺场景](/images/comicagile/comicagile-01.png)
 
 - PI Planning太棒了！所有的团队和干系人都来了，并且我们可以在项目集白板上映射团队之间的依赖关系。
 - 计划进行的怎么样？
@@ -27,6 +27,6 @@ tags: [敏捷漫画, comic agile]
 敏捷转型第二步，就是反思并持续改进。可视化之后如果继续无视，那么可视化的目的就完全丢弃了。
 
 参与讨论，请扫码加入"敏捷家"微信群
-![](/images/wechat-agileplus-ent.png)
+![敏捷家微信群二维码：加入敏捷社区讨论](/images/wechat-agileplus-ent.png)
 
 [原文链接](https://noe-nygaard.dk/comicagile/comic/the-program-board/)

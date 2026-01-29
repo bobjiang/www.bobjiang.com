@@ -55,7 +55,7 @@ tags: [daostack, dao, reputation]
 
 使用信誉的治理解决方案，例如DAOstack开发的[全息共识框架](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)，试图具有足够的可扩展性，可用于频繁的决策，同时也可用于非客观的决策。 这是通过允许小组声誉持有者做出由当地多数决定的决策并通过将与全球多数不一致的任何决定变为经济套利来保护系统来实现的。 此外，由于购买投票权比基于代币的投票困难得多，因此即使信誉持有者的参与率较低，基于声誉的投票也应该抵制恶意投票购买。
 
-![](https://cdn-images-1.medium.com/max/2400/0*1d7gN68onJg24Min)
+![DAOstack全息共识框架示意图：展示声誉系统与代币投票的区别](https://cdn-images-1.medium.com/max/2400/0*1d7gN68onJg24Min)
 
 还有其他值得检查和研究的治理选项，例如使用长期锁定机制的基于代币的投票。 也就是说，通过将代币转换为锁定合同以换取投票权，可以使代币不可转让。 还有更激进的解决方案，例如[未来futarchy](https://en.wikipedia.org/wiki/Futarchy) ，已被简要[讨论](https://daotalk.org/t/joint-ama-martin-koppelmann-matan-field-4-12-2018-at-3pm-cet/324/9?u=pat)为未来的DAOstack实施。 我们邀请研究人员为[DAOtalk研究论坛](https://daotalk.org/c/research)贡献自己的想法。
 

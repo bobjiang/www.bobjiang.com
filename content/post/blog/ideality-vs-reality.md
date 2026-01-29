@@ -34,7 +34,7 @@ url: /ideality-vs-reality/
 
 而我们的生活就是在理想和现实之间不断的进行取舍。最终就如图1所示，停留在理想和现实之间的某个地方。
 
-![](https://upload-images.jianshu.io/upload_images/1622292-1ec7a9147f31791f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![理想与现实平衡示意图：生活工作停留在理想和现实之间某处](https://upload-images.jianshu.io/upload_images/1622292-1ec7a9147f31791f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 图1 生活工作的现状
 
@@ -42,7 +42,7 @@ url: /ideality-vs-reality/
 
 既然我们认为理想是遥远而触不可及的、长期目标，那么如果我们一直盯着理想而完全忽视现实的话。如图2所示：
 
-![](https://upload-images.jianshu.io/upload_images/1622292-fc00334cc9b3edf0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![完美主义者状态图：只看理想忽视现实错过市场机会](https://upload-images.jianshu.io/upload_images/1622292-fc00334cc9b3edf0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 图2 只看理想而忽视现实
 
@@ -52,7 +52,7 @@ url: /ideality-vs-reality/
 
 现实是具体存在的、短期利益。如图3所示：
 
-![](https://upload-images.jianshu.io/upload_images/1622292-25dd11418afb78b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![现实主义者状态图：注重现实忽视理想缺乏长期产品愿景](https://upload-images.jianshu.io/upload_images/1622292-25dd11418afb78b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 图3 注重现实而忽视理想
 

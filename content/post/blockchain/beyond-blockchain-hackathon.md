@@ -20,7 +20,7 @@ tags: [hackathon, blockchain]
 
 在这个黑客马拉松中，您将有机会与开源维护者一起工作，并以建立区块链的未来而闻名。这包括ConsenSys Labs，您将获得媒体、医疗保健和去中心化的财务方面的奖项。
 
-![](https://gitcoin.co/blog/wp-content/uploads/2019/06/image.png)
+![Beyond Blockchain黑客马拉松活动海报：Gitcoin与ConsenSys Labs联合举办](https://gitcoin.co/blog/wp-content/uploads/2019/06/image.png)
 
 ## 黑客马拉松细节
 您可能想知道，这个黑客马拉松和其他许多黑客马拉松之间的区别是什么？简而言之，我们认为开源社区的开发人员在很大程度上会脱颖而出。Gitcoin生态系统中有20,000名开发人员完成了4000个项目。就在上个月，[600多名黑客在短短两周内参与了80次提交](https://github.com/gitcoinco/skunkworks/blob/master/etherealhackathon2019.md)。如果您正在寻找一个团队来开展以太坊未来的项目，那么现在是时候放手一搏了。
@@ -36,6 +36,6 @@ tags: [hackathon, blockchain]
 
 我们很高兴与您一起开发开源项目。 🌳
 
-![](https://gitcoin.co/blog/wp-content/uploads/2019/06/image-1-1024x171.png)
+![Gitcoin Beyond Blockchain黑客马拉松赞助商标识横幅](https://gitcoin.co/blog/wp-content/uploads/2019/06/image-1-1024x171.png)
 
 [原文链接](https://gitcoin.co/blog/beyond-blockchain-hackathon/)
