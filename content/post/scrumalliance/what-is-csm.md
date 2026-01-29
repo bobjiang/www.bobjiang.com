@@ -7,7 +7,7 @@ tags: [csm, scrum, scrum联盟]
 ---
 
 # 什么是CSM（Certified Scrum Master）
-![](/wp-content/uploads/2014/01/SCR20146-Logos-Final-CSM-300x104.jpg)
+![Scrum Alliance官方CSM认证徽标标识图](/wp-content/uploads/2014/01/SCR20146-Logos-Final-CSM-300x104.jpg)
 
 CSM，即Certified ScrumMaster，是[Scrum联盟](https://scrumalliance.org)发起的Scrum认证。CSM可以帮助团队正确使用Scrum，从而提高项目整体成功的可能性。CSMs深刻理解Scrum的价值观、实践以及Scrum框架。CSM是“服务型领导”，帮助Scrum团队一起紧密合作。CSM也会保护团队免受内部和外部的分心。
 

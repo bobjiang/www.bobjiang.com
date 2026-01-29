@@ -8,7 +8,7 @@ tags: [敏捷漫画, comic agile]
 
 # 团队的问题
 
-![](/images/comicagile/comicagile-11.png)
+![敏捷漫画：远程办公被错误地归咎为团队协作问题的借口场景](/images/comicagile/comicagile-11.png)
 
 - 团队进展得怎么样？
 - 实际上并不太好；团队遇到了不少问题。比如……

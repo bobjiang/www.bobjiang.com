@@ -9,25 +9,25 @@ tags: [scrumallinace, trainer retreat]
 
 # ScrumAlliance Trainer Retreat Update
 This is my first trainer retreat, and I am very glad to see many new friends and old friends here.
-![](/images/trainer-retreat1.jpeg)
-![](/images/trainer-retreat2.jpeg)
+![Scrum Alliance培训师静修会现场照片第一张：全球CST围坐讨论](/images/trainer-retreat1.jpeg)
+![Scrum Alliance培训师静修会现场照片第二张：参会CST合影](/images/trainer-retreat2.jpeg)
 
 Julie is the facilitator today, and I appreciated her professional facilitation, we are on time to complete the open space.
 
 In the beginning, we reviewed the community purpose as following:
-![](/images/scrumalliance-purpose.jpeg)
+![Scrum Alliance社区目的愿景图：培训师社区的价值观和使命](/images/scrumalliance-purpose.jpeg)
 
 And then Howard shared the Scrum Alliance new vision as 4C:
-![](/images/scrumalliance-values.jpeg)
+![Scrum Alliance新愿景4C核心价值观：Community社区、Coaching教练、Certification认证、Continuous Learning持续学习](/images/scrumalliance-values.jpeg)
 
 and the new community teams from Scrum Alliance:
-![](/images/community-teams.jpeg)
+![Scrum Alliance新组织结构中的社区团队架构图](/images/community-teams.jpeg)
 
 I talked with several Scrum Alliance staff, they are excited with new organizational structure, and ready to face the new challenges. 
 
 By the end of beginning part, Julie went through the Scrum Alliance community journey with all attendees together, which inspired all of us.
 
-![](/images/scrumalliance-journey.jpeg)
+![Scrum Alliance社区发展历程图：从成立到现在的演变路径](/images/scrumalliance-journey.jpeg)
 
 In China, there is a saying:
 > Those who are being old are easy to recall the history. 

@@ -23,7 +23,7 @@ tags: [scrum, csm, 敏捷认证]
 恭喜你，获得了CSM认证。证书有效期是2年，到期前[Scrum联盟](https://scrumalliance.org)会发送邮件提醒。为了维护证书，你需要在2年内完成20个[(SEUs)](/scrum-education-unit-seu/)，以及缴费100美元。[获得SEU的方式点击这里查看](/scrum-education-unit-seu/)。
 
 要获得更高级的证书，请查看下图：
-![](/images/scrumalliance-certification.png)
+![Scrum Alliance认证体系路径图：从CSM到CSPO再到高级认证的完整升级路径](/images/scrumalliance-certification.png)
 # 行动
 
 ## 每日问题

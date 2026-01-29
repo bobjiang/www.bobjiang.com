@@ -8,7 +8,7 @@ tags: [scrumalliance, scrum]
 ---
 
 # 探秘Scrum机构 - Scrum联盟和Scrum.org对比
-![](/images/compare-scrum.png)
+![Scrum Alliance与Scrum.org两大Scrum认证机构对比表格图](/images/compare-scrum.png)
 ## 简介
 [Scrum联盟](https://scrumalliance.org)是一个非盈利机构，旨在“改变工作的世界”。
 [Scrum.org](https://www.scrum.org/)是一个盈利机构，旨在“改善软件交付行业”。
