@@ -42,13 +42,13 @@ author: "Bob Jiang"
 1. 离开营地时，总是做到比发现时更干净。如果地上脏乱，不管是谁弄脏的，都清理干净。
 2. 每次在一块代码区工作，离开时总是要把代码整理得比你动手时更干净，而不是弄得更乱。
 
-### burndown chart 燃尽图 
+### burndown chart 燃尽图
 一种曲线图，横轴是时间（如迭代内的每天），纵轴上是迭代内剩余工作量。随着时间的推移，剩余的工作量越来越少，图表上的一般趋势是工作量燃烧到0.通过计算趋势线，可以在燃尽图上显示对应的产出，从而了解工作什么时候可以完成。如下图：
-![](/images/burndown-chart.png)
+![敏捷燃尽图示例：横轴为时间纵轴为剩余工作量的趋势图](/images/burndown-chart.png)
 
-### burnup chart 燃烧图 
+### burnup chart 燃烧图
 和燃尽图相对。一种曲线图，用来显示逼近目标的工作进度，纵轴上标有目标值。随着时间推移，工作逐渐完成，进度线条逐步上升并接近于目标线。在燃烧图上，我们可以通过计算趋势线显示对应的产出，从而了解什么时候可能完成。如下图：
-![](/images/burnup-chart.gif)
+![敏捷燃烧图示例：横轴为时间纵轴为完成工作量逼近目标线的趋势图](/images/burnup-chart.gif)
 
 ## C
 ### cadence 节奏 
@@ -129,6 +129,6 @@ author: "Bob Jiang"
 
 ## 赞助
 有了你的赞助，Bob会继续更新本页面，以及[敏捷问题集](/agile-faq-cn/)
-以太赞助：0x521aacB43d89E1b8FFD64d9eF76B0a1074dEdaF8  
-![](/images/wechat-payment.png)  
-![](/images/alipay-payment.png)
+以太赞助：0x521aacB43d89E1b8FFD64d9eF76B0a1074dEdaF8
+![Bob Jiang微信赞助收款二维码](/images/wechat-payment.png)
+![Bob Jiang支付宝赞助收款二维码](/images/alipay-payment.png)
