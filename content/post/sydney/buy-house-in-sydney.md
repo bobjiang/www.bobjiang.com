@@ -14,7 +14,7 @@ tags: [sydney, house, property, 悉尼置业, 悉尼买房]
 
 这篇总结主要分为4个部分，如下图：
 
-![](/images/buy-sydney-house.png)
+![悉尼买房经验总结流程图：展示买房之前、买房流程、签合同后和常用工具四个主要部分](/images/buy-sydney-house.png)
 
 - 买房之前 - 从有了买房的想法，到开始看房之前。
 - 买房流程 - 看到喜欢的房子，到签合同

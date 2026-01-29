@@ -18,13 +18,13 @@ tags: [sitemap, google]
 
 需要网站的DNS域名增加一条TXT记录，用来确认你是网站的站长。
 
-确认后，检查网站链接的有效性。如下图，点击“网址检查”  
-![](/_image/link-inspection.png)
+确认后，检查网站链接的有效性。如下图，点击"网址检查"
+![Google搜索控制台网址检查功能界面截图](/_image/link-inspection.png)
 
 输入你网站中的任何网址，如可以输入 `bobjiang.com` (BoB的博客)
 
-检查报告如下：  
-![](/_image/site-report.png)
+检查报告如下：
+![Google网站检查报告显示未收录状态的截图](/_image/site-report.png)
 
 我的博客还未完全恢复，显示Google仍未收录。
 
@@ -53,8 +53,8 @@ tags: [sitemap, google]
 [XML sitemap generator](https://xmlsitemapgenerator.org/)
 
 ### 生成网站地图
-1. 填写对应的网站信息，如图：  
-![](/_image/generate-sitemap.png)
+1. 填写对应的网站信息，如图：
+![XML Sitemap在线生成器填写网站信息界面截图](/_image/generate-sitemap.png)
 
 2. 点击按钮 `Generate sitemap`
 3. 生成后，点击下载 sitemap XML file
@@ -63,8 +63,8 @@ tags: [sitemap, google]
 > https://bobjiang.com/sitemap.xml
 
 5. 返回 google search console
-6. 点击左侧导航栏的 `索引 - 站点地图`，结果如下图：  
-![](/_image/sitemap-google.png)
+6. 点击左侧导航栏的 `索引 - 站点地图`，结果如下图：
+![Google搜索控制台站点地图提交界面显示2015年12月9日最后收录时间](/_image/sitemap-google.png)
 
 上图结果显示我的网站上次被谷歌收录的时间是2015年12月9日。
 

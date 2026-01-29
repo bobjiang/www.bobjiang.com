@@ -26,7 +26,7 @@ Scrum的重要基础是特性团队（特性团队有两个阶段，后续可以
 
 比如Spotify的例子，很多人都在研究，如下图：
 
-![](https://blog.crisp.se/wp-content/uploads/2012/11/ScalingAgileAtSpotify-Cover-1-768x639.png)
+![Spotify规模化敏捷模型图：展示Squad特性团队、Chapter技能社区、Tribe部落和Guild联盟的组织结构](https://blog.crisp.se/wp-content/uploads/2012/11/ScalingAgileAtSpotify-Cover-1-768x639.png)
 
 这个图中的Squad就是特性团队，而Chapter是类似于职能、技能。
 
@@ -42,7 +42,7 @@ Scrum的重要基础是特性团队（特性团队有两个阶段，后续可以
 
 如下图是另外一个呈现的形式：
 
-![](https://sites.google.com/a/scrumplop.org/published-patterns/_/rsrc/1555448725771/product-organization-pattern-language/birds-of-a-feather/BirdsOfAFeather_Post.jpg)
+![物以类聚模式图：Scrum组织模式中特性团队与技能社区的关系示意图](https://sites.google.com/a/scrumplop.org/published-patterns/_/rsrc/1555448725771/product-organization-pattern-language/birds-of-a-feather/BirdsOfAFeather_Post.jpg)
 
 [原文链接](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)
 
