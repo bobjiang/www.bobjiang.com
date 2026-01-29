@@ -11,13 +11,13 @@ tags: [scrum master, salary]
 
 先上图，看2019年CSM薪水调查结果
 ### Salary.com
-![](/images/csm-salary-1.png)
+![Salary.com提供的2019年CSM薪资调查数据图表：Certified ScrumMaster平均年薪统计](/images/csm-salary-1.png)
 
 ### PayScale.com
-![](/images/csm-salary-2.png)
+![PayScale.com提供的2019年CSM薪资调查数据图表：Certified ScrumMaster薪酬水平分析](/images/csm-salary-2.png)
 
 ### ziprecruiter.com 
-![](/images/csm-salary-3.png)
+![ZipRecruiter.com提供的2019年CSM薪资调查数据图表：ScrumMaster职位年收入趋势](/images/csm-salary-3.png)
 
 ## 总结
 
