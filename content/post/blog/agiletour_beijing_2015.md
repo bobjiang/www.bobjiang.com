@@ -44,7 +44,7 @@ coverImage: "agiletour2015.png"
 
 4.第一条必选，第二条第三条必选一条
 
-![](https://mmbiz.qlogo.cn/mmbiz/CUiaHgo768tpWIBoeXehgWzcKE248yAYtq9PJo2KZApsMiaSv8mZg280wyuNB73obtPNzBKCtnhKIlibLJmt2CnYA/0?wx_fmt=jpeg)
+![敏捷之旅北京2015活动微信群二维码或标识](https://mmbiz.qlogo.cn/mmbiz/CUiaHgo768tpWIBoeXehgWzcKE248yAYtq9PJo2KZApsMiaSv8mZg280wyuNB73obtPNzBKCtnhKIlibLJmt2CnYA/0?wx_fmt=jpeg)
 
 **当前进度**
 

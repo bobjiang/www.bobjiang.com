@@ -20,6 +20,6 @@ _wow!!_ 回顾会议的结果令人难以置信：
 
 团队冒出一个下次回顾会议的创新建议。
 
-**_赛车回顾会议Race Car Retrospective **_![](https://www.scrumalliance.org/getattachment/33aff445-c961-4cea-9215-f28dcfdf18e5/unnamed1.jpg.aspx)_**_** 
+**_赛车回顾会议Race Car Retrospective **_![赛车回顾会议示意图：用赛车比喻展示团队回顾的创意形式](https://www.scrumalliance.org/getattachment/33aff445-c961-4cea-9215-f28dcfdf18e5/unnamed1.jpg.aspx)_**_** 
 
 图像只是一种表示方法，不包含任何实际数据。建议大家研究试验不同的回顾会议方法，并分享你的发现。 原文链接：[https://www.scrumalliance.org/community/articles/2013/december/retrospective-the-fun-way](https://www.scrumalliance.org/community/articles/2013/december/retrospective-the-fun-way)

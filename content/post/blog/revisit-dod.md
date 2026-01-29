@@ -39,7 +39,7 @@ tags: [完成的定义, 验收标准]
 
 # 总结
 
-![](/images/dod-ac.jpeg)
+![完成的定义DoD与验收标准AC对比图：展示两者的异同点关系](/images/dod-ac.jpeg)
 
 ## 完成的定义和验收标准相同点
 

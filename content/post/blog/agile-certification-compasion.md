@@ -44,7 +44,7 @@ CSM是最早的一个敏捷认证（至少我的记忆如此，如果有不同�
 Scrum联盟的认证体系比较完善，大家可以参考Scrum联盟网站。其中CSM是专门面向Scrum Master的认证，可以参加培训的人员有：Scrum初学者、管理人员、传统项目经理、团队成员等。
 通过Scrum联盟的网站看到，它的认证体系从入门（CSM，CSPO，CSD）到进阶（CSP），到导师级（CST，CEC，CTC）都有很详细的介绍，是一套完整的体系设计。
 注：新版的认证体系又做了新的调整，如下图：
-![](/images/scrumalliance-certification.png)
+![Scrum Alliance敏捷认证体系图：从入门级到导师级的完整认证路径](/ images/scrumalliance-certification.png)
 
 ##  PMI-ACP（Agile Certified Practitioner）
 ### 创建信息

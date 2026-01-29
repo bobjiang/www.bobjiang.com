@@ -28,7 +28,7 @@ date: "2017-04-09"
 
 接着Julia介绍了一个okness模型，如下图
 
-![](https://upload-images.jianshu.io/upload_images/1622292-06bdc38ca94d49cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Okness模型三角图：我、他人、环境三个维度的接纳状态模型](https://upload-images.jianshu.io/upload_images/1622292-06bdc38ca94d49cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 Okness模型
 
